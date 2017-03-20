@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Wishing for Data, Working for Data: a manifesto for an Open Pompeii | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Comments Feed" href="http://www.openpompei.it/en/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Wishing for Data, Working for Data: a manifesto for an Open Pompeii Comments Feed" href="http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='50' href='http://www.openpompei.it/2015/05/15/50-2/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=1739' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-1739 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/en/">Home</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1739" class="post-1739 post type-post status-publish format-standard hentry category-in-viaggio category-open-archaeology tag-eric-poehler tag-mapping-project tag-open-archaeological-data tag-open-data-en tag-open-pompeii tag-pompeii-en tag-scriptorivm-en">
+				<header class="entry-header">
+									<h1 class="entry-title">Wishing for Data, Working for Data: a manifesto for an Open Pompeii</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/#respond" title="Comment on Wishing for Data, Working for Data: a manifesto for an Open Pompeii"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/07/OpenEntrance.jpg"><img class="aligncenter  wp-image-1747" src="http://www.openpompei.it/wp-content/uploads/2015/07/OpenEntrance.jpg" alt="OpenEntrance" width="512" height="394" /></a><a class="pjax" href="http://umass.academia.edu/EricPoehler"><br />
+</a></p>
+<h3 style="text-align: justify;"><span style="color: #000000;">Post by <a style="color: #000000;" href="http://digitalhumanities.umass.edu/people/eric-poehler" target="_blank">Eric Poehler</a></span></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;">An Open Pompeii, for me, has been a dream since 1998, since the first time I ever thought about the archaeology of the ancient city. That dream is recalled almost every day: each time I need to find an obscure book, make a map, access an archive, or visit a building on the site. The dream became a calling in 2007 when I discovered that a colleague and I had each, unaware of the other, been spending hundreds of hours digitizing the landscape of Pompeii to run our analyses. How much better might those hundreds of hours been spent in the context of our research? How much more might we understand? That experience was the origin of <a href="http://digitalhumanities.umass.edu/pbmp/">Pompeii Bibliography and Mapping Project</a> and the beginning of a recognition for me that we are losing information and losing opportunity by failing to cooperate and failing to organize. I was therefore elated to learn of <a href="http://www.openpompei.it/en/">OpenPompei</a> and the <a href="http://www.openpompei.it/scriptorivm/">SCRIPTORIVM</a> (and its impressive <a href="https://youtu.be/8Ss-X3245PM">video announcement</a>), not only because it represented a step towards wider collaboration, but also because it came from within the Italian community. I&#8217;d long wished for a like-minded Italian community, and now it seems that wish is coming true. Thus, it seems appropriate to share a few other wishes for Pompeii. What follows is a &#8216;wish list&#8217; of projects that I&#8217;ve been interested to see started, pushed forward, and in some cases to be finished.</p>
+<p style="text-align: justify;"><em>&#8220;Spatializing the city&#8221;: Attaching data to places and architectures.</em></p>
+<p style="text-align: justify;">The important explosions of research on Pompeii over the last 250 years on Pompeii have, in one way, been exactly that: intense fragmentations of a unified urban environment into categories of study (archaeology, art history, classics, epigraphy, history, etc&#8230;.), the instruments of scholarly communication (articles, lithographs, manuscripts, and now 3D models), and in many cases literal separation from the city (into museums, private collections, and the pockets of visitors). It is time to bring the data back home. There are innumerable opportunities to put the representations of frescoes, mosaics, inscriptions, and objects back into their natural spatial environments and we are fortunate to have at our disposal remarkable works of aggregation to accomplish this: <a href="https://www.zotero.org/pbmp/items/itemKey/AU548MWR"><em>Pompei. Pitture e Mosaici</em></a>, <a href="http://cil.bbaw.de/cil_en/index_en.html"><em>Corpus Inscriptionum Latinarum</em></a>, <a href="http://www.arborsapientiae.com/pagina/nova_bibliotheca_pompeiana_project.html"><em>Nova Bibliotheca Pompeiana</em></a>, <a href="http://www.worldcat.org/oclc/471012917">Studio sulle provenienze degli oggetti rinvenuti negli scavi borbonici del Regno di Napoli</a>, <a href="http://www.pompeiiinpictures.com/">Pompeii in Pictures</a>, <a href="http://pompei.sns.it/">Fortuna Visiva</a>, among others. Yet we seem to find ourselves in the paradox to stand at once on the shoulders of giants and in their shadows. We have thus far been unable or unwilling to take on both the genius and the failings of these scholars and projects in order to do something more. Happily, this is beginning to change.</p>
+<p style="text-align: justify;"><span id="more-1739"></span></p>
+<p style="text-align: justify;">The <a href="https://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CBwQFjAA&amp;url=http%3A%2F%2Fancientgraffiti.wlu.edu%2F&amp;ei=W0iiVcGWIYH6UMi-gNAN&amp;usg=AFQjCNFzAPEjhnOIRWOu80k9Pq8hlj9u5w&amp;bvm=bv.97653015,d.d24">Ancient Graffiti Project</a>, lead by <a href="https://wlu.academia.edu/RebeccaBenefiel">Rebecca Benefiel</a> and <a href="https://wlu.academia.edu/SaraSprenkle">Sara Sprenkle</a>, has accepted the challenge to put the epigraphic record back in order, allowing users to search for graffiti by content, class, and location. Imagine (as at least <a href="http://www.helsinki.fi/hum/kla/castren/">Paavo Castren</a> and <a href="http://www.kcl.ac.uk/artshums/depts/classics/people/academic/mouritsen/index.aspx">Henrik Mouritsen</a> must have done) what questions we might ask about the epigraphic landscape when the physical landscape is a companion rather than an obstacle. I wish this project all the greatest success.</p>
+<p style="text-align: justify;">We need to do this same work for the frescoes and mosaics. Recently <a href="https://independent.academia.edu/DomenicoEsposito">Domenico Esposito</a> has shown the great value of not only studying a specific wall painting style, but also considering its spread across the city. Surely geographically locating all the information about wall and floor decorations contained in Pompei: <a href="https://www.zotero.org/pbmp/items/itemKey/AU548MWR"><em>Pompei: Pitture e Mosaici</em></a> (PPM) – styles, subject matter, materials, etc. – will create a whole new universe of questions for art historians and others. For those who are interested in this topic, you’ll be happy to know that through the exceptional efforts of some great students (esp. Tess Brickley, Sarah Chen, and Ethan Liu) we have scanned the entire PPM and created a beta CAD file of almost every room in every building in Pompeii, each individually named with the room label given in the PPM. The CAD file is <a href="https://drive.google.com/open?id=0B7dBYnH1y6zMTkhWM1FMVE9fMFU">available here</a>, but for copyright reasons, sections of the PPM scans are <a href="mailto:Pompeiana@gmail.com">available by request</a>.</p>
+<p style="text-align: justify;">Similarly, recent books and articles by <a href="http://www.worldcat.org/oclc/853505300">Miko Flohr</a>, <a href="http://www.worldcat.org/oclc/733222938">Steven Ellis</a>, <a href="http://www.worldcat.org/oclc/156956939">Pia Kastenmeier</a>, and <a href="http://www.worldcat.org/oclc/719413261">Nicholas Monteix</a> (among others) have all brought the economic questions of production, consumption, and retail activities down to the level to the individual room. These questions too are ready to be explored further and expanded upon by incorporating their data into a spatial frame. Much of this work has focused on chronological change as well as identification and description, which brings us to an even greater challenge to the spatial representation of Pompeian data: objects and stratigraphy. Like the difficulties the <a href="http://ancientgraffiti.wlu.edu/">Ancient Graffiti Project</a> faces in precisely relocating individual inscriptions, the definition of find spots from the early excavation reports can be a significant challenge. It is one, however, we should no longer avoid for its difficulty. With example of Pim Allison’s work on the <a href="http://www.worldcat.org/oclc/646790665">Casa del Menandro</a> and the publication of the Bourbon era finds by <a href="http://www.worldcat.org/oclc/471012917">Pagano and Prisciandaro</a> we are in a better place to consider the value of the finds record both the level of the individual room or building and at the scale of the entire city. Once again with the help of fantastic students (<a href="https://ancientmaterialworlds.wordpress.com/archive/pompeii/">Pompeii 492a</a>, Spring 2015) I have been able to digitize and transform Pagano and Prisciandaro’s table of <a href="https://docs.google.com/spreadsheets/d/1HdNKBsCbkiumfjfMr5DObTrQzh2kQhwLbht7Hv0EWL8/edit#gid=1060521240">finds of the early excavations</a> and they are now ready for the careful, hard work of attaching them to the urban landscape. The finds records from modern excavations – and more importantly, their stratigraphic descriptions &#8211; have even richer and denser evidence to offer. Many research projects have GIS and digital recording procedures incorporated into their fieldwork practices and I urge them to share those data as soon as they are able, perhaps even as part of their initial reports, but hopefully not long after final publication.</p>
+<p style="text-align: justify;">The <a href="https://www.umass.edu/classics/PQP">Pompeii Quadriporticus Project</a> will soon be doing just that: sharing in multiple formats the outputs of our research for scholars and the lay public alike. We’ve already begun <a href="https://www.flickr.com/photos/75393016@N07/">sharing our images</a>. For scholars, we anticipate soon sharing tabular and descriptive data accompanied by drawings and matrices of our interpretations, further supported by <a href="http://p3d.in/u/epoehler">3D renderings</a> and GPR results. For the public, and especially for visitors to Pompeii, we are planning to create online a series of nested histories of the Quadriporticus – growing in detail and complexity as the user desires – that are geolocated so that, like targeted advertisements, people can read about the past on their own device without large placards detracting from the experience of the past. There are countless areas of the city that can benefit from the same kind of geolocated information.</p>
+<p style="text-align: justify;">Equally, there are countless documents that are waiting in archives and libraries that need to be online and available for use. Archives like those of <a href="http://archives2.getty.edu:8082/xtf/view?docId=ead/2002.M.16/2002.M.16.xml">Halstead van der Poel in the Getty</a> (which draws on Warscher documents), or those collections of papers of former superintendents <a href="http://www.amicidipompei.com/riviste/1294757721.pdf">recently discussed in the Rivista di Studi Pompeiani</a> hold a unique set of information and unique perspective on the great excavations and research agendas of the 20th century. To that end, perhaps it is time to consider an oral history project of the many important Pompeian scholars – previous superintendents and directors of the site, heads of foreign research projects, independent researchers, etc. – whose work asked the questions that we in the 21st century are now trying to answer. For the 18th and 19th centuries, collections of artworks and maps can offer a great deal of evidence about the early excavations. Projects such as the excellent <a href="http://pompei.sns.it/">Fortuna Visiva</a> are already in place, but the need for systematic and comprehensive collection and<em> open sharing</em> of these illustrative documents remains a desideratum. In exploring the question of early maps, once again with my students, we created a <a href="https://www.zotero.org/class492a/items">Zotero site of the maps</a> known in the <a href="http://www.worldcat.org/oclc/8667821">Corpus Topographicum Pompeianum</a> and attempted to locate and some cases, digitize these maps. Combining a complete list of maps of the excavations with the <a href="https://drive.google.com/open?id=0B7dBYnH1y6zMTkhWM1FMVE9fMFU">CAD file of room-level spaces</a>, it will be possible to create a maps that shows the 250 year process, year-by-year and in some cases day-by-day, of Pompeii’s disinterment. The pace of excavation, the recovery of objects, the locations of work, all can be normalized and made comparable by the giving them spatial properties in a GIS.</p>
+<p style="text-align: justify;">For the <a href="https://www.academia.edu/2493873/Pompeii_Bibliography_and_Mapping_Project">PBMP</a>, there’s a short wish list of features and capabilities that I’m hopeful to realize in the future. The first is the creation of a means to discover, receive, and ingest new citations into the bibliography. This is a problem with many obvious open access and community-based solutions in addition to need for the technical expertise to implement it. A second desired feature is a natural language processing procedure to parse the many full-text objects attached (or in the process of being attached) to our bibliography in order to find all – and all the meaningful – locations in Pompeii mentioned in the text. What is meaningfully discussed in a text and what is merely mentioned, and which does the user need, are issues to resolve. Next on the list is a flexible and intuitive design for a versioning archive of the spatial data with the purpose to serve not only the different versions of the PBMP base data, but also to make available the many different interpretations of the site that are represented by different shapes of space. That shops are attached to the shape of a house, or not, has important ramifications for how we interpret the entire ancient city from a number of perspectives: when attached one assumes economic dependence if not direct ownership of the shop by the house; when separate, one presents a landscape of far greater independence in property ownership and the assumption of an economic class to own those shops. The shape of space matters and it is crucial not to hard code historically meaningful assumptions into digital representations without making those assumptions explicit AND without offering at least the opportunity to choose a different set data with a different set of assumptions. Finally, I’m wanting and working toward a connection from the bibliography to the GIS such that when bibliographic search results are returned, the meaningful locations contained within those results are displayed on a map to accompany the list of citations. I’ve called this an “instant gazetteer” that will change and narrow with every new search.</p>
+<p style="text-align: justify;">These are some of the more GIS based items on my “wish list” for an Open Pompeii. Nearly all of these projects can start with the initiative of a single person who is fascinated by Pompeii and who believes that fascination will only grow through engagement and contribution. Anyone can find and add content to online platforms: citations, maps, artworks, etc. Secondary teachers and university professors can engage their students in projects that not only educate, but also don’t waste the effort expended in the process of learning. Build lessons that build things. Let me unpack that a bit further by analogy. Lifting weights builds muscles. What if the movement of those weights could be used to power the lights at the gym? Learning builds intelligence. What if the act of learning increased the total ‘weight’ of content for the next act of learning? Events like <a href="http://www.openpompei.it/scriptorivm/">SCRIPTORIVM</a> and community-building groups like <a href="http://www.openpompei.it/en/">OpenPompei</a> are especially important right now as we regularly lose as much information about the ancient world into silos of data as we do from the continuous, if irregular collapses of walls and crumbling of plasters. Even some conservation efforts conceal evidence in the name of preserving it: one needs only to look at the long tradition of covering walls with a mortar to prevent its erosion, but at the cost of hiding all the details of its history of construction. While the community of Pompeianisti cannot save the site directly, we can do incredible work to support the work of conservation by providing a broad, dynamic, and most of all open sets of data that can be used in planning and research. Surely the worst thing we might do is to squander the resources we have by duplicating efforts the way my colleague and I did back in 2007.</p>
+<p style="text-align: justify;">As a researcher, I&#8217;ve realized it is not within my expertise to claim (though I’m not without opinions) what are the best ways to save and/or to use Pompeii. As a foreigner, moreover, it’s not my place to make demands. But, as one of many committed specialists and community members, I can make a difference. In my case, I can put aside the natural inclinations to retain control over the data and research products I’ve produced (and, importantly, paid for) and “give it away” to others in imperfect, incomplete, or “in progress” forms. My aims are not wholly altruistic, however. I do want and do claim authorship and credit for the digital products I’ve made and I do hope that in making them widely available those digital objects will build a legacy for the efforts that created them. At the same time, I also wish to be part of an on-going philosophical shift in the way that we create and share data, especially academic data. It is a shift that we desperately need. In my opinion, building a data set or even describing that data in a narrative is no longer enough, one needs to take their ultimate validation in the number of people those data reach and how many choose to use it. For academics, such a shift is not merely structural; its not about how we peer-review databases or how we evaluate digital work. It’s also a cultural shift. We need to learn to be comfortable with the reality that data are messy and to share them anyway. We need to be willing to move the entire discipline ahead, along with our own specific publications, by sharing imperfect, incomplete, and in-progress works. And yes, we need to do this within the structures of academic labor and power (i.e., hiring, promotion, and tenure).</p>
+<p style="text-align: justify;">There’s so very much more to say on this topic and at another time I probably will. For this discussion I’ll leave it here by thanking OpenPompei and SCRIPTORIVM for letting me contribute to their noble cause and by taking my own advice, letting the <a href="https://drive.google.com/open?id=0B7dBYnH1y6zMeVZtRl9Idllpems">most recent GIS data of the PBMP</a> – imperfect, incomplete, and in-progress as they are– go off for the betterment of our Pompeian community.</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Wishing for Data, Working for Data: a manifesto for an Open Pompeii' st_url='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Wishing for Data, Working for Data: a manifesto for an Open Pompeii' st_url='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/'></span><span class='st_plusone_hcount' st_title='Wishing for Data, Working for Data: a manifesto for an Open Pompeii' st_url='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/'></span><span class='st_linkedin_hcount' st_title='Wishing for Data, Working for Data: a manifesto for an Open Pompeii' st_url='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/'></span><span class='st_email_hcount' st_title='Wishing for Data, Working for Data: a manifesto for an Open Pompeii' st_url='http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.openpompei.it/category/civic-hacking-2/in-viaggio/" rel="category tag">In viaggio</a>, <a href="http://www.openpompei.it/category/open-archaeology/" rel="category tag">Open archaeology</a> and tagged <a href="http://www.openpompei.it/tag/eric-poehler/" rel="tag">Eric Poehler</a>, <a href="http://www.openpompei.it/tag/mapping-project/" rel="tag">Mapping Project</a>, <a href="http://www.openpompei.it/tag/open-archaeological-data/" rel="tag">open archaeological data</a>, <a href="http://www.openpompei.it/tag/open-data-en/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/open-pompeii/" rel="tag">open pompeii</a>, <a href="http://www.openpompei.it/tag/pompeii-en/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/scriptorivm-en/" rel="tag">Scriptorivm</a> on <a href="http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/" title="12:46" rel="bookmark"><time class="entry-date" datetime="2015-07-16T12:46:07+00:00">16 July 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/en/author/cristina/" title="View all posts by Criscia" rel="author">Criscia</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Post navigation</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2015/05/15/50-2/" rel="prev"><span class="meta-nav">&larr;</span> 50</a></span>
+					<span class="nav-next"></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='1739' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d833912b94" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="70"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it no-translation"><a hreflang="it" href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en current-lang"><a hreflang="en" href="http://www.openpompei.it/2015/07/16/wishing-for-data-working-for-data-a-manifesto-for-an-open-pompeii/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/en/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Log in</a></li>
+			<li><a href="http://www.openpompei.it/en/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.openpompei.it/en/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

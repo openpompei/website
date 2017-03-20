@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica. | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica. Feed dei commenti" href="http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Confiscati Bene: un progetto che nasce da OpenPompei' href='http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/' />
+<link rel='next' title='Cinque civic hackers per OpenPompei: selezioni terminate' href='http://www.openpompei.it/2014/05/26/cinque-civic-hackers-per-openpompei-selezioni-terminate/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=495' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-495 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-495" class="post-495 post type-post status-publish format-standard has-post-thumbnail hentry category-open-and-wikiarchaeology">
+				<header class="entry-header">
+			<img width="624" height="417" src="http://www.openpompei.it/wp-content/uploads/2014/05/CIL-X-Siracusa-624x417.jpg" class="attachment-post-thumbnail wp-post-image" alt="CIL X Siracusa" />						<h1 class="entry-title">Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/#comments" title="Commenti a Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.">1 Replica</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Lo scorso 16 Maggio Palazzo Massimo alle Terme ha ospitato l’incontro “<i>Buone pratiche e progetti innovativi per la promozione dei beni culturali: EAGLE &amp; Wiki Loves Monuments</i>”.</p>
+<p>Nella <a href="http://www.eagle-network.eu/eagle-wiki-loves-monuments-event/">descrizione generale dell’evento</a> si legge:</p>
+<p>“<i>Nel campo dei beni culturali, le opportunità offerte dalle tecnologie per la conservazione e la fruizione del patrimonio culturale hanno aperto scenari di grande interesse che però richiedono </i><b><i>atteggiamenti nuovi </i></b><i>da parte di tutti gli attori coinvolti: enti pubblici, imprese private, operatori del settore</i>”.</p>
+<p>Il progetto Eagle esemplifica molto bene questi “atteggiamenti nuovi” che consentono di potenziare la funzione pubblica e sociale delle discipline storiche, tra cui l’archeologia e di conseguenza l’epigrafia, usando le nuove tecnologie dell’informazione e della comunicazione come agile veicolo di contenuti, stimolando la nascita di nuove prospettive di ricerca e facilitandone anche un riuso creativo, non solo a fini didattici.</p>
+<p><b>La storia del progetto (in breve).</b></p>
+<p>Eagle sin dalla nascita ha avuto un obiettivo assai ambizioso: “<a href="http://www.eagle-eagle.it/Italiano/present_it.htm"><i>la registrazione di tutte le iscrizioni greche e latine anteriori al VII sec. d.C. secondo la miglior edizione esistente (eventualmente con ulteriori controlli ed emendamenti), corredate da alcuni altri dati fondamentali e, ove possibile, da una loro immagine</i></a>”. Il progetto rappresenta il punto di arrivo dei lavori per la creazione di un’unica banca dati generale dell&#8217;epigrafia antica, avviata nel 1997 dall’<a href="http://www.aiegl.org/">AIGLE</a> (Associazione Internazionale di Epigrafia Greca e Latina). Nel 2003 esso si evolve in una “federazione” di banche dati epigrafiche, costituita inizialmente fra tre Univesità: <a href="http://www.edb.uniba.it/">Bari</a>, <a href="http://www.edr-edr.it/Italiano/index_it.php">Roma</a> ed <a href="http://edh-www.adw.uni-heidelberg.de/home">Heidelberg</a> cui si è aggiunta nel 2009 <a href="http://eda-bea.es/pub/contact.php">Alcalà</a>.</p>
+<p>Nel 2005 viene stipulata una <a href="http://www.edr-edr.it/Documenti/Accordo%20MIBAC-EAGLE.pdf">convenzione</a> con il Ministero dei Beni Culturali per la messa in rete delle riproduzioni fotografiche relative a iscrizioni antiche dell&#8217;Italia che sono edite e che sono o saranno in suo possesso. Nello stesso anno Eagle è stato inserito tra le <a href="http://www.lincei.it/modules.php?name=Content&amp;pa=showpage&amp;pid=64">linee di ricerca</a> del Centro Linceo Interdisciplinare “Beniamino Segre”.</p>
+<p><b>Europeana Eagle Project</b></p>
+<p>Lo scorso anno è stato avviato un progetto di collaborazione tra Eagle ed Europeana, finanziato dalla Commissione Europea nell&#8217;ambito del programma di sostegno alle ICT, con lo scopo di fornire un unico portale di facile consultazione per le oltre 1,5 milioni di epigrafi ubicate nei diversi paesi dell&#8217;Unione Europea.</p>
+<p>L’Eagle network si è esteso anche a Wikimedia Italia ed al CNR. Il CNR, in particolar modo, sta sviluppando un sistema di riconoscimento per immagini alla base anche di un’applicazione mobile, che consentirà tale riconoscimento tramite smartphone. Un’altra applicazione che sarà disponibile per gli utenti è destinata ad attività di storytelling, per assemblare narrazioni a partire dai documenti epigrafici. Wikimedia Commons sarà la piattaforma che consentirà agli utenti di arricchire i metadati dei testi epigrafici: ad esempio con le traduzioni multilingue dei testi epigrafici stessi.</p>
+<p>Non è necessario soffermarsi sulla tecnologia che supporta il progetto, ma più sull&#8217;idea alla base del progetto: l’epigrafia è una disciplina che può essere studiata, presentata e condivisa da vari utenti. Tale idea è messa in pratica attraverso “atteggiamenti nuovi”:</p>
+<p><em>- condivisione</em></p>
+<p>Ognuna delle banche dati federate (<a href="http://www.uni-heidelberg.de/institute/sonst/adw/edh/">EDH</a>, <a href="http://www.edr-edr.it/">EDR</a>, <a href="http://www.edb.uniba.it/">EDB</a> e <a href="http://www.eda-bea.es/">HE</a>) si è dimostrata capace della più ampia collaborazione. Il MIBACT, tramite apposita convenzione, ha eliminato l’ostacolo giuridico posto dal Codice dei Beni Culturali e del Paesaggio per le riproduzioni e le pubblicazioni delle immagini dei beni culturali.</p>
+<p>La collaborazione internazionale ha trovato poi riscontro nel finanziamento da parte della Commissione Europea, condiviso da istituzioni di dodici Paesi (Italia, Germania, Spagna, Austria, Regno Unito, Romania, Ungheria, Croazia, Slovenia, Francia, Grecia, Belgio).</p>
+<p>-<em> uso dell’intelligenza collettiva</em></p>
+<p>Eagle nasce dalla condivisione di saperi interdisciplinari: alla sua realizzazione hanno collaborato e collaborano informatici ed epigrafisti, epigrafisti classici e cristiani, storici ed epigrafisti di tutto il mondo. L’estensione del network a Wikimedia Italia è un allargamento ulteriore della base di partecipazione ad un progetto di costruzione di una parte della memoria storica collettiva: <i>colligite fragmenta ne pereant</i> (Giovenale, 6, 12).</p>
+<p>&#8211; <em>costruzione di una nuova narrazione storica  </em></p>
+<p>Tale coinvolgimento di un pubblico di non addetti ai lavori sarà potenziato anche dalla creazione di strumenti, quali quelli utili all’attività di storytelling, che daranno a questa disciplina storica un rinnovato valore pubblico e sociale, stimolando la curiosità verso il passato, creando strumenti agili di facilitazione e distribuzione di contenuti assai complessi, quali quelli veicolati dalle epigrafi. La necessità di costruire nuove narrazioni storiche era stata già discussa <a href="http://www.openpompei.it/2013/06/03/quattro-chiacchiere-sulla-necessita-di-una-nuova-narrazione-archeologica/">su questo blog</a> relativamente a Pompei e come correttivo allo “<i>scollamento tra cittadini e patrimonio archeologico</i>”.</p>
+<p>&nbsp;</p>
+<p><em>In fotografia insegna bilingue (in latino ed in greco) di bottega di lapicida (CIL X, 7296): &#8220;qui si compongono e si incidono iscrizioni per edifici sacri e pubblici&#8221;</em></p>
+<p>&nbsp;</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.' st_url='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.' st_url='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/'></span><span class='st_plusone_hcount' st_title='Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.' st_url='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/'></span><span class='st_linkedin_hcount' st_title='Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.' st_url='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/'></span><span class='st_email_hcount' st_title='Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.' st_url='http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a> il <a href="http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/" title="08:30" rel="bookmark"><time class="entry-date" datetime="2014-05-21T08:30:45+00:00">21 maggio 2014</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/" rel="prev"><span class="meta-nav">&larr;</span> Confiscati Bene: un progetto che nasce da OpenPompei</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2014/05/26/cinque-civic-hackers-per-openpompei-selezioni-terminate/" rel="next">Cinque civic hackers per OpenPompei: selezioni terminate <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			Un pensiero su  &ldquo;<span>Europeana Eagle Project, &#8220;un ponte digitale verso il mondo antico&#8221;. Breve storia di una buona pratica.</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-6057">
+		<p>Pingback: <a href='http://www.openpompei.it/2014/07/22/anche-pompei-partecipa-a-wiki-loves-monuments/' rel='external nofollow' class='url'>Anche Pompei partecipa a Wiki Loves Monuments! | OpenPompei</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='495' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1f18a77fec" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="164"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

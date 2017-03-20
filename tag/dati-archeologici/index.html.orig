@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>dati archeologici | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; dati archeologici Feed del tag" href="http://www.openpompei.it/tag/dati-archeologici/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.11" />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="archive tag tag-dati-archeologici tag-79 custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<section id="primary" class="site-content">
+		<div id="content" role="main">
+
+					<header class="archive-header">
+				<h1 class="archive-title">Archivio tag: <span>dati archeologici</span></h1>
+
+						</header><!-- .archive-header -->
+
+			
+	<article id="post-1675" class="post-1675 post type-post status-publish format-standard hentry category-civic-hacking-2 category-il-progetto-e-le-sue-fasi category-open-and-wikiarchaeology tag-archeofoss tag-dati-archeologici tag-hackathon-it tag-mapillary-it tag-open-data tag-open-pompei tag-pompeii tag-scriptorivm">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/" rel="bookmark">Verso lo Scriptorivm: costruzione collaborativa del dato archeologico</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/#respond" title="Commenti a Verso lo Scriptorivm: costruzione collaborativa del dato archeologico"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><b>La chiusura del cerchio</b></p>
+<p>L’obiettivo principale del progetto OpenPompei è quello di promuovere la cultura della trasparenza ed abbiamo scelto di farlo attraverso tre linee di intervento:</p>
+<ul>
+<li>apertura di dati amministrativi;</li>
+<li>apertura di dati archeologici;</li>
+<li>apertura alla partecipazione.</li>
+</ul>
+<p>Abbiamo scelto di promuovere una maggiore partecipazione attraverso la condivisione di dati aperti, amministrativi o archeologici, che rendano possibile una “apertura virtuale” di Pompei a tutti coloro che ne hanno interesse, scientifico o di altro tipo.</p>
+<p>Sull&#8217;apertura di dati amministrativi abbiamo iniziato col Portale della Trasparenza, ed abbiamo intenzione di migliorare il lavoro svolto nelle ultime settimane del progetto.</p>
+<p>Sull&#8217;apertura di dati archeologici, un primo passo è stato quello della messa in rete con licenza CC BY-SA di immagini di Pompei a seguito della promozione del contest Wiki Loves Monuments nello scorso Settembre. A breve libereremo anche  i dati che saranno prodotti nel corso dello SCRIPTORIVM. Non possiamo essere sicuri che il lavoro che svolgeremo insieme nel corso della hackathon produrrà, parafrasando Leibniz, “i migliori dei dataset possibili”, ma il nostro risultato migliore sarà &#8211; senza dubbio &#8211;  il rilascio di essi in formati e licenze che ne consentiranno il riuso, di modo che da questa prima disseminazione di dati archeologici aperti abbia inizio una nuova prassi di produzione-condivisione-riuso che ne migliori progressivamente la qualità. Il valore aggiunto di quanto sarà rilasciato nel corso dello SCRIPTORIVM è il suo essere risultato insieme di intelligenza collettiva ed costruzione collaborativa del dato messe a sistema nello sviluppo delle singole tracce. Infatti già diverse comunità e progetti di ricerca stanno convergendo sullo SCRIPTORIVM, per collaborare, ciascuno con la propria specifica competenza ed esperienza.</p>
+<p><b>Pompeiorum Viarum Imagines with the support of Mapillary!</b></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/06/logo-mapillary.png"><img class="alignleft wp-image-1676 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/06/logo-mapillary.png" alt="logo mapillary" width="350" height="210" /></a>La track II ci ha permesso di entrare in contatto da subito con la comunità di Mapillary, la quale ha raccolto con grande entusiasmo il nostro obiettivo, rilanciando la raccolta alle armi, dando spazio sul suo blog ad un <a href="http://blog.mapillary.com/events/2015/05/25/pompeii.html">guest post</a> di Andrea Borruso (nonché inviandoci un regalo di buon auspicio: t-shirt ed adesivi per i partecipanti allo Scriptorivm).</p>
+<p><b>Pompeiorum Libera Tabula and Pompei Bibliography and Mapping Project (PMBP)</b></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/06/PBMP.jpg"><img class="aligncenter wp-image-1677 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/06/PBMP.jpg" alt="PBMP" width="1000" height="472" /></a></p>
+<p><i>Il web-GIS del PBMP</i></p>
+<p>Iniziando a lavorare sulla track III siamo venuti a conoscenza di <a href="http://digitalhumanities.umass.edu/pbmp/?page_id=273">questo</a> progetto della  University of Massachusetts Amherst, diretto da <a href="https://umass.academia.edu/EricPoehler/">Eric Poehler</a>, Assistant Professor of Classics.</p>
+<p>Il PBMP aveva già “svolto” parte della track III, così come noi l’avevamo progettata: esso ha infatti già creato una base vettoriale di Pompei a partire dalle mappe del <a href="http://catalog.hathitrust.org/Record/009814664">Corpus Topographicum Pompeianum (CTP)</a> ed ha legato agli elementi vettoriali una bibliografia costruita con <a href="https://www.zotero.org/">Zotero</a>, a partire dalle quasi 15.000 citazioni raccolte da <a href="http://www.arborsapientiae.com/pagina/nova_bibliotheca_pompeiana_project.html">Nova Bibliotheca Pompeiana (NBP)</a>. Abbiamo così contattato Eric Poehler per chiedergli se il PBMP fosse disponibile a collaborare allo SCRIPTORIVM. Anche in questo caso la risposta è stata entusiasta: il PBPM ha messo a disposizione i suoi dati, come lo stesso Eric Poehler <a href="https://www.academia.edu/2493873/Pompeii_Bibliography_and_Mapping_Project">auspicava</a> potesse accadere:</p>
+<blockquote><p><i>There are a number of offline GIS for Pompeii (&#8230;) Tragically, “the wheel” of a Pompeii GIS thus has been invented at least four times, each one representing hundreds of hours of digitization work.</i></p></blockquote>
+<p>Questo incontro dimostra il potenziale del cosidetto knowledge sharing, dal momento che la collaborazione del team americano eviterà la duplicazione di dati già esistenti, permettendoci di concentrarci sullo sviluppo di un modello dati semplice che ne faciliti l’uso.</p>
+<p><b>Archeologica Academia</b></p>
+<p>La track I punta ora ad arricchire il modello di carto-bibliografia sviluppato da PBMP, dando agli utenti la possibilità di georeferenziare la risorsa bibliografica e indicare la cronologia del soggetto archeologico cui la risorsa fa riferimento.</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/06/archeofoss_catania.jpg"><img class="alignleft wp-image-1678 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/06/archeofoss_catania.jpg" alt="archeofoss_catania" width="224" height="256" /></a>Il passo in avanti rispetto ai nostri obiettivi consentito dalla volontà di collaborazione e condivisione del gruppo di ricerca del PBMP  ci ha resi ancora più consapevoli dell’importanza di agevolare “magnifiche sorti e progressive”, di modo che i risultati dello SCRIPTORIVM siano in breve tempo punto di partenza per nuovi sviluppi. Abbiamo perciò individuato tre facilitatori che coadiuveranno col team di OpenPompei nello svolgimento delle track e che allo stesso tempo potranno in qualche misura  “portare avanti” il lavoro avviato.</p>
+<p>Due di essi, <a href="http://steko.iosa.it/">Stefano Costa</a> e <a href="http://www.itabc.cnr.it/it/organizzazione/personale_e_recapiti/augusto_palombini/151">Augusto Palombini</a>, sono archeologi nonché parte dello “zoccolo duro” della comunità <a href="http://www.archeofoss.org/">ArcheoFOSS</a>, che potrebbe essere la  comunità di riferimento con le competenze adeguate per dare seguito nel tempo all’esperienza dello SCRIPTORIVM.  Marco Montanari è uno sviluppatore dei Marconi Labs e ha all’attivo collaborazioni con archeologi per la messa a punto di strumenti che consentano più agevolmente la realizzazione di una cartografia archeologica aperta su <a href="http://www.openhistoricalmap.org/#map=8/51.768/-1.582&amp;layers=H">Open Historical Maps</a>.</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/06/350px-Ohm_logo_small.png"><img class="alignleft wp-image-1679 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/06/350px-Ohm_logo_small.png" alt="350px-Ohm_logo_small" width="350" height="350" /></a>Una ulteriore coincidenza proficua: <a href="http://de.straba.us/">Maurizio Napolitano</a>, ricercatore presso <a href="http://www.fbk.eu/">FBK</a> che tanto ci ha aiutati in vario modo nel corso del progetto OpenPompei, era negli scorsi giorni a New York per partecipare a State of the Map US e ha chiacchierato dello SCRIPTORIVM con il team di Open Historical Maps, che ora sta valutando se sarà possibile inviare una delegazione allo SCRIPTORIVM per presentare ai partecipanti questa piattaforma, con l’obiettivo di migliorarla e farla crescere</p>
+<p>&nbsp;</p>
+<p><a href="https://www.eventbrite.it/e/scriptorivm-tickets-16939255770" target="_blank"><strong>E ricordate di iscrivervi allo SCRIPTORIVM su Eventbrite!</strong> </a></p>
+<p><em>Andrea Borruso, Paola Liliana Buttiglione e Gabriele Gattiglia</em></p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Verso lo Scriptorivm: costruzione collaborativa del dato archeologico' st_url='http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Verso lo Scriptorivm: costruzione collaborativa del dato archeologico' st_url='http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/'></span><span class='st_plusone_hcount' st_title='Verso lo Scriptorivm: costruzione collaborativa del dato archeologico' st_url='http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/'></span><span class='st_linkedin_hcount' st_title='Verso lo Scriptorivm: costruzione collaborativa del dato archeologico' st_url='http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/'></span><span class='st_email_hcount' st_title='Verso lo Scriptorivm: costruzione collaborativa del dato archeologico' st_url='http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/" rel="category tag">Civic hacking</a>, <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a> e taggato come <a href="http://www.openpompei.it/tag/archeofoss/" rel="tag">ArcheoFOSS</a>, <a href="http://www.openpompei.it/tag/dati-archeologici/" rel="tag">dati archeologici</a>, <a href="http://www.openpompei.it/tag/hackathon-it/" rel="tag">hackathon</a>, <a href="http://www.openpompei.it/tag/mapillary-it/" rel="tag">Mapillary</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/open-pompei/" rel="tag">Open Pompei</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/scriptorivm/" rel="tag">Scriptorivm</a> il <a href="http://www.openpompei.it/2015/06/12/verso-lo-scriptorivm-costruzione-collaborativa-del-dato-archeologico/" title="12:07" rel="bookmark"><time class="entry-date" datetime="2015-06-12T12:07:18+00:00">12 giugno 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1535" class="post-1535 post type-post status-publish format-standard hentry category-open-and-wikiarchaeology category-opendata-open-and-wikiarcheology tag-caa15 tag-dati-aperti tag-dati-archeologici tag-open-data tag-pompei tag-scriptorivm tag-trasparenza">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/" rel="bookmark">Similes cum similibus facillime congregantur</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/#respond" title="Commenti a Similes cum similibus facillime congregantur"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/03/SCRIPTORIVM.jpg"><img class="aligncenter  wp-image-1536" src="http://www.openpompei.it/wp-content/uploads/2015/03/SCRIPTORIVM.jpg" alt="SCRIPTORIVM" width="555" height="150" /></a><em><strong>Towards SCRIPTORIVM: OpenPompei at CAA15</strong></em></p>
+<p style="text-align: justify;">La Conferenza Annuale di <a href="http://caa-international.org/about/">Computer Applications and Quantitative Methods in Archaeology (CAA)</a>, come è scritto nella <a href="http://caaconference.org/">home page</a>, è “uno dei maggiori eventi nel calendario di studenti, specialisti ed esperti nel campo delle applicazioni informatiche per l’archeologia”, e così è anche il luogo dove probabilmente potremo incontrare molti  archeologi dalla comunità internazionale interessata ai Dati Archeologici Aperti.</p>
+<p style="text-align: justify;">Anche OpenPompei sarà lì! Stiamo provando a costruire relazioni tra i cittadini che hanno a cuore Pompei, aiutandoli a rendere più trasparente possibile<b> cosa vi si trova</b> (aprendo <i>dati archeologici</i>) e <b>cosa lì viene fatto</b> (aprendo i <i>dati dei cantieri</i>: per questa ragione è nato il <a href="http://open.pompeiisites.org/">Portale della Trasparenza</a>. Il diritto alla conoscenza garantito dalla trasparenza è riferito insieme al passato ed al presente. La comunità italiana di archeologi dovrebbe guidare il processo di coinvolgimento della cittadinanza in una nuova gestione del Patrimonio Culturale basato(anche) sui Dati Aperti, lo stesso processo che <a href="http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/">abbiamo immaginato di avviare a Pompei.</a></p>
+<p style="text-align: justify;">In particolare, a Siena ci sarà un workshop durante cui speriamo di incontrare molti “archeologi aperti”: <a href="http://caaconference.org/program/workhops/ws10/">Ha(r)ckeology: an hacking approach to open archaeology</a>, promosso dal Laboratorio Mappa dell’Università di Pisa (<a href="http://caaconference.org/program/workhops/ws10/">qui</a> l’elenco completo dei workshops). Come lo STVDIVM, esso “ha un approccio teorico e pratico insieme e vuole introdurre in una maniera operativa a come scaricare, usare, riusare e pubblicare dati in formato aperto.” Qui il <a href="http://www.modarc.org/">Manifesto dei Dati Archeologici Aperti</a>, cui OpenPompei ha ufficialmente aderito qualche giorno fa, sarà proposto come Manifesto Europeo.</p>
+<p style="text-align: justify;">Alla Conferenza CAA cercheremo di coinvolgere nuovi archeologi nello SCRIPTORIVM, un hackathon su Pompei che avrò luogo il 19 / 20 giugno. Durante lo SCRIPTORIVM noi proveremo a creare una mappa 4D di Pompei. I Dati Archeologici sono davvero “big-data”, perché si riferiscono sia ad un passato sia spaziale che temporale. Stiamo pensando all’utilità di associare un manufatto archeologico e le informazioni geo-riferite e crono-riferite associate. Un articolo sulla Villa dei Misteri sarà rintracciabile nella mappa di Pompei, cliccando sulla pianta della villa stessa. Implementando le informazioni, sarà possibile creare una sorta di Google Scholar per bibliografia archeologica, geo-riferito e crono-riferito, a cui potremo chiedere, per esempio: “Dammi tutti gli articoli sulla produzione di vino in Campania dal III al II secolo a.C.”</p>
+<p style="text-align: justify;">Questa è una nostra proposta. Se hai qualche idea a riguardo, iscriviti al <a href="https://github.com/spaghetti-open-data/scriptorivm">repository GitHub repository</a> dedicato allo SCRIPTORIVM!</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Similes cum similibus facillime congregantur' st_url='http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Similes cum similibus facillime congregantur' st_url='http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/'></span><span class='st_plusone_hcount' st_title='Similes cum similibus facillime congregantur' st_url='http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/'></span><span class='st_linkedin_hcount' st_title='Similes cum similibus facillime congregantur' st_url='http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/'></span><span class='st_email_hcount' st_title='Similes cum similibus facillime congregantur' st_url='http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/" rel="category tag">OpenData</a> e taggato come <a href="http://www.openpompei.it/tag/caa15/" rel="tag">CAA15</a>, <a href="http://www.openpompei.it/tag/dati-aperti/" rel="tag">dati aperti</a>, <a href="http://www.openpompei.it/tag/dati-archeologici/" rel="tag">dati archeologici</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/pompei/" rel="tag">Pompei</a>, <a href="http://www.openpompei.it/tag/scriptorivm/" rel="tag">Scriptorivm</a>, <a href="http://www.openpompei.it/tag/trasparenza/" rel="tag">trasparenza</a> il <a href="http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-2/" title="14:14" rel="bookmark"><time class="entry-date" datetime="2015-03-30T14:14:33+00:00">30 marzo 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1523" class="post-1523 post type-post status-publish format-standard hentry category-civic-hacking-2 category-il-progetto-e-le-sue-fasi tag-beni-archeologici tag-civic-hacking tag-dati-archeologici tag-grande-pogetto-pompei tag-pompeii tag-villa-dei-misteri">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/" rel="bookmark">le stagioni di OpenPompei. Diario di un progetto</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/#respond" title="Commenti a le stagioni di OpenPompei. Diario di un progetto"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/03/Pompeii.png"><img class="aligncenter  wp-image-1527" src="http://www.openpompei.it/wp-content/uploads/2015/03/Pompeii.png" alt="Pompeii" width="583" height="345" /></a></p>
+<p style="text-align: justify;"><strong>Primavera 2013</strong>. È uno strano luogo quello della prima riunione vis a vis del team al completo: arriviamo da diverse parti d&#8217;Italia e ci incontriamo alla fermata della circumvesuviana Villa dei Misteri. Passiamo così dal virtuale al reale ed entriamo per la prima volta come team di OpenPompei negli uffici della Soprintendenza. Siamo qui per supportare le politiche di trasparenza del Grande Progetto Pompei e per far in modo che, a partire dall’apertura dei dati, i cittadini attivi possano sperimentare un nuovo legame proattivo con uno dei siti archeologici più chiacchierati del mondo. Veniamo accolti da tanta curiosità quanti punti interrogativi su cosa possa significare la trasparenza a Pompei, dal come farla a quali effetti potrebbe produrre. Il dialogo però è aperto e decidiamo che il modo migliore per disegnare una strada comune con la Soprintendenza è mostrare una demo, la quale dia un’idea concreta di come potrebbero essere visualizzati dati archeologici scientifici ed economici relativi a lavori di restauro e messa in sicurezza.</p>
+<p style="text-align: justify;">Mentre una parte del team si mette al lavoro per realizzarla, un altro pezzo di OpenPompei inizia un viaggio per tappe intorno a Pompei, sino a Napoli, Salerno e la zona di Aversa per conoscere i cittadini attivi e gli innovatori della Campania. Cosa c’entra questo girovagare con la trasparenza del Grande Progetto Pompei? Be’, con chi cominciare a ripensare il rapporto tra i cittadini e l’area archeologica, se non da coloro che a Pompei e anche in altri luoghi della Campania stanno ripensando un nuovo modo di vivere la loro terra?</p>
+<p style="text-align: justify;"><strong>Estate 2013</strong>. Mentre i viaggi continuano, tra <a href="http://www.openpompei.it/2013/06/01/2-post-per-1-viaggio-parte-seconda/">beni confiscati</a> e <a href="http://www.openpompei.it/2013/07/24/nuovopassato/">summer school sull’innovazione rurale</a>, <a href="http://www.openpompei.it/2013/05/31/2-post-per-1-viaggio/">innovatori sociali in bicicletta </a>e <a href="http://www.openpompei.it/2013/05/03/in-avanscoperta/">cooperative di giovani in quartieri periferici di Napoli</a>, la demo viene presentata alla Soprintendenza. Gli occhi si illuminano di fronte alla mappa di Pompei dettagliata come solo quella di OpenStreetMap lo è, con icone che rimandano a dati economici, scientifici e immagini, in modo intuitivo e facilmente consultabile. Non facciamo però in tempo a fare un ulteriore passo avanti e a lavorare sui primi dati del Grande Progetto Pompei perché un periodo politico di transizione cambia i nostri interlocutori.</p>
+<p style="text-align: justify;"><strong>Autunno &#8211; inverno 2013/2014.</strong> Un cambio al vertice del MIBACT determina infatti il passaggio della Soprintendenza dalla Dott.ssa Cinquantaquattro al Dottor Osanna e la creazione della Direzione Generale del Grande Progetto con a capo il Generale Nistri. Il periodo di assestamento interno della Soprintendenza è più lungo del previsto e ci porta a dover concentrare le nostre attività esclusivamente sul civic hacking. Iniziamo dunque a mettere a frutto gli incontri fatti durante i viaggi e tessere collaborazioni. Collaboriamo all’organizzazione del <a href="http://www.openpompei.it/2013/11/11/il-kublai-award-a-napoli-venite/">Kublai Award a Napoli </a>e <a href="http://www.openpompei.it/2014/02/05/piccoli-cittadini-attivi-crescono-la-nostra-collaborazione-con-a-scuola-di-opencoesione/">supportiamo A Scuola di OpenCoesione </a>, progetto MIUR &#8211; DPS di didattica sperimentale in cui ragazzi di scuole superiore di diverse città d’Italia, tra cui Napoli, utilizzano i dati del portale OpenCoesione per costruire progetti interdisciplinari a partire dall’individuazione di problematiche del loro territorio e da monitoraggi civici di progetti finanziati dalle politiche di coesione. Con A Scuola di OpenCoesione andiamo per tre lezioni in aula a Napoli e l’energia dei ragazzi è davvero unica. I nostri viaggi per beni confiscati e la voglia di collaborare con gli amici di <a href="http://www.monithon.it/">Monithon</a> portano all’organizzazione del <a href="http://www.monithon.it/blog/2014/03/10/opmeeting-con-open-pompei-e-libera-parte-la-mappatura-dei-beni-confiscati-alle-mafie/" target="_blank">#OPMeeting</a>: una due giorni di monitoraggi civici in 3 beni confiscati dell’area vesuviana. Il gruppo che si forma in occasione di quest’esperienza non si scioglie alla fine dei monitoraggi, ma poco più di un mese dopo crea quello che potremmo definire uno “spin off” di OpenPompei, di cui andiamo immensamente orgogliosi.</p>
+<p style="text-align: justify;"><strong>Primavera &#8211; Estate  2014.</strong> Al raduno di Spaghetti Open Data infatti, durante l’hackathon guidato da Andrea Borruso “Gli OpenData per liberare l’Energia Potenziale dei beni confiscati alle mafie” <a href="http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/">nasce Confiscati Bene</a> che raccoglie dati, analisi e monitoraggi civici dei beni sequestrati alla criminalità organizzata. L’idea nasce per dare ordine e facilità di accesso alla informazioni che, prima del progetto, erano difficilmente reperibili perché frammentate in diverse mappe e siti, oltre che incomplete. Nello stesso periodo però OpenPompei ritorna anche sulla strada del supporto per la trasparenza del Grande Progetto Pompei: assestata la nuova struttura organizzativa, iniziano gli incontri con la neonata Direzione Generale per ricominciare da dove ci si era interrotti.</p>
+<p style="text-align: justify;"><strong>Autunno- Inverno 2014-2015</strong>. Dopo un’estate di lavoro intenso e silenzioso, a settembre viene alla luce il <a href="http://open.pompeiisites.org/">portale della trasparenza del Grande Progetto Pompei</a> che funziona <a href="https://www.youtube.com/watch?v=t1dsrIHQyHs">così</a> e che è costantemente aggiornato. Nel frattempo però non ci fermiamo con il civic hacking. Diamo una mano agli amici di Wiki Loves Monuments per fare in modo che per la prima volta la Soprintendenza di Pompei conceda l’autorizzazione per la partecipazione al concorso. Non solo la otteniamo, ma organizziamo anche un <a href="http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/">safari fotografico </a>regalando 100 biglietti per fare in modo che tante foto di Pompei possano partecipare al contest e soprattutto entrare nel database di Wikimedia Commons. Alla fine ci prendiamo talmente gusto che anche la <a href="http://www.openpompei.it/tag/premiazione/">premiazione di Wiki Loves Monuments </a>viene organizzata nel parco archeologico. A chiudere questo ricco inverno è lo <a href="http://www.openpompei.it/2015/03/12/ad-maiora/">STVDIVM</a>, scuola di dati archeologici aperti, in collaborazione con il MIBACT, la Soprintendenza di Pompei e la Direzione Generale del Grande Progetto Pompei, alla quale partecipano gratuitamente 22 archeologi provenienti da tutta Italia.</p>
+<p style="text-align: justify;">Manca l’ultima stagione prima della chiusura di OpenPompei. Il nostro impegno a supporto delle politiche di trasparenza del Grande Progetto Pompei continua attraverso il portale, ma per la nostra piccola community di archeologi open e per tutti i cittadini che vogliono vivere Pompei prendendosene anche un po’ cura, sono in arrivo altre sorprese e altri momenti da costruire insieme. Il resoconto delle stagioni passate è una rincorsa per l’ultimo slancio.</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='le stagioni di OpenPompei. Diario di un progetto' st_url='http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='le stagioni di OpenPompei. Diario di un progetto' st_url='http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/'></span><span class='st_plusone_hcount' st_title='le stagioni di OpenPompei. Diario di un progetto' st_url='http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/'></span><span class='st_linkedin_hcount' st_title='le stagioni di OpenPompei. Diario di un progetto' st_url='http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/'></span><span class='st_email_hcount' st_title='le stagioni di OpenPompei. Diario di un progetto' st_url='http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/" rel="category tag">Civic hacking</a>, <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a> e taggato come <a href="http://www.openpompei.it/tag/beni-archeologici/" rel="tag">beni archeologici</a>, <a href="http://www.openpompei.it/tag/civic-hacking/" rel="tag">civic hacking</a>, <a href="http://www.openpompei.it/tag/dati-archeologici/" rel="tag">dati archeologici</a>, <a href="http://www.openpompei.it/tag/grande-pogetto-pompei/" rel="tag">Grande Pogetto Pompei</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/villa-dei-misteri/" rel="tag">Villa dei Misteri</a> il <a href="http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/" title="16:37" rel="bookmark"><time class="entry-date" datetime="2015-03-25T16:37:14+00:00">25 marzo 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/alessia/" title="Visualizza tutti gli articoli di Alessia Zabatino" rel="author">Alessia Zabatino</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+		<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Navigazione articolo</h3>
+			<div class="nav-previous"><a href="http://www.openpompei.it/tag/dati-archeologici/page/2/" ><span class="meta-nav">&larr;</span> Articoli più vecchi</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-below .navigation -->
+	
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/tag/dati-archeologici/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

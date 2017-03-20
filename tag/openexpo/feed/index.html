@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenPompei &#187; OpenExpo</title>
+	<atom:link href="http://www.openpompei.it/tag/openexpo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.openpompei.it</link>
+	<description>Cultura della trasparenza e economia hacker nell&#039;area campana</description>
+	<lastBuildDate>Wed, 16 Mar 2016 22:30:06 +0000</lastBuildDate>
+	<language>it-IT</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.11</generator>
+	<item>
+		<title>Open data e riforma profonda dei processi: il futuro del portale della trasparenza di OpenPompei</title>
+		<link>http://www.openpompei.it/2014/12/10/open-data-e-riforma-profonda-dei-processi-il-futuro-del-portale-della-trasparenza-di-openpompei/</link>
+		<comments>http://www.openpompei.it/2014/12/10/open-data-e-riforma-profonda-dei-processi-il-futuro-del-portale-della-trasparenza-di-openpompei/#comments</comments>
+		<pubDate>Wed, 10 Dec 2014 14:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Alberto Cottica]]></dc:creator>
+				<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[cantieri]]></category>
+		<category><![CDATA[Grande Progetto Pompei]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[OpenExpo]]></category>
+		<category><![CDATA[trasparenza]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1202</guid>
+		<description><![CDATA[Da settembre 2014 il Grande Progetto Pompei ha un sito open data: open.pompeiisites.org, altrimenti detto &#8220;il portale della trasparenza&#8221;. Contiene informazioni finanziare e amministrative sugli appalti (a oggi 40, per un totale di XX milioni di euro). La sua pubblicazione è un passo importante per il mandato di cultura della trasparenza di OpenPompei, ma non [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.openpompei.it/wp-content/uploads/2014/12/trasparenza.jpg"><img class="aligncenter  wp-image-1216" src="http://www.openpompei.it/wp-content/uploads/2014/12/trasparenza.jpg" alt="trasparenza" width="579" height="334" /></a></p>
+<p style="text-align: justify;">Da settembre 2014 il Grande Progetto Pompei ha un sito open data: <a href="http://open.pompeiisites.org">open.pompeiisites.org</a>, altrimenti detto &#8220;il portale della trasparenza&#8221;. Contiene informazioni finanziare e amministrative sugli appalti (a oggi 40, per un totale di XX milioni di euro). La sua pubblicazione è un passo importante per il mandato di cultura della trasparenza di OpenPompei, ma non siamo completamente soddisfatti.</p>
+<p style="text-align: justify;">La ragione di questa insoddisfazione non si vede dal sito: sta nella modalità di aggiornamento dei dati presentati. Al momento del lancio, la fonte dei dati era il Sistema Informativo per la Legalità (SILEG) del Ministero dei beni e attività culturali e del turismo. Si tratta di un servizio di monitoraggio che raccoglie dati sugli appalti non solo dal Grande Progetto Pompei, ma da tutta l&#8217;attività del MIBACT; vive sulla intranet del Ministero stesso, e non è accessibile via Internet a causa dei protocolli di sicurezza che lo disciplinano. Per aggirare il problema, abbiamo lavorato insieme ai tecnici del Segretariato generale del MIBACT: loro hanno creato un clone SILEG su Internet, che contiene i dati relativi ai soli appalti del Grande Progetto Pompei; noi abbiamo scritto uno script che sincronizza il clone SILEG con <a href="http://open.pompeiisites.org">open.pompeiisites.org</a>.</p>
+<p style="text-align: justify;"><span id="more-1202"></span></p>
+<p style="text-align: justify;">Questa soluzione, però, ha tre problemi. Il primo: <strong>i dati così rilevati non sono primari</strong>; sono dati di monitoraggio. Materialmente, vengono immessi da qualcuno a Pompei ogniqualvolta un appalto avanza nel suo percorso (per esempio quando viene pubblicato un bando, o quando vengono aperte le buste con le offerte). Da lì confluiscono nel SILEG. In teoria non ci sono problemi, ma di fatto possono esserci ritardi e errori di trascrizione tra il momento in cui la procedura avanza e quello in cui il dato viene caricato sul SILEG, e qualche volta ci sono. Sarebbe più razionale ed elegante prelevare i dati a monte, nel momento in cui la procedura viene aggiornata nel sistema informativo di Pompei. Questo ha tanto più senso quanto più la direzione generale del MIBACT che gestisce il Grande Progetto Pompei è diventata, dall&#8217;autunno 2014, stazione unica appaltante, e quindi generatrice di dati primari sugli appalti.</p>
+<p style="text-align: justify;">Il secondo problema:  <strong>la catena che porta i dati all&#8217;esposizione in formato open in <a href="http://open.pompeiisites.org">open.pompeiisites.org</a> è tecnicamente fragile</strong>. SILEG è stato progettato per <em>non</em> essere esposto su Internet. La necessità di mantenere un clone che alimenta i &#8220;nostri&#8221; dati aperti impone un costo e una complicazione aggiuntiva al MIBACT. Di fatto, da circa un mese il clone non aggiorna: dati nuovi hanno continuato a comparire su <a href="http://open.pompeiisites.org">open.pompeiisites.org</a>, ma sono stati inseriti a mano.</p>
+<p style="text-align: justify;">Il terzo problema: <strong>questi dati sono esclusivamente di tipo amministrativo</strong>. Sono molto meglio di niente, e danno un contributo sostanziale a rendere trasparente il Grande Progetto Pompei, ma <strong>non dicono nulla su ciò che succede veramente nei cantieri</strong>. Sono uno strumento di gestione solo parziale a disposizione della direzione del GPP.</p>
+<p style="text-align: justify;">Tra le sue altre attività del 2015, OpenPompei intende dare un contributo alla risoluzione di questi problemi. Insieme alla direzione generale Grande Progetto Pompei, abbiamo cominciato a lavorare su una possibile soluzione che li risolverebbe tutti e tre.</p>
+<p style="text-align: justify;">Il punto di partenza è <a href="http://dati.openexpo2015.it/">OpenExpo</a>, un progetto bellissimo di cui noi a OpenPompei siamo grandi ammiratori. La storia è questa: a luglio 2014 Expo2015, afflitto da ritardi sui lavori, guai giudiziari e un pessimo rapporto con l&#8217;opinione pubblica, chiede a <a href="http://wikitalia.it">Wikitalia</a> di essere aiutata ad aprire i suoi dati. OpenExpo va online in soli 60 giorni di lavoro matto e disperatissimo da parte di un gruppo guidato da Giovanni Menduni e che comprende, tra gli altri, Riccardo Luna, Ernesto Belisario e Matteo Brunati.</p>
+<p style="text-align: justify;">Quasi subito, il gruppo di Wikitalia si rende conto che <strong>i dati amministrativi non bastano</strong>. Expo2015 è una gara contro il tempo: tutto deve essere pronto per l&#8217;inaugurazione del 2015. Segnalare che il contratto per costruire X è stato firmato non è sufficiente, tanto più che parliamo di opere la cui realizzazione dura uno o due anni; la dirigenza Expo ha anche bisogno di sapere come procede il lavoro nei cantieri (plurale: ce ne sono molti aperti contemporaneamente). Supponiamo di essere al 180esimo giorno di lavori di un&#8217;opera che ne deve durare 300: possiamo mettere in calendario l&#8217;inaugurazione tra 120 giorni? O siamo in ritardo, e di quanto, e perché? Il completamento di questa opera tiene bloccate altre attività? E così via.</p>
+<p style="text-align: justify;">A questa situazione,Wikitalia risponde con due mosse:</p>
+<ol style="text-align: justify;">
+<li><strong>Sposta il compito di aggiornamento dei dati dalla sede centrale di Expo al cantiere stesso.</strong></li>
+<li><strong>Riaggrega questi dati in una dashboard</strong> in cui, giorno per giorno, i cittadini e la direzione di Expo possono verificare il numero di giornate lavorate rispetto a quello previsto dal totale dei contratti e lo stato di avanzamento dei lavori, definito come la spesa già effettuata sul totale della spesa prevista dal contratto.</li>
+</ol>
+<p style="text-align: justify;">Realizzare la dashboard non è difficile – è solo sviluppo software. Rendere i cantieri responsabili per l&#8217;aggiornamento dei dati, invece, è <em>molto</em> difficile: in cantiere, Expo è rappresentata da un direttore dei lavori, che in genere non è un dipendente di Expo ma un consulente in outsourcing. Se l&#8217;obbligo di aggiornare i dati non compare nel contratto firmato dal direttore dei lavori, questi si può rifiutare di farlo; e con ragione, se l&#8217;aggiornamento è oneroso o complicato. Con un&#8217;innovazione importante, <strong>Giovanni Menduni e il suo gruppo hanno prodotto protocolli di aggiornamento per ciascun dato, che rendono ragionevolmente semplice l&#8217;aggiornamento stesso</strong>. Inizialmente si fa conto sulla moral suasion per convincere i direttori dei lavori a tenere aggiornato il dato; ma i protocolli di aggiornamento possono venire inseriti nei disciplinari dei nuovi bandi e nei relativi contratti di appalto. La ditta appaltatrice, quindi, si impegna legalmente rispettarli.</p>
+<p style="text-align: justify;"><strong>Il Grande Progetto Pompei, secondo noi, è un problema simile a Expo: ha molti cantieri aperti contemporaneamente ed è in gara contro il tempo, per evitare l&#8217;evaporazione dei fondi europei che lo alimentano</strong>. Guidato dal maestro hacker Andrea Borruso, il gruppo di OpenPompei sta lavorando insieme a Giovanni per riadattare al Grande Progetto Pompei sia il software che i protocolli di aggiornamento dati sviluppati da Wikitalia per OpenExpo. Concretamente, questo significherà passare dall&#8217;attuale pagina su <a href="http://pompeiisites.org">pompeiisites.org</a> a un CMS predisposto per open data, come DKAN. Questo conterrà non solo le pagine come quelle attuali, da cui visualizzare anteprime e scaricare dataset, ma anche semplici form online che i dipendenti della Direzione generale del GPP, e i direttori dei lavori nei cantieri, possano usare per tenere i dati aggiornati con pochissimo lavoro. Da qui i dati – a questo punto veramente primari – possono poi venire convogliati nel SILEG in modo automatico o quasi.</p>
+<p style="text-align: justify;"><strong>Questi, notate, non sono problemi tecnici</strong>. Hanno conseguenze profonde su chi ha informazione e potere nei processi di spesa pubblica. Una dashboard come quella di OpenExpo è uno strumento di trasparenza e di governance diffusa molto potente, e la stessa Expo l&#8217;ha implementata solo quando si è trovata con l&#8217;acqua alla gola. La situazione di Pompei è meno drammatica (per fortuna!), ma c&#8217;è una similitudine: come la dirigenza di Expo si è alleata con Wikitalia per OpenExpo, così la direzione generale del MIBACT con competenza sul GPP si è alleata con noi di OpenPompei per <a href="http://open.pompeiisites.org">open.pompeiisites.org</a>. Non è assolutamente sicuro che riusciremo nel nostro intento. Ma ci proveremo, con tutta la buona volontà, e vi terremo informati di quanto riusciremo a fare.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/12/10/open-data-e-riforma-profonda-dei-processi-il-futuro-del-portale-della-trasparenza-di-openpompei/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

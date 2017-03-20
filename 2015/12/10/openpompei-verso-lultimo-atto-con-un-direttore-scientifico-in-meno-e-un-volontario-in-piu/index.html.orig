@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più Feed dei commenti" href="http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Quattro cose che ho imparato lavorando al Sud su open data e beni culturali' href='http://www.openpompei.it/2015/11/30/quattro-cose-che-ho-imparato-lavorando-al-sud-su-open-data-e-beni-culturali/' />
+<link rel='next' title='OpenPompei verso la chiusura: è ora di passare il testimone alla società civile' href='http://www.openpompei.it/2016/01/05/openpompei-verso-la-chiusura-e-ora-di-passare-il-testimone-alla-societa-civile/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=1818' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-1818 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1818" class="post-1818 post type-post status-publish format-standard has-post-thumbnail hentry category-il-progetto-e-le-sue-fasi tag-amministrazione tag-grande-progetto-pompei tag-open-data tag-studiare-sviluppo">
+				<header class="entry-header">
+			<img width="624" height="413" src="http://www.openpompei.it/wp-content/uploads/2014/11/Necropoli_di_porta_vesuvio-624x413.jpg" class="attachment-post-thumbnail wp-post-image" alt="Necropoli di Porta Vesuvio" />						<h1 class="entry-title">OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/#respond" title="Commenti a OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Il 2015 è stato, per OpenPompei, un anno di attività intensa e aperta sul mondo. Abbiamo lavorato tanto in collaborazione stretta e diretta con il territorio pompeiano; con la piccola ma attivissima comunità degli archeologi accademici che producono e usano dati aperti; con le associazioni di Civic Hackers. Le tappe principali di quest&#8217;anno sono state lo STVDIVM, cioè una scuola di dati aperti per l&#8217;archeologia; lo SCRIPTORIVM, cioè il primo archeo-hackathon d&#8217;Italia e uno dei primi al mondo; e TEDxPompeii, un momento di incontro e di raccordo per gli innovatori del Sud, nel segno della legalità. <a title="Quattro cose che ho imparato lavorando al Sud su open data e beni culturali" href="http://www.openpompei.it/2015/11/30/quattro-cose-che-ho-imparato-lavorando-al-sud-su-open-data-e-beni-culturali/">Ho già proposto un riepilogo e una riflessione</a> sul progetto fin qui. L&#8217;unica cosa da aggiungere è la nuova versione del sito open data del Grande Progetto Pompei (<a href="http://open.pompeiisites.org/">http://open.pompeiisites.org/</a>), che verrà pubblicata entro fine anno. E&#8217; basata su DKAN ed è stata costruita dialogando in modo continuo con la Direzione Generale del MIBACT che si occupa del GPP.</p>
+<p><img class="alignnone size-full wp-image-1820" src="http://www.openpompei.it/wp-content/uploads/2015/12/Patti_Marina_OSM-e1449162549942.jpg" alt="Patti_Marina_OSM" width="65%%" height="auto" /></p>
+<p>Ci sono diversi segni che la strategia di apertura, collaborazione con le istituzioni pur mantenendo una forte autonomia di pensiero e di azione, e di <em>leading by example</em> di OpenPompei comincia a funzionare. Diverse persone ci hanno raccontato che si stanno muovendo, stanno prendendo coraggio. L&#8217;ultimo episodio di cui ho avuto notizia è la <a href="https://openpatti.wordpress.com/2015/11/29/la-villa-romana-di-patti-marina-su-openstreetmap/">mappatura della villa romana di Patti Marina su OpenStreetMap</a> che secondo il suo realizzatore, il civic hacker siciliano Nino Galante, è direttamente ispirato a OpenPompei. Il TEDxPompeii, con la scelta forte di invitare Roberto Saviano per unire beni culturali e legalità, è stato molto apprezzato, anche fuori dall&#8217;Italia. <strong>Visti attivismo passato e segnali incoraggiati, immagino che alcuni si aspettassero un turbine di attività dopo l&#8217;estate, per poi avviarsi alla fine del progetto. Così non è stato, e sento di dovervi una spiegazione.</strong></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/12/TEDxPompeii_win.jpg"><img class="alignnone size-full wp-image-1829" src="http://www.openpompei.it/wp-content/uploads/2015/12/TEDxPompeii_win.jpg" alt="TEDxPompeii_win" width="50%" height="auto" /></a></p>
+<p>Succede questo: da maggio 2014 (non è un errore, proprio duemilaquattordici) la struttura amministrativa di OpenPompei è andata in sofferenza. Sono successe due cose:</p>
+<ol>
+<li><strong>È diventato via via più difficile utilizzare in modo intelligente la fonte finanziaria di OpenPompei</strong>, il Piano Operativo Nazionale Governance e Territorio, per gli amici <a href="http://www.dps.gov.it/it/pongat/">PONGAT</a>. Nonostante gli sforzi e la competenze di <a href="http://www.studiaresviluppo.it/">Studiare Sviluppo</a> (la nostra &#8220;nave madre&#8221;), gli strumenti a nostra disposizione sono venuti riducendosi. Per esempio, ci è divenuto impossibile fare attività in qualunque luogo non sia Pompei; e ci è molto difficile invitare a Pompei civic hackers e archeologi che risiedono altrove, pagando loro il viaggio. La scheda di progetto di OpenPompei specifica con chiarezza che la platea degli stakeholders del parco archeologico di Pompeii, forse il più famoso sito archeologico al mondo, è per definizione globale; e ci assegna il compito di collegare il locale con il globale, il territorio con il mondo. Ma poi non ci dà gli strumenti amministrativi per farlo! Mah. Per fortuna c&#8217;è Internet, e molte relazioni sono passate da lì.</li>
+<li><strong>Studiare Sviluppo stessa è entrata in una fase di ritardi nei pagamenti</strong>. Fatica a farsi pagare; fatica a pagare i collaboratori (io, per dire, non ho ricevuto ancora nessun compenso per il 2015). Ai ritardi, purtroppo, si aggiunge l&#8217;incertezza; non si sa quando e se le cose si risolveranno. Abbiamo deciso di non essere troppo puntigliosi, di dare la priorità a fare le cose, e le abbiamo fatte; però, inutile negarlo, il mix micidiale di pagamenti in forte ritardo, totale mancanza di certezze e ostacoli amministrativi hanno logorato lo spirito del mio team. Dopo la doccia di adrenalina di SCRIPTORIVM e TEDx, dopo le vacanze estive, avevamo in mente una chiusura di progetto molto ambiziosa, ma non siamo (ancora) riusciti a concretizzarla.</li>
+</ol>
+<p>La fine di OpenPompei era prevista per la fine di ottobre 2015; a quella data tutti i nostri contratti sono andati in scadenza. Studiare Sviluppo ha chiesto e ottenuto una proroga a fine gennaio 2016 per terminare il progetto con ordine; ha inoltre proposto al mio intero team una proroga dei rispettivi contratti per lavorare su una seconda linea di attività di OpenPompei, che si chiama &#8220;azioni territoriali&#8221;, e di cui io non sono, nè sono mai stato, responsabile (anzi, non ne so praticamente niente). Anche se mi sembra una buona idea in generale, per quanto mi riguarda ho rifiutato la proroga, perché non mi sento di accettare responsabilità a fine progetto per una linea d&#8217;azione che non ho mai seguito, e perché non vedo la serenità amministrativa necessaria per lavorare bene.</p>
+<p>Conclusione: io scendo qui. <strong>A partire dal 1 novembre 2015 non sono più il direttore scientifico di OpenPompei</strong>. Il lavoro fatto a novembre sull&#8217;evento di chiusura è stato lavoro volontario; non escludo di farne altro, ma non accetterò più pagamenti, nè responsabilità, per farlo. Il team di OpenPompei resta in sella con contratto prorogato, e sta decidendo su come chiudere il progetto. Continuate a seguire il blog per restare aggiornati.</p>
+<p><strong>L&#8217;ultima parola è: grazie</strong>. Grazie a tutte le persone con cui ho condiviso questa avventura entusiasmante e imperfetta. Impossibile ricordarle tutte. Ho già citato, ma voglio citare ancora, il &#8220;mio&#8221; team e Studiare Sviluppo, che ha portato la notevole responsabilità di fare da ponte tra il nostro piglio civic hacker e la pubblica amministrazione. Dal lato pubblica amministrazione sono particolarmente grato a Giampiero Marchesi, presidente dello Steering Committee del Grande Progetto Pompei, memoria storica e regista dell&#8217;intera policy governativa sull&#8217;area pompeiana dalla plancia del Dipartimento Politiche di Sviluppo (oggi Agenzia per la Coesione Territoriale); a Fabrizio Barca, vero ideatore dell&#8217;operazione al tempo in cui era ministro, e al suo staff; al Soprintendente Osanna e ai suoi collaboratori (spero che questi ultimi ci perdoneranno alcuni rapporti non proprio idilliaci; alla fine siamo tutti dalla stessa parte, la parte della cultura e della legalità). Un saluto militare al Direttore Generale del MIBACT responsabile del Grande Progetto Pompei, Generale Giovanni Nistri, e ai suoi collaboratori: per merito loro, tutti noi a OpenPompei siamo diventati fans sfegatati dell&#8217;Arma. Menzione speciale per il tenente-civic hacker Emanuele Riganelli, che ha sfidato il fuoco nemico un giorno sì e l&#8217;altro pure nel nome di trasparenza, legalità, e open data. Dal lato associazionismo e archeologia open, mi vengono in mente Eric Poehler e il Pompeii Bibliography and Mapping Project, Julian Richards e l&#8217;Archaeological Data Service, il progetto MAPPA dell&#8217;Università di Pisa, la conferenza Computer Applications in Archeology, Wikimedia Italia, Libera, Open Knowledge Foundation Italia, MappiNa, OnData, Spaghetti Open Data, Wikitalia, Monithon, e sicuramente ne dimentico molte altre. Grazie a tutti voi, esco da questa esperienza un po&#8217; più civic hacker, un po&#8217; più esperto di politiche pubbliche, un po&#8217; più ricco di relazioni e del sapere che mi avete regalato. Conosco Pompeii molto meglio di prima, e la sento molto più mia.</p>
+<p><strong>E ho capito questo: la strada di OpenPompei è difficile, ma giusta</strong>. Ha senso occuparsi di beni culturali dal lato open data, trasparenza e civic hacking. Soprattutto al Sud. Intendo continuare a occuparmene in futuro, anche come presidente di Wikitalia.</p>
+<p>I dati di budget di OpenPompei sono pubblicati come open data sul sito di Open Knowledge Foundation. <a href="http://data.okfn.org/tools/view?url=http%3A%2F%2Fwww.openpompei.it%2Fwp-content%2Fuploads%2Fdata%2Fbudget%2Fdatapackage.json">Li trovate qui</a>: ho chiesto che vengano aggiornati, spero che il mio ormai ex gruppo provveda rapidamente..</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più' st_url='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più' st_url='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/'></span><span class='st_plusone_hcount' st_title='OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più' st_url='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/'></span><span class='st_linkedin_hcount' st_title='OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più' st_url='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/'></span><span class='st_email_hcount' st_title='OpenPompei: verso l&#8217;ultimo atto, con un direttore scientifico in meno e un volontario in più' st_url='http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a> e taggato come <a href="http://www.openpompei.it/tag/amministrazione/" rel="tag">amministrazione</a>, <a href="http://www.openpompei.it/tag/grande-progetto-pompei/" rel="tag">Grande Progetto Pompei</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/studiare-sviluppo/" rel="tag">Studiare Sviluppo</a> il <a href="http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/" title="09:47" rel="bookmark"><time class="entry-date" datetime="2015-12-10T09:47:09+00:00">10 dicembre 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/alberto/" title="Visualizza tutti gli articoli di Alberto Cottica" rel="author">Alberto Cottica</a></span></span>										<div class="author-info">
+					<div class="author-avatar">
+						<img alt='' src='http://1.gravatar.com/avatar/1369d007713efcf6394411b2a7732d7a?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' />					</div><!-- .author-avatar -->
+					<div class="author-description">
+						<h2>Informazioni su Alberto Cottica</h2>
+						<p>Economista, musicista, cittadino attivo. Direttore scientifico del Progetto OpenPompei.</p>
+						<div class="author-link">
+							<a href="http://www.openpompei.it/author/alberto/" rel="author">
+								Visualizza tutti gli articoli di Alberto Cottica <span class="meta-nav">&rarr;</span>							</a>
+						</div><!-- .author-link	-->
+					</div><!-- .author-description -->
+				</div><!-- .author-info -->
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2015/11/30/quattro-cose-che-ho-imparato-lavorando-al-sud-su-open-data-e-beni-culturali/" rel="prev"><span class="meta-nav">&larr;</span> Quattro cose che ho imparato lavorando al Sud su open data e beni culturali</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2016/01/05/openpompei-verso-la-chiusura-e-ora-di-passare-il-testimone-alla-societa-civile/" rel="next">OpenPompei verso la chiusura: è ora di passare il testimone alla società civile <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='1818' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="920ed7d1d4" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="227"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2015/12/10/openpompei-verso-lultimo-atto-con-un-direttore-scientifico-in-meno-e-un-volontario-in-piu/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

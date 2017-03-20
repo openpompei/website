@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Archeologia e open data. Una giornata a Pisa per Opening the Past | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Archeologia e open data. Una giornata a Pisa per Opening the Past Feed dei commenti" href="http://www.openpompei.it/2013/06/15/openingthepast/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='OpenPompei chiama comunità: entra nella long list di esperti di dati aperti e economia hacker' href='http://www.openpompei.it/2013/06/13/openpompei-chiama-comunita-entra-nella-long-list-di-esperti-di-dati-aperti-e-economia-hacker/' />
+<link rel='next' title='Alcune osservazioni su open data e archeologia. Il contributo di tre archeologhe' href='http://www.openpompei.it/2013/06/19/alcune-osservazioni-su-open-data-e-archeologia-il-contributo-di-tre-archeologhe/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2013/06/15/openingthepast/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=126' />
+<meta name='robots' content='noindex,follow' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-126 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-126" class="post-126 post type-post status-publish format-standard hentry category-open-and-wikiarchaeology">
+				<header class="entry-header">
+									<h1 class="entry-title">Archeologia e open data. Una giornata a Pisa per Opening the Past</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2013/06/15/openingthepast/#comments" title="Commenti a Archeologia e open data. Una giornata a Pisa per Opening the Past">4 Repliche</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://www.openpompei.it/wp-content/uploads/2013/06/Home_sess_5_where2.jpg"><img class="size-medium wp-image-127 alignright" alt="Home_sess_5_where2" src="http://www.openpompei.it/wp-content/uploads/2013/06/Home_sess_5_where2-300x300.jpg" width="300" height="300" /></a>Università di Pisa, 14 giugno 2013, seconda giornata di <a href="http://mappaproject.arch.unipi.it/?page_id=1739">Opening the Past</a>: l&#8217; &#8220;archeologia open&#8221; in teoria e in pratica, in Italia e nel resto del mondo. Con me c&#8217;è Paola, la prima archeologa ad aver scritto entusiasta alla mail di OpenPompei; conosco di persona Gabriele di <a href="http://mappaproject.arch.unipi.it/">Mappa Project</a>, dopo diversi scambi via Twitter; Antonia di <a href="http://www.professionearcheologo.it/">Professione Archeologo</a> non riesce a venire, ma mi scrive per farmi conoscere Valeria che è seduta poco più indietro di me. Insomma, sento una piacevole sensazione di community.</p>
+<p>Open data e open access sono ovviamente i temi chiave di ogni presentazione. Alcune di esse riguardano prevalentemente il mondo accademico e la difficoltà di incentivare l&#8217;open access all&#8217;interno delle università italiane senza una legislazione adeguata. Altre presentazioni invece propongono delle sperimentazioni di apertura e utilizzo dei dati archeologici, molte di queste iniziate in ambito accademico per poi essere utilizzate anche all&#8217;esterno. La <em>lectio magistralis </em>di Julian Richards dell&#8217;Università di York fornisce una interessante panoramica sul rapporto tra archeologia e open data nei cinque continenti, a partire dalla sua esperienza: <a href="http://archaeologydataservice.ac.uk/">ADS, Archaelogy Data Service</a>, la prima piattaforma per incentivare l&#8217;utilizzo dei dati digitali nel mondo archeologico creata nel 1996 da un consorzio formato da diverse università britanniche e dal Council for British Archaelogy coordinato dall&#8217;Università di York. La piattaforma oggi raccoglie più di 700 archivi e più di 20.000 report di campagne di scavo. Secondo una ricerca condotta dal Prof. Richards ogni tre mesi su ADS si contano circa 45.000 downloads di dataset e i dati vengono utilizzati prevalentemente per la ricerca, solo il 6% degli utenti usa tali dati per l&#8217;insegnamento e solo l&#8217;11% per sviluppare strategie di management del patrimonio. Dopo ADS sono nate molte altre piattaforme in molti altri paesi per open data archeologici: nel 2007 <a href="http://opencontext.org/">Open Context</a> negli Stati Uniti, nel 2010 <a href="http://sustainablearchaeology.org/">Sustainable Archaeology</a> in Canada, nel 2012 <a href="http://www.nectar.org.au/federated-archaeological-information-management-system">FAIMS </a>in Australia e <a href="http://snd.gu.se/en/start">SND Swedish National Data Service</a> in Svezia che non raccoglie solo open data archeologici, ma anche dati relativi alle scienze sociali, ad altre scienze umanistiche e della medicina. Altre piattaforme invece sono state create in cooperazione da paesi diversi con lo scopo di integrare i datasets come <a href="http://ads.ahds.ac.uk/arena/">Arena</a>, <a href="http://www.europeana.eu/">Europeana</a>, <a href="http://www.fastionline.org/">FastiOnline</a>. La necessità dell&#8217;apertura dei dati archeologici secondo il Prof. Richards è relativa alla necessità di garantire la conservazione: &#8220;there&#8217;s no preservation without re use of the data&#8221;, ha concluso.</p>
+<p>Anche l&#8217;Italia ha la sua piattaforma per open data archeologici, una sola e al suo primo anno di vita: si chiama <a href="http://www.mappaproject.org/">Mappa Project</a>. Sono proprio i suoi creatori ad organizzare il convegno che ci ospita, in occasione del quale presentano i risultati di un sondaggio il cui scopo era quello di capire cosa ne pensa e cosa se ne fa degli open data chi si occupa di archeologia in Italia. In due mesi sono arrivate 650 risposte a ben 61 domande, un numero di risposte importante che però gli ideatori di Mappa Project non sanno quanto sia realmente rappresentativo perché &#8220;non sappiamo davvero quanti siamo&#8221;, dice Francesca Anichini: i dati ministeriali dicono che ci sono più di 6000 archeologi sul campo, le associazioni di categoria ne contano la metà. A fronte di un buon livello di competenze informatiche riscontrato in tutte le persone che hanno risposto al sondaggio, le constatazioni più interessanti sono che, sebbene la metà (47%) sappia cosa siano gli open data e il 90% ritengano che siano il futuro della ricerca archeologica, soltanto un terzo degli intervistati li utilizza e lo fa per fare dei confronti, un po&#8217; come fossero testi. D&#8217;altra parte però l&#8217;80% ha anche affermato che i dati disponibili sino ad ora in Italia sono pochi e non rispettano le caratteristiche minime di completezza per poter essere davvero utili, per esempio ci sarebbe bisogno di più immagini. I risultati del sondaggio ovviamente toccano anche il delicato aspetto della paternità intellettuale dei dati e il 75% di chi ha risposto ritiene necessario riconoscerla a chi genera i dati insieme al diritto di prelazione per un periodo che va dai 3 ai 5 anni dalla pubblicazione. Il 77% concorda nel rendere equiparabili le pubblicazioni dei dati alla pubblicazione scientifica, ma sulla licenza migliore per la pubblicazione una grande percentuale non risponde, mentre una piccola fetta indica la licenza CC BY NC SA (Creative Commons attribution non commercial share alike). I rischi che i dati vengano &#8220;rubati&#8221; e che non siano attendibili sono le remore principali che bloccano molti archeologi ad utilizzare gli open data. Sul problema delle licenze ritorna successivamente l&#8217;avvocato consulente di Mappa Project elencando tutti gli aspetti della legislazione che ha dovuto considerare prima di inserire i dati nell&#8217;archivio, aspetti che mutano in relazione alla diversità degli oggetti (documentazione compilativa, documentazione fotografica, documentazione grafica e &#8220;letteratura grigia&#8221;). L&#8217;avvocato indica una serie di leggi che vincolano la pubblicazione o la rendono problematica e una serie di soluzioni, a volte anche molto semplici, per ovviare a tali restrizioni  come la liberatoria dell&#8217;autore per svincolare l&#8217;opera dai diritti o un semplice permesso per fare e divulgare fotografie del patrimonio archeologico da parte della Soprintendenza di Pisa per uscire dai vincoli del decreto legislativo 42/2004 sul diritto di riproduzione, sino al chiarimento relativo alla compatibilità delle licenze Creative Commons con il diritto di riproduzione di cui sopra e di cui avevamo scritto anche in relazione a <a href="http://www.openpompei.it/2013/06/05/wiki-loves-monuments/">Wiki Loves Monuments</a>. Un&#8217;altra interessante esperienza italiana ce la racconta Simone Massi de La Sapienza di Roma: si tratta di un <a href="http://www.lasapienzamozia.it/wiki/index.php?title=Pagina_principale">sistema aperto </a>per i dati archeologici di Mozia creato utilizzando il software MediaWiki  al quale però bisogna registrarsi per accedere.</p>
+<p>&nbsp;</p>
+<p>La giornata si chiude con una discussione finale in cui, com&#8217;era prevedibile, qualche archeologo scettico dimostra di essersi convinto dell&#8217;utilità dell&#8217;apertura dei dati, altri muovono ancora delle critiche, molto tecniche, ma si dimostrano consapevoli e convinti che sia necessario muoversi lungo questa strada. Insomma, c&#8217;è ancora tanto da scoprire e tantissimo da fare. E per noi la prossima tappa è Catania, il 18 e il 19 giugno per <a href="http://www.archeofoss.org/2012/11/archeofoss-2013-catania/">ArcheoFOSS</a>: Open Source, Free Software e Open Format nei processi di ricerca archeologica. Chi viene con noi?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Archeologia e open data. Una giornata a Pisa per Opening the Past' st_url='http://www.openpompei.it/2013/06/15/openingthepast/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Archeologia e open data. Una giornata a Pisa per Opening the Past' st_url='http://www.openpompei.it/2013/06/15/openingthepast/'></span><span class='st_plusone_hcount' st_title='Archeologia e open data. Una giornata a Pisa per Opening the Past' st_url='http://www.openpompei.it/2013/06/15/openingthepast/'></span><span class='st_linkedin_hcount' st_title='Archeologia e open data. Una giornata a Pisa per Opening the Past' st_url='http://www.openpompei.it/2013/06/15/openingthepast/'></span><span class='st_email_hcount' st_title='Archeologia e open data. Una giornata a Pisa per Opening the Past' st_url='http://www.openpompei.it/2013/06/15/openingthepast/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a> il <a href="http://www.openpompei.it/2013/06/15/openingthepast/" title="13:49" rel="bookmark"><time class="entry-date" datetime="2013-06-15T13:49:45+00:00">15 giugno 2013</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/alessia/" title="Visualizza tutti gli articoli di Alessia Zabatino" rel="author">Alessia Zabatino</a></span></span>.										<div class="author-info">
+					<div class="author-avatar">
+						<img alt='' src='http://1.gravatar.com/avatar/50fd53f0af53eebd33e15c7131f58138?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' />					</div><!-- .author-avatar -->
+					<div class="author-description">
+						<h2>Informazioni su Alessia Zabatino</h2>
+						<p>economista dell'arte, dottoranda in pianificazione urbana, attivista. Per OpenPompei mi occupo dell'animazione territoriale via web e sul campo</p>
+						<div class="author-link">
+							<a href="http://www.openpompei.it/author/alessia/" rel="author">
+								Visualizza tutti gli articoli di Alessia Zabatino <span class="meta-nav">&rarr;</span>							</a>
+						</div><!-- .author-link	-->
+					</div><!-- .author-description -->
+				</div><!-- .author-info -->
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2013/06/13/openpompei-chiama-comunita-entra-nella-long-list-di-esperti-di-dati-aperti-e-economia-hacker/" rel="prev"><span class="meta-nav">&larr;</span> OpenPompei chiama comunità: entra nella long list di esperti di dati aperti e economia hacker</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2013/06/19/alcune-osservazioni-su-open-data-e-archeologia-il-contributo-di-tre-archeologhe/" rel="next">Alcune osservazioni su open data e archeologia. Il contributo di tre archeologhe <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			4 pensieri su &ldquo;<span>Archeologia e open data. Una giornata a Pisa per Opening the Past</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-38">
+		<article id="comment-38" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/09adb1182f60961c91752e5dacc52352?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Valeria Boi</b> </cite><a href="http://www.openpompei.it/2013/06/15/openingthepast/#comment-38"><time datetime="2013-06-16T22:22:42+00:00">16 giugno 2013 alle 22:22</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Ciao Alessia&#8230;<br />
+dopo la tappa pisana, siamo già pronti a ripartire per Catania..<br />
+a prestissimo!</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/06/15/openingthepast/?replytocom=38#respond' onclick='return addComment.moveForm("comment-38", "38", "respond", "126")'>Replica</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-47">
+		<article id="comment-47" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/409eb138d1e08d2173772d4433e2b90d?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://www.professionearcheologo.it' rel='external nofollow' class='url'>Antonia</a></b> </cite><a href="http://www.openpompei.it/2013/06/15/openingthepast/#comment-47"><time datetime="2013-06-17T22:54:06+00:00">17 giugno 2013 alle 22:54</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Ciao Alessia! Che bello vedere i nostri nomi insieme alla parola community!<br />
+In merito alle remore e alle critiche che noi archeologi solleviamo spesso di fronte alle res novae, bisogna avere pazienza e perseverare. Sono certa che il progetto OpenPompei potrà davvero essere un volano in questa direzione. Un abbraccio</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/06/15/openingthepast/?replytocom=47#respond' onclick='return addComment.moveForm("comment-47", "47", "respond", "126")'>Replica</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	<ol class="children">
+	<li class="comment byuser comment-author-alessia bypostauthor even depth-2" id="li-comment-48">
+		<article id="comment-48" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/50fd53f0af53eebd33e15c7131f58138?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Alessia Zabatino</b> <span>Autore articolo</span></cite><a href="http://www.openpompei.it/2013/06/15/openingthepast/#comment-48"><time datetime="2013-06-17T23:02:08+00:00">17 giugno 2013 alle 23:02</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Paola, l&#8217;archeologa che sin dall&#8217;inizio ci sta seguendo, mi diceva che probabilmente i paesi con un patrimonio e una tradizione meno antica riescono più facilmente ad aprirsi al nuovo, come aprire i dati e condividerli dunque con gli altri. Che OpenPompei possa essere un volano per questo noi lo speriamo, ma c&#8217;è anche da dire che come te, Valeria, Paola, Gabriele e Francesca di Mappa Project, ci sono tante persone che stanno lavorando in questa direzione. Unire le forze, credo sia la cosa più semplice e naturale.<br />
+Intanto, perché non entrate a far parte della long list di esperti? <a href="http://www.openpompei.it/2013/06/13/openpompei-chiama-comunita-entra-nella-long-list-di-esperti-di-dati-aperti-e-economia-hacker/" rel="nofollow">http://www.openpompei.it/2013/06/13/openpompei-chiama-comunita-entra-nella-long-list-di-esperti-di-dati-aperti-e-economia-hacker/</a></p>
+<p>Valeria, ci vediamo domani a Catania! <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/06/15/openingthepast/?replytocom=48#respond' onclick='return addComment.moveForm("comment-48", "48", "respond", "126")'>Replica</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-even depth-1" id="comment-51">
+		<p>Pingback: <a href='http://www.professionearcheologo.it/be-open-be-free/' rel='external nofollow' class='url'>Be open, be free | Professione Archeologo</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Rispondi a <a href="#comment-48">Alessia Zabatino</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/06/15/openingthepast/#respond">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='126' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='48' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="59927fd9b9" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="100"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2013/06/15/openingthepast/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

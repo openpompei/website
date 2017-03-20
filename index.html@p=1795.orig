@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Wikimedia Italia ai Ludi Pompeiani | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Wikimedia Italia ai Ludi Pompeiani Feed dei commenti" href="http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Una Pompei moderna che guarda anche al futuro: appuntamento con i Ludi Pompeiani!' href='http://www.openpompei.it/2015/09/17/una-pompei-moderna-che-guarda-anche-al-futuro-appuntamento-con-i-ludi-pompeiani/' />
+<link rel='next' title='Quattro cose che ho imparato lavorando al Sud su open data e beni culturali' href='http://www.openpompei.it/2015/11/30/quattro-cose-che-ho-imparato-lavorando-al-sud-su-open-data-e-beni-culturali/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=1795' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-1795 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1795" class="post-1795 post type-post status-publish format-standard hentry category-il-territorio-racconta tag-buone-pratiche-campane tag-concorso tag-contest tag-crowdsourcing tag-intelligenza-collettiva tag-pompeii tag-wikilovesmonuments tag-wikimedia-italia">
+				<header class="entry-header">
+									<h1 class="entry-title">Wikimedia Italia ai Ludi Pompeiani</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/#respond" title="Commenti a Wikimedia Italia ai Ludi Pompeiani"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: center;"><a href="http://www.openpompei.it/wp-content/uploads/2015/09/768px-Wikimedia_logo_family_complete_2.svg_-624x6241.png"><img class="aligncenter  wp-image-1803" src="http://www.openpompei.it/wp-content/uploads/2015/09/768px-Wikimedia_logo_family_complete_2.svg_-624x6241.png" alt="768px-Wikimedia_logo_family_complete_2.svg_-624x624" width="429" height="429" /></a></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Lo scorso weekend si sono tenuti a Pompei i Ludi Pompeiani, di cui uno dei suoi organizzatori, Gianluca De Martino, ha già raccontato </span><a href="http://www.openpompei.it/2015/09/17/una-pompei-moderna-che-guarda-anche-al-futuro-appuntamento-con-i-ludi-pompeiani/"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;">. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Voglio soffermarmi sui due eventi che si sono svolti in collaborazione con Wikimedia Italia. </span></p>
+<p style="text-align: justify;"><a href="https://wikimediafoundation.org/wiki/I_nostri_progetti"><span style="font-weight: 400;">I progetti della Wikimedia Foundation</span></a><span style="font-weight: 400;">, tra cui Wikipedia e Wikimedia Commons (</span><a href="https://wikimediafoundation.org/wiki/Special:SiteMatrix"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;"> un elenco completo di tutti i progetti con il dettaglio delle diverse lingue in cui sono presenti), sono tutti</span><span style="font-weight: 400;"> sviluppati in maniera collaborativa dai suoi utenti, chiunque voglia partecipare, perciò </span><span style="font-weight: 400;">rappresentano nel loro insieme il maggiore esperimento sulla cosiddetta intelligenza collettiva ed allo stesso ne dimostrano il suo potenziale, amplificato dalle possibilità del ‘digitale’ e del Web 2.0.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">L’obiettivo che li accomuna tutti</span> <span style="font-weight: 400;">è la crescita, lo sviluppo e la distribuzione di </span><a href="https://en.wikipedia.org/wiki/it:free_content"><span style="font-weight: 400;">contenuti liberi</span></a><span style="font-weight: 400;">, in molte lingue, e la messa a disposizione gratuita dei progetti, basati </span><span style="font-weight: 400;">sull&#8217;uso del software </span><a href="https://wikimediafoundation.org/wiki/I_nostri_progetti#MediaWiki"><span style="font-weight: 400;">MediaWiki</span></a><span style="font-weight: 400;"> e rilasciati nei termini della </span><a href="https://en.wikipedia.org/wiki/it:CC-BY-SA"><span style="font-weight: 400;">CC-BY-SA</span></a><span style="font-weight: 400;">: ciò significa che le informazioni possono essere usate, modificate, copiate e redistribuite liberamente, rispettando i termini imposti dalla licenza.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Ogni capitolo locale/nazionale in cui si articola la Wikimedia Foundation porta avanti numerosi progetti nel proprio territorio, oltre a Wikipedia nella propria madrelingua: il capitolo italiano (</span><a href="http://www.wikimedia.it/blog/"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;"> la sezione Blog e News dei progetti di Wikimedia Italia) ha promosso </span><a href="http://www.wikimedia.it/wikipedia-va-a-scuola/"><span style="font-weight: 400;">diverse iniziative nelle scuole</span></a><span style="font-weight: 400;"> e, un esempio fra tanti, EAGLE (di cui abbiamo raccontato </span><a href="http://www.openpompei.it/2014/05/21/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica/"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;">), progetto destinato alle epigrafi latine e frutto della collaborazione con la comunità GLAM (</span><a href="https://outreach.wikimedia.org/wiki/GLAM/Case_studies"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;"> un elenco di progetti GLAM già avviati).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">OpenPompei ha facilitato questo incontro tra i moderni pompeiani e la comunità dei wikimediani perché da esso potrebbero scaturire nuove opportunità di attivazione del territorio ed apertura più ampia possibile attraverso la condivisione della propria cultura, condivisione che grazie alle opportunità offerte dal “digitale” potenzialmente potrebbe avere una scala globale anche per piccole comunità quali quelle dei paesi del Circumvesuviano.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="http://www.openpompei.it/wp-content/uploads/2015/09/IMG_20150920_203242.jpg"><img class="alignleft wp-image-1800 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/09/IMG_20150920_203242-300x300.jpg" alt="IMG_20150920_203242" width="300" height="300" /></a>Tra Wikimedia ed OpenPompei una prima collaborazione è stata </span><a href="http://www.openpompei.it/2014/07/22/anche-pompei-partecipa-a-wiki-loves-monuments/"><span style="font-weight: 400;">quella per Wiki Loves Monuments 2014</span></a><span style="font-weight: 400;">, che si concluse con </span><a href="http://www.openpompei.it/tag/wikilovesmonuments/"><span style="font-weight: 400;">la premiazione del contest italiano</span></a><span style="font-weight: 400;"> proprio nell&#8217;area archeologica di Pompei. La Soprintendenza ha rinnovato l’autorizzazione anche quest’anno, motivo per cui l’Associazione Pompei 2033, che ha curato l’organizzazione dei Ludi Pompeiani, ha lanciato la scorsa domenica 20 settembre una seconda edizione del safari: 30 ingressi sono stati offerti gratuitamente dalla Soprintendenza stessa. Potrebbe questo essere un primo passo verso un circolo di virtuosa collaborazione tra associazioni locali ed istituzioni per promuovere le aree archeologiche del Circumvesuviano.</span></p>
+<p style="text-align: justify;"><span id="more-1795"></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Ma Wiki Loves Monuments è solo uno dei progetti dell’associazione Wikimedia Italia. Degli altri ha parlato il segretario nazionale Luca Martinelli durante il workshop tenutosi nel precedente pomeriggio del sabato. In un lungo excursus si è parlato della Wikimedia Foundation, del suo capitolo nazionale italiano, del suo progetto più conosciuto, Wikipedia. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Molto interesse ha suscitato il progetto </span><a href="https://it.wikisource.org/wiki/Pagina_principale"><span style="font-weight: 400;">Wikisource</span></a><span style="font-weight: 400;">, in cui </span><span style="font-weight: 400;">sono raccolte</span><span style="font-weight: 400;"> fonti (in inglese </span><i><span style="font-weight: 400;">source</span></i><span style="font-weight: 400;"> significa appunto &#8220;fonte&#8221;) in formato testuale, stampabile e navigabile ipertestualmente</span><span style="font-weight: 400;">. Un progetto la cui implementazione potrebbe in parte sopperire alle necessità culturali di cittadine come Pompei che non hanno una propria biblioteca pubblica. Così come progetti di ambito GLAM come </span><a href="http://www.archeowiki.it/"><span style="font-weight: 400;">Archeowiki</span></a><span style="font-weight: 400;"> e </span><a href="https://it.wikipedia.org/wiki/Progetto:GLAM/Wikipediano_in_residenza"><span style="font-weight: 400;">Wikipediano in residenza</span></a><span style="font-weight: 400;"> potrebbero consentire a siti archeologici e musei del Circumvesuviano poco noti o poco accessibili di essere ben rappresentati sul 7° sito non profit più visitato del pianeta con contenuti testuali e multimediali liberamente utilizzabili da tutti.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="http://www.openpompei.it/wp-content/uploads/2015/09/Boscoreale_September_2014_31.jpg"><img class="alignleft wp-image-1799 " src="http://www.openpompei.it/wp-content/uploads/2015/09/Boscoreale_September_2014_31-300x200.jpg" alt="Boscoreale,_September_2014_(31)" width="297" height="198" /></a>Il primo Wikipediano in residenza è stato Liam Wyatt, un contributore australiano di Wikipedia che ha collaborato con il British Museum di Londra nel 2010. Durante il suo periodo di residenza Wyatt ha sviluppato i </span><a href="https://it.wikipedia.org/wiki/Progetto:GLAM/British_Museum"><span style="font-weight: 400;">rapporti tra Wikipedia e il British Museum</span></a><span style="font-weight: 400;">. Matthew Cock, responsabile del sito web del museo, dichiarò: &#8220;Ho guardato quante visite ci sono state su Wikipedia alla </span><a href="https://it.wikipedia.org/wiki/Stele_di_Rosetta"><span style="font-weight: 400;">stele di Rosetta</span></a><span style="font-weight: 400;"> &#8211; che è forse il nostro oggetto iconico &#8211; cinque volte tanto rispetto al nostro sito&#8221;. </span><span style="font-weight: 400;">Dal 2010 più di 50 WiR sono stati assunti in tutto il mondo (anche in Italia). Un museo quale l’</span><a href="https://it.wikipedia.org/wiki/Antiquarium_di_Boscoreale"><span style="font-weight: 400;">Antiquarium di Boscoreale</span></a><span style="font-weight: 400;"> sicuramente ne gioverebbe: pur essendo forse tra i pochi musei italiani dedicati alla cosiddetta Enviromental Archaeology negli ultimi 15 anni poche volte ha superato i 10.000 visitatori all’anno nonostante gli oltre 2 milioni di visitatori che si recano ogni anno nella vicinissima Pompei (</span><a href="http://pompeiisites.org/Sezione.jsp?titolo=Dati+Visitatori&amp;idSezione=9"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;"> i dati sui visitatori forniti dalla Soprintendenza)</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">La seconda parte del workshop con Wikimedia Italia è stata dedicata ad un’altro dei progetti della Fondazione, tra i più giovani: </span><a href="https://it.wikivoyage.org/wiki/Pagina_principale"><span style="font-weight: 400;">Wikivoyage</span></a><span style="font-weight: 400;">, una guida turistica mondiale aggiornabile, affidabile e dal contenuto libero. Esso potrebbe avere una particolare utilità per il cosiddetto “patrimonio minore” o per paesi di piccole dimensioni che gravitano nell’area delle più importanti mete turistiche. Abbiamo provato a implementare la pagina di Pompei che in italiano risulta ancora poco strutturata ed abbiamo abbozzato le pagine di </span><a href="https://it.wikivoyage.org/wiki/Torre_del_Greco"><span style="font-weight: 400;">Torre del Greco</span></a><span style="font-weight: 400;"> ed </span><a href="https://it.wikivoyage.org/wiki/Ercolano"><span style="font-weight: 400;">Ercolano</span></a><span style="font-weight: 400;"> (anzi se volete contribuire alla loro implementazione con qualche consiglio su dove mangiare e dormire, o cosa visitare fate pure! Basta solo avere un wiki-account!).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Poche ore non sono sufficienti a spiegare l’articolato mondo di Wikimedia e le differenti possibilità che esso offrirebbe a piccole comunità di raccontare e diffondere la propria identità culturale attraverso la rete, rafforzando al contempo il senso di appartenenza, perché l’approccio utilizzato in tutti questi progetti è condiviso. Le modifiche sono tutte registrate nello storico di ciascuna pagina, l’enciclopedicità o meno dei contenuti può essere discussa dagli utenti e vagliata tutti insieme, per limitare la ‘proliferazione’ di contenuti ritenuti irrilevanti e pubblicità di qualsiasi tipo, eventuali conflitti di interesse </span><a href="http://www.theregister.co.uk/2012/09/20/wikimedia_uk_scandal/"><span style="font-weight: 400;">sono già accaduti</span></a><span style="font-weight: 400;"> e sono stati denunciati e regolamentati dalla comunità che </span><span style="font-weight: 400;">monitora se stessa e autodisciplina le violazioni delle sue norme</span><span style="font-weight: 400;">. Wikimedia rappresenta dunque un esempio di intelligenza collettiva messa a regime con ottimi e concreti risultati la cui prassi andrebbe esportata e senza dubbio questo è reso agevole dalla facile possibilità di partecipazione ai tanti progetti che essa attua in tutto il mondo attraverso i vari capitoli nazionali, che intervengono in ambiti diversi, ma sono “non generici”, perché si costruiscono e si indirizzano tenendo conto del contesto specifico e in cui devono essere realizzati. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Un progetto che mi ha molto colpita per risultati e partecipazione, nonostante il carattere hyperlocal, è stato Mounmouthpedia. Monmouth, piccola città nella parte sud orientale del Galles, patria dell’illustre storico </span><a href="https://it.wikipedia.org/wiki/Goffredo_di_Monmouth"><span style="font-weight: 400;">Goffredo</span></a><span style="font-weight: 400;">, è stata la prima Wiki-città del mondo. Nel 2011 viene lanciata l’idea di fare un uso diffuso di QRpedia</span><span style="font-weight: 400;">, un sistema che tramite l’uso di </span><a href="https://it.wikipedia.org/wiki/Codice_QR"><span style="font-weight: 400;">codici QR</span></a><span style="font-weight: 400;"> e di uno smartphone mette a disposizione degli utenti collegamenti a voci di Wikipedia in inglese e -</span><span style="font-weight: 400;"> ove disponibili &#8211; in altri idiomi in base alla lingua impostata dall&#8217;utente sul proprio cellulare. Più di 1000 placche QRpedia sono distribuite nel paese, sui muri, vetrine, finestre o su alcuni oggetti, all&#8217;esterno o all&#8217;interno degli edifici. La </span><a href="https://it.wikipedia.org/wiki/Biblioteche_del_Monmouthshire"><span style="font-weight: 400;">Biblioteca di Monmouth</span></a><span style="font-weight: 400;"> è diventata la prima biblioteca al mondo ad aggiungere i QRpedia ai propri libri. </span>Inoltre forte è stato il coinvolgimento della popolazione locale, tanto più grande perché le voci da compilare erano relative al loro territorio, che conoscono meglio di chiunque altro: storia, cultura, botanica, tradizioni locali, curiosità.</p>
+<p style="text-align: justify;">Non sarebbe auspicabile anche per la piccola comunità della moderna Pompei una simile riappropriazione e divulgazione del patrimonio di cultura di un territorio che è ricco di interesse anche oltre la recinzione delle numerose aree archeologiche?</p>
+<p style="text-align: justify;"><em>Foto dei partecipanti alla Wikigita scattata nel calidarium delle Terme del Foro, disponibile su Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg">a questo indirizzo</a>, CC BY SA 4.0</em></p>
+<p style="text-align: justify;"><i>Foto dell’Antiquarium di Bosco Reale di <a class="external text" href="https://www.flickr.com/people/95144248@N05" rel="nofollow">Carla Brain</a></i><i>, disponibile su Wikimedia Commons a </i><a href="https://commons.wikimedia.org/wiki/File:Boscoreale,_September_2014_(31).jpg"><i>questo indirizzo</i></a><i>, CC BY SA 3.0</i></p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Wikimedia Italia ai Ludi Pompeiani' st_url='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Wikimedia Italia ai Ludi Pompeiani' st_url='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/'></span><span class='st_plusone_hcount' st_title='Wikimedia Italia ai Ludi Pompeiani' st_url='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/'></span><span class='st_linkedin_hcount' st_title='Wikimedia Italia ai Ludi Pompeiani' st_url='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/'></span><span class='st_email_hcount' st_title='Wikimedia Italia ai Ludi Pompeiani' st_url='http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/il-territorio-racconta/" rel="category tag">Il territorio racconta</a> e taggato come <a href="http://www.openpompei.it/tag/buone-pratiche-campane/" rel="tag">buone pratiche campane</a>, <a href="http://www.openpompei.it/tag/concorso/" rel="tag">concorso</a>, <a href="http://www.openpompei.it/tag/contest/" rel="tag">contest</a>, <a href="http://www.openpompei.it/tag/crowdsourcing/" rel="tag">crowdsourcing</a>, <a href="http://www.openpompei.it/tag/intelligenza-collettiva/" rel="tag">Intelligenza collettiva</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/wikilovesmonuments/" rel="tag">WikiLovesMonuments</a>, <a href="http://www.openpompei.it/tag/wikimedia-italia/" rel="tag">Wikimedia Italia</a> il <a href="http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/" title="13:41" rel="bookmark"><time class="entry-date" datetime="2015-09-23T13:41:13+00:00">23 settembre 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2015/09/17/una-pompei-moderna-che-guarda-anche-al-futuro-appuntamento-con-i-ludi-pompeiani/" rel="prev"><span class="meta-nav">&larr;</span> Una Pompei moderna che guarda anche al futuro: appuntamento con i Ludi Pompeiani!</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2015/11/30/quattro-cose-che-ho-imparato-lavorando-al-sud-su-open-data-e-beni-culturali/" rel="next">Quattro cose che ho imparato lavorando al Sud su open data e beni culturali <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='1795' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="aaaaa3787d" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="193"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2015/09/23/wikimedia-italia-ai-ludi-pompeiani/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

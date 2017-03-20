@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenPompei &#187; civic hacking</title>
+	<atom:link href="http://www.openpompei.it/tag/civic-hacking/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.openpompei.it</link>
+	<description>Cultura della trasparenza e economia hacker nell&#039;area campana</description>
+	<lastBuildDate>Wed, 16 Mar 2016 22:30:06 +0000</lastBuildDate>
+	<language>it-IT</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.11</generator>
+	<item>
+		<title>Archeologica Academia: made with love in Pompeii</title>
+		<link>http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/</link>
+		<comments>http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/#comments</comments>
+		<pubDate>Fri, 03 Jul 2015 13:46:23 +0000</pubDate>
+		<dc:creator><![CDATA[Paola Liliana Buttiglione]]></dc:creator>
+				<category><![CDATA[Il progetto e le sue fasi]]></category>
+		<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[archeologia]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[crowdsourcing]]></category>
+		<category><![CDATA[hackathon]]></category>
+		<category><![CDATA[Intelligenza collettiva]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Pompei]]></category>
+		<category><![CDATA[Pompeii]]></category>
+		<category><![CDATA[Scriptorivm]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1728</guid>
+		<description><![CDATA[Strumenti e dati La traccia Archeologica Academia ha avuto come obiettivo la realizzazione di uno strumento di navigazione ed implemetazione della “carto-bibliografia” di Pompei, in grado di associare con immediatezza un luogo fisico della città antica ad una risorsa bibliografica ad esso riferita. Il progetto Pompeii Bibliography and Mapping Project (di cui leggerete di più [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><b>Strumenti e dati</b></p>
+<p>La traccia Archeologica Academia ha avuto come obiettivo la realizzazione di uno strumento di navigazione ed implemetazione della “carto-bibliografia” di Pompei, in grado di associare con immediatezza un luogo fisico della città antica ad una risorsa bibliografica ad esso riferita.</p>
+<p>Il progetto <a href="http://digitalhumanities.umass.edu/pbmp/">Pompeii Bibliography and Mapping Project</a> (di cui leggerete di più in un altro post) ne aveva già avviato la realizzazione. Esso nello specifico ha implementato un database di citazioni bibliografiche e un repository dei testi disponibili per intero. Punto di partenza sono state le quasi quindicimila citazioni bibliografiche raccolte in <a href="http://www.arborsapientiae.com/pagina/nova_bibliotheca_pompeiana_project.html">Nova Bibliotheca Pompeiana (NBP)</a> da Laurentino Garcia y Garcia, aggiornate al 2011. Allo stato attuale questo database consta di 9292 record, 5304 record parziali e 1326 record incompleti).</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura2.png"><img class="aligncenter wp-image-1729 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura2.png" alt="Cattura2" width="1360" height="674" /></a></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura3.png"><img class="alignleft wp-image-1730 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura3-300x300.png" alt="Cattura3" width="300" height="300" /></a></p>
+<p>Ad ogni luogo fisico di Pompei, è stata associata la lista dei toponimi utilizzati per identificarlo (es. nella figura sopra, la lista dei toponimi associata a quello più comunemente noto come Teatro Grande: Teatro Scoperto, Tragico, “delle Fontane” oppure <i>Theatrum, Theatrum Maius o Nudum</i>). A ciascuna delle variazioni toponomastiche, è associata la lista delle risorse biliografiche disponibili (come nella figura a lato relativa sempre al Teatro Grande).</p>
+<p>Durante l’hackathon del 19 e 20 giugno scorsi abbiamo raccolto su Zotero un dataset di oltre 18000 citazioni bibliografiche. Partendo da questi dati e dal lavoro di digitalizzazione della base cartografica iniziato da PBMP e rimodellato dal team della track “Pompeiorum Libera Tabula” era già possibile “mappare le pubblicazioni”. Per associare in modo corretto e univoco un luogo fisico alla corrispondente citazione bibliografica, senza disegnare ogni volta la geometria poligonale di riferimento, abbiamo utilizzato la suddivisione della città in regiones, insulae e civici. Essa ci ha consentito di identificare ogni poligono tramite un codice ben preciso, ovvero la successione del numero in cifre romane della regio e del numero in cifre arabe dell’insula ed il civico: es. il “codice” del Teatro Grande è VIII-7.20. Tramite scraping si è importato l’elenco delle insule e relativi civici per ogni regio da Wikipedia (<a href="https://it.wikipedia.org/wiki/Regio_VIII_degli_scavi_archeologici_di_Pompei">es. Regio VIII</a>).</p>
+<p>Zotero fornisce una API che consente di accedere ai tag associati alle citazioni bibliografiche, consentendo poi di filtrarle in base ad essi. Quindi, per identificare in maniera univoca un luogo fisico ad una citazione bibliografica abbiamo utilizzato “tag toponomastici” preceduti dal namespace “op”: es. per il Teatro Grande il tag toponomastico è op:VIII.7.20.</p>
+<p>Abbiamo anche associato alle singole citazioni bibliografiche, ove possibile, un tag di tipo cronologico: la scelta della scansione è ricaduta sull’utilizzo di una serie di fasi, di diversa durata, basate sulla tradizione degli studi:</p>
+<ul>
+<li>età arcaica (VI a.C. &#8211; metà del IV a.C.): op:archaic,-600,-350;</li>
+<li>età sannitica (metà IV a.C. &#8211; 80 a.C.): op:samnitic,-350,-80;</li>
+<li>età tardorepubblicana (80 a.C &#8211; 30 a.C.): op:laterepublic,-80,-30;</li>
+<li>età augustea (30 a.C. &#8211; 14 d.C.): op:augustan,-30-14;</li>
+<li>età imperiale (14 d.C.- 62 d.C.): op:imperial,14,62;</li>
+<li>età post sismica (62 d.C. &#8211; 79 d.C.): op:postseismic.</li>
+</ul>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura4.png"><img class="aligncenter wp-image-1731 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura4.png" alt="Cattura4" width="1361" height="645" /></a></p>
+<p><b>Cosa</b></p>
+<p>Per ora siamo giunti ad <a href="http://openhistorymap.org:9080/#17/40.75097/14.48905">una versione beta</a> della carto-bibliografia.</p>
+<p>A breve rilasceremo dati, strumenti di lavoro, processo e codice su un repository GitHub per consentire a tutti coloro che lo vorranno di inviare proposte, contributi o segnalare issues (e anche riutilizzare!).</p>
+<p>Da subito però potete contribuire ad implementare la raccolta delle citazioni bibliografiche su Zotero: è facilissimo (<a href="https://www.youtube.com/watch?v=q6-YOPS1xY4">qui</a> uno dei tanti tutorial disponibili su YouTube). <a href="https://www.zotero.org/groups/openpompei/items">Ecco il nostro gruppo di lavoro Zotero</a>: iscrivetevi e inserite pure le risorse di vostra conoscenza!</p>
+<p>Il tool che abbiamo messo a punto a partire dal lavoro svolto da PBMP consente quindi un aggiornamento dinamico delle citazioni bibliografiche su Pompei a partire da Zotero. Man mano che la mappatura progedirà, le geometrie poligonali verranno evidenziate tramite una texture scura (come il Teatro Grande nell’immagine sopra), ad indicare che per quel luogo fisico sono state associate già risorse bibliografiche.</p>
+<p><strong>Chi</strong></p>
+<p><b><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura1.png"><img class="alignleft wp-image-1732 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura1-300x184.png" alt="Cattura1" width="300" height="184" /></a></b>Noi scriptores di questa track eravamo in cinque: Marco Montanari, Stefano Costa, Paola Romi, Luana Toniolo, Paola Liliana Buttiglione.</p>
+<p>Le conclusioni di questi due giorni le abbiamo già descritte in alcuni contributi su Medium (<a href="https://medium.com/the-scriptorivm/lo-scriptorivm-dei-miracoli-2b19dae2ec74">qui</a>, <a href="https://medium.com/@ingmmo/scriptorivm-track-2-52e7989f89f2">qui</a>, <a href="https://medium.com/@OpusPaulicium/pompeiopoli-il-gioco-degli-specchi-dfd08b00a083">qui</a>, <a href="https://medium.com/@OpusPaulicium/benvenuti-a-pompeiopoli-bb2cab098693">qui</a> ed ancora <a href="https://medium.com/@paolalilianabuttiglione/che-meraviglia-lo-scriptorivm-f88e22007769">qui</a>!). L’unico commento che possiamo aggiungere a queste parole sono, come ricordato nel footer della carto-bibliografia, “made with love in Pompeii”</p>
+<p><em> Stefano Costa, Marco Montanari, Paola Romi, Luana Toniolo, Paola Liliana Buttiglione</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A #SOD15 è nato anche WePompei!</title>
+		<link>http://www.openpompei.it/2015/04/14/a-sod15-e-nato-anche-wepompei/</link>
+		<comments>http://www.openpompei.it/2015/04/14/a-sod15-e-nato-anche-wepompei/#comments</comments>
+		<pubDate>Tue, 14 Apr 2015 10:23:36 +0000</pubDate>
+		<dc:creator><![CDATA[Criscia]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[#SOD15]]></category>
+		<category><![CDATA[attivismo civico]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Open Pompei]]></category>
+		<category><![CDATA[sito Pompei]]></category>
+		<category><![CDATA[wepompei]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1576</guid>
+		<description><![CDATA[di Ida Leone Ho partecipato a SOD15. É il raduno annuale degli attivisti open data d&#8217;Italia. Persone che si conoscono spesso solo attraverso un nome in una mailing list, o una faccia su Facebook; ma anche amici di vecchia data. Persone di tutte le etá, che fanno tutti i mestieri, che hanno tutti i livelli [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1577" style="width: 719px" class="wp-caption aligncenter"><a href="http://www.openpompei.it/wp-content/uploads/2015/04/wepompei3.png"><img class="wp-image-1577" src="http://www.openpompei.it/wp-content/uploads/2015/04/wepompei3.png" alt="raduno Spaghetti Open Data" width="709" height="253" /></a><p class="wp-caption-text">Raduno SOD15</p></div>
+<p>di <strong><a href="https://twitter.com/Ida_Leone" target="_blank">Ida Leone</a></strong></p>
+<p>Ho partecipato a <a href="http://www.spaghettiopendata.org/page/benvenut-sod15" target="_blank">SOD15</a>.</p>
+<p style="text-align: justify;">É il raduno annuale degli attivisti open data d&#8217;Italia. Persone che si conoscono spesso solo attraverso un nome in una mailing list, o una faccia su Facebook; ma anche amici di vecchia data. Persone di tutte le etá, che fanno tutti i mestieri, che hanno tutti i livelli di esperienza dul civic hacking, dal super newbie curioso al vecchio volpone scafatissimo su tutti i trucchi.</p>
+<p style="text-align: justify;">Ogni anno si prova a fare il punto della situazione, per capire se tutti gli spintoni piccoli e grandi, efficaci o semi inutili che proviamo a dare ogni giorno sono serviti a diffondere un po&#8217; di piú la cultura open in Italia soprattutto nelle Pubbliche Amministrazioni, il vero campo di battaglia, durissimo da arare. Storie di persone, di incontri, di progetti, di idee apparentemente folli che invece riescono a trovare una strada, perfino a prendere il volo. É successo l&#8217;anno scorso con <a href="http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/" target="_blank">Confiscati Bene</a>, ormai un vero progetto di civic hacking che si concentra sulla messa a disposizione in formato aperto di tutti i dati sui beni confiscati alla criminalitá organizzata. Nato durante SOD14, é diventato un progetto che interloquisce con il Governo e con le principali associazioni di lotta alla mafia.</p>
+<div id="attachment_1579" style="width: 525px" class="wp-caption aligncenter"><a href="http://www.openpompei.it/wp-content/uploads/2015/04/wepompei1.jpg"><img class=" wp-image-1579" src="http://www.openpompei.it/wp-content/uploads/2015/04/wepompei1.jpg" alt="Il gruppo al lavoro sul sito wepompei.it" width="515" height="384" /></a><p class="wp-caption-text">Il gruppo al lavoro sul sito wepompei.it</p></div>
+<p style="text-align: justify;">Non sono piú una vera newbie, ma sono ben lungi dall&#8217;essere una esperta. Ho seguito la plenaria del venerdí mattina, e alcuni dei seminari del venerdí pomeriggio (in realtá avrei voluto seguirli tutti, ma erano troppi e si accavallavano). Ma sentivo che l&#8217;asticella per me si alzava soprattutto il sabato, giornata tradizionalmente dedicata all&#8217;hackaton. Mi ero scelta un bel gruppo: quello capitanato da Ilaria Vitellio che &#8211; se l&#8217;idea non é folle non la vogliamo &#8211; intende <a href="http://www.openpompei.it/2015/03/19/pompei-call-to-action-sod15/" target="_blank">rifare il sito degli scavi di Pompei</a>, perché &#8220;<em>quello che esiste fa schif&#8230; ahemm, non risponde perfettamente alle esigenze di chi vuole visitare gli scavi</em>&#8221; (cit.). L&#8217;idea era quella di mettere insieme un gruppo variegato di persone (informatici, mappers, archeologi, elaboratori di contenuti, semplici appassionati) che lavorassero per mettere insieme innazitutto tutti i dati in formato open su Pompei giá disponibili. E poi foto, video, mappe, i film, i libri, tutte le informazioni utili, il tutto in una forma attrattiva e friendly per gli utenti e i soprattutto per i turisti stranieri.</p>
+<p style="text-align: justify;">Un&#8217;idea folle, vero? Eppure alla fine di otto ore di lavoro duro, c&#8217;é giá un embrione di tutto questo. Il lavoro da fare é ancora tanto, ma il gruppo non si é disperso, pur essendo sparpagliato un po&#8217; su tutto il territorio nazionale. Ilaria, Marco, Luigi detto Gigio, Michele e la sottoscritta, che erano a Bologna, ma anche Paola, Criscia, Alice, e tutti quelli che vorranno unirsi a noi, continuano a lavorare.</p>
+<p style="text-align: justify;"><strong> <a href="http://WePompei.it">WePompei.it</a></strong> vi aspetta.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2015/04/14/a-sod15-e-nato-anche-wepompei/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>le stagioni di OpenPompei. Diario di un progetto</title>
+		<link>http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/</link>
+		<comments>http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/#comments</comments>
+		<pubDate>Wed, 25 Mar 2015 15:37:14 +0000</pubDate>
+		<dc:creator><![CDATA[Alessia Zabatino]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[Il progetto e le sue fasi]]></category>
+		<category><![CDATA[beni archeologici]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[dati archeologici]]></category>
+		<category><![CDATA[Grande Pogetto Pompei]]></category>
+		<category><![CDATA[Pompeii]]></category>
+		<category><![CDATA[Villa dei Misteri]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1523</guid>
+		<description><![CDATA[Primavera 2013. È uno strano luogo quello della prima riunione vis a vis del team al completo: arriviamo da diverse parti d&#8217;Italia e ci incontriamo alla fermata della circumvesuviana Villa dei Misteri. Passiamo così dal virtuale al reale ed entriamo per la prima volta come team di OpenPompei negli uffici della Soprintendenza. Siamo qui per supportare [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/03/Pompeii.png"><img class="aligncenter  wp-image-1527" src="http://www.openpompei.it/wp-content/uploads/2015/03/Pompeii.png" alt="Pompeii" width="583" height="345" /></a></p>
+<p style="text-align: justify;"><strong>Primavera 2013</strong>. È uno strano luogo quello della prima riunione vis a vis del team al completo: arriviamo da diverse parti d&#8217;Italia e ci incontriamo alla fermata della circumvesuviana Villa dei Misteri. Passiamo così dal virtuale al reale ed entriamo per la prima volta come team di OpenPompei negli uffici della Soprintendenza. Siamo qui per supportare le politiche di trasparenza del Grande Progetto Pompei e per far in modo che, a partire dall’apertura dei dati, i cittadini attivi possano sperimentare un nuovo legame proattivo con uno dei siti archeologici più chiacchierati del mondo. Veniamo accolti da tanta curiosità quanti punti interrogativi su cosa possa significare la trasparenza a Pompei, dal come farla a quali effetti potrebbe produrre. Il dialogo però è aperto e decidiamo che il modo migliore per disegnare una strada comune con la Soprintendenza è mostrare una demo, la quale dia un’idea concreta di come potrebbero essere visualizzati dati archeologici scientifici ed economici relativi a lavori di restauro e messa in sicurezza.</p>
+<p style="text-align: justify;">Mentre una parte del team si mette al lavoro per realizzarla, un altro pezzo di OpenPompei inizia un viaggio per tappe intorno a Pompei, sino a Napoli, Salerno e la zona di Aversa per conoscere i cittadini attivi e gli innovatori della Campania. Cosa c’entra questo girovagare con la trasparenza del Grande Progetto Pompei? Be’, con chi cominciare a ripensare il rapporto tra i cittadini e l’area archeologica, se non da coloro che a Pompei e anche in altri luoghi della Campania stanno ripensando un nuovo modo di vivere la loro terra?</p>
+<p style="text-align: justify;"><strong>Estate 2013</strong>. Mentre i viaggi continuano, tra <a href="http://www.openpompei.it/2013/06/01/2-post-per-1-viaggio-parte-seconda/">beni confiscati</a> e <a href="http://www.openpompei.it/2013/07/24/nuovopassato/">summer school sull’innovazione rurale</a>, <a href="http://www.openpompei.it/2013/05/31/2-post-per-1-viaggio/">innovatori sociali in bicicletta </a>e <a href="http://www.openpompei.it/2013/05/03/in-avanscoperta/">cooperative di giovani in quartieri periferici di Napoli</a>, la demo viene presentata alla Soprintendenza. Gli occhi si illuminano di fronte alla mappa di Pompei dettagliata come solo quella di OpenStreetMap lo è, con icone che rimandano a dati economici, scientifici e immagini, in modo intuitivo e facilmente consultabile. Non facciamo però in tempo a fare un ulteriore passo avanti e a lavorare sui primi dati del Grande Progetto Pompei perché un periodo politico di transizione cambia i nostri interlocutori.</p>
+<p style="text-align: justify;"><strong>Autunno &#8211; inverno 2013/2014.</strong> Un cambio al vertice del MIBACT determina infatti il passaggio della Soprintendenza dalla Dott.ssa Cinquantaquattro al Dottor Osanna e la creazione della Direzione Generale del Grande Progetto con a capo il Generale Nistri. Il periodo di assestamento interno della Soprintendenza è più lungo del previsto e ci porta a dover concentrare le nostre attività esclusivamente sul civic hacking. Iniziamo dunque a mettere a frutto gli incontri fatti durante i viaggi e tessere collaborazioni. Collaboriamo all’organizzazione del <a href="http://www.openpompei.it/2013/11/11/il-kublai-award-a-napoli-venite/">Kublai Award a Napoli </a>e <a href="http://www.openpompei.it/2014/02/05/piccoli-cittadini-attivi-crescono-la-nostra-collaborazione-con-a-scuola-di-opencoesione/">supportiamo A Scuola di OpenCoesione </a>, progetto MIUR &#8211; DPS di didattica sperimentale in cui ragazzi di scuole superiore di diverse città d’Italia, tra cui Napoli, utilizzano i dati del portale OpenCoesione per costruire progetti interdisciplinari a partire dall’individuazione di problematiche del loro territorio e da monitoraggi civici di progetti finanziati dalle politiche di coesione. Con A Scuola di OpenCoesione andiamo per tre lezioni in aula a Napoli e l’energia dei ragazzi è davvero unica. I nostri viaggi per beni confiscati e la voglia di collaborare con gli amici di <a href="http://www.monithon.it/">Monithon</a> portano all’organizzazione del <a href="http://www.monithon.it/blog/2014/03/10/opmeeting-con-open-pompei-e-libera-parte-la-mappatura-dei-beni-confiscati-alle-mafie/" target="_blank">#OPMeeting</a>: una due giorni di monitoraggi civici in 3 beni confiscati dell’area vesuviana. Il gruppo che si forma in occasione di quest’esperienza non si scioglie alla fine dei monitoraggi, ma poco più di un mese dopo crea quello che potremmo definire uno “spin off” di OpenPompei, di cui andiamo immensamente orgogliosi.</p>
+<p style="text-align: justify;"><strong>Primavera &#8211; Estate  2014.</strong> Al raduno di Spaghetti Open Data infatti, durante l’hackathon guidato da Andrea Borruso “Gli OpenData per liberare l’Energia Potenziale dei beni confiscati alle mafie” <a href="http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/">nasce Confiscati Bene</a> che raccoglie dati, analisi e monitoraggi civici dei beni sequestrati alla criminalità organizzata. L’idea nasce per dare ordine e facilità di accesso alla informazioni che, prima del progetto, erano difficilmente reperibili perché frammentate in diverse mappe e siti, oltre che incomplete. Nello stesso periodo però OpenPompei ritorna anche sulla strada del supporto per la trasparenza del Grande Progetto Pompei: assestata la nuova struttura organizzativa, iniziano gli incontri con la neonata Direzione Generale per ricominciare da dove ci si era interrotti.</p>
+<p style="text-align: justify;"><strong>Autunno- Inverno 2014-2015</strong>. Dopo un’estate di lavoro intenso e silenzioso, a settembre viene alla luce il <a href="http://open.pompeiisites.org/">portale della trasparenza del Grande Progetto Pompei</a> che funziona <a href="https://www.youtube.com/watch?v=t1dsrIHQyHs">così</a> e che è costantemente aggiornato. Nel frattempo però non ci fermiamo con il civic hacking. Diamo una mano agli amici di Wiki Loves Monuments per fare in modo che per la prima volta la Soprintendenza di Pompei conceda l’autorizzazione per la partecipazione al concorso. Non solo la otteniamo, ma organizziamo anche un <a href="http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/">safari fotografico </a>regalando 100 biglietti per fare in modo che tante foto di Pompei possano partecipare al contest e soprattutto entrare nel database di Wikimedia Commons. Alla fine ci prendiamo talmente gusto che anche la <a href="http://www.openpompei.it/tag/premiazione/">premiazione di Wiki Loves Monuments </a>viene organizzata nel parco archeologico. A chiudere questo ricco inverno è lo <a href="http://www.openpompei.it/2015/03/12/ad-maiora/">STVDIVM</a>, scuola di dati archeologici aperti, in collaborazione con il MIBACT, la Soprintendenza di Pompei e la Direzione Generale del Grande Progetto Pompei, alla quale partecipano gratuitamente 22 archeologi provenienti da tutta Italia.</p>
+<p style="text-align: justify;">Manca l’ultima stagione prima della chiusura di OpenPompei. Il nostro impegno a supporto delle politiche di trasparenza del Grande Progetto Pompei continua attraverso il portale, ma per la nostra piccola community di archeologi open e per tutti i cittadini che vogliono vivere Pompei prendendosene anche un po’ cura, sono in arrivo altre sorprese e altri momenti da costruire insieme. Il resoconto delle stagioni passate è una rincorsa per l’ultimo slancio.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2015/03/25/le-stagioni-di-openpompei-diario-di-un-progetto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pompei: call to action #SOD15</title>
+		<link>http://www.openpompei.it/2015/03/19/pompei-call-to-action-sod15/</link>
+		<comments>http://www.openpompei.it/2015/03/19/pompei-call-to-action-sod15/#comments</comments>
+		<pubDate>Thu, 19 Mar 2015 10:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[Criscia]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[#SOD15]]></category>
+		<category><![CDATA[attivismo civico]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[Confiscati Bene]]></category>
+		<category><![CDATA[Pompeii]]></category>
+		<category><![CDATA[SODBologna]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1512</guid>
+		<description><![CDATA[di Ilaria Vitellio &#8211; Ceo Mappina 2.668.178 persone, nel 2014, hanno visitato il sito archeologico di Pompei, non si sa quanti di questi o di altri possibili visitatori sono entrati nel sito web ufficiale, quello gestito dalla Soprintendenza. Ma se pur il dato ci fosse bisognerebbe estrarne quello qualitativo e fare emergere lo spaesamento che [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/03/SOD15.png"><img class="aligncenter  wp-image-1513" src="http://www.openpompei.it/wp-content/uploads/2015/03/SOD15.png" alt="#SOD15" width="554" height="283" /></a><br />
+<span style="color: #000000;">di <strong>Ilaria Vitellio</strong> &#8211; <i>Ceo </i><a style="color: #000000;" href="http://www.mappi-na.it/"><i>Mappina</i></a></span></p>
+<p style="text-align: justify;"><a href="http://pompeiisites.org/Sezione.jsp?titolo=Dati+Visitatori&amp;idSezione=9">2.668.178</a> persone, nel 2014, hanno visitato il sito archeologico di Pompei, non si sa quanti di questi o di altri possibili visitatori sono entrati nel <a href="http://www.pompeiisites.org/">sito web ufficiale</a>, quello gestito dalla Soprintendenza. Ma se pur il dato ci fosse bisognerebbe estrarne quello qualitativo e fare emergere lo spaesamento che probabilmente si prova accedendo al web.</p>
+<p style="text-align: justify;">Certo, la Soprintendenza speciale per i beni archeologici di Pompei, Ercolano e Stabia,  fa il suo lavoro: si presenta, gestisce bandi, eventi e mostre, documenta, elabora e presenta i progetti esistenti.  Ma se volete andare a Pompei e vi volete documentare prima sul web, cosa del tutto normale, dotatevi di pazienza e curiosità perché le informazioni utili sono nascoste (nei box laterali o nelle pagine successive) e dovrete intraprendere una piccola caccia al tesoro della conoscenza.<br />
+Sappiamo che una parte del pubblico denaro del Grande Progetto Pompei, sarà investito per un piano della comunicazione che migliori questo aspetto specifico. Vogliamo quindi provare a dare un contributo alla pubblica amministrazione provando a rifare il sito di Pompei, per suggerire anche quali potrebbero essere le informazioni utili.</p>
+<p style="text-align: justify;">Così ci siamo domandati: “<i>come suggerire la costruzione di un sito web con uno stile di comunicazione che diffonda la conoscenza e faciliti l’accesso reale e virtuale?</i>”</p>
+<p style="text-align: justify;">I contenuti sono tutti già in rete. Dispersi nel mondo del web ci sono mappe, immagini, informazioni, storie e altri dati rilasciati con licenze libere e utilizzabili, ri-utilizzabili e ridistribuibili: i dati, come Pompei, appartengono al genere umano, basta recuperali e dargli senso.</p>
+<p style="text-align: justify;">Poichè non crediamo di essere i soli ad esserci fatta questa domanda e poichè sappiamo che il mondo è pieno di competenze, conoscenze, di civismo attivo e voglia di fare, vogliamo radunare il maggior numero possibile di persone per lavorare insieme a rifare il sito web di Pompei e regalarlo al mondo. E’ questo l’obiettivo dell’hackathon organizzato al terzo raduno annuale di <a href="http://www.spaghettiopendata.org/">Spaghetti Open Data</a> che si tiene a Bologna, 27-29 marzo 2015 e a cui chiunque può <span style="color: #000000;"><a style="color: #000000;" href="http://www.spaghettiopendata.org/content/nuovo-sito-pompei#.VQqmteH8OVA"><b>registrarsi</b></a></span>.</p>
+<p style="text-align: justify;">Spaghetti Open Data &#8211; SOD è una comunità di civismo attivo che “fa cose con dati”, vi partecipano una varietà di persone con competenze diverse interessate al rilascio di dati pubblici in formato aperto, in modo da renderne facile l&#8217;accesso e il riuso. Insomma una comunità il cui collante è la voglia di praticare la democrazia costruendo modi possibili a partire dagli open data. Non bisogna essere smanettoni per partecipare &#8211; io ad esempio sono un urbanista, quando cerco di smanettare mi si blocca il computer e se mi parlano in html sorrido per educazione &#8211; ed esistono almeno 10 buoni motivi per farlo, come sostiene <a href="http://www.chefuturo.it/2014/04/ida-leone-limportanza-dellaiuto-reciproco-e-altre-9-cose-imparate-a-spaghetti-open-data-2014/">Ida Leone</a>, già attiva nell’adunare contenuti su Pompei.</p>
+<p style="text-align: justify;">Saranno due ore di lavoro insieme che ci auguriamo non finiscano a SODBologna, perché sappiamo, da esperienze pregresse come <a href="http://www.confiscatibene.it/it">Confiscati Bene</a>, che SOD è il miglior modo per iniziare!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2015/03/19/pompei-call-to-action-sod15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Data Therapy e beni culturali con OSM e Wikipedia</title>
+		<link>http://www.openpompei.it/2015/03/09/data-therapy-e-beni-culturali-con-osm-e-wikipedia/</link>
+		<comments>http://www.openpompei.it/2015/03/09/data-therapy-e-beni-culturali-con-osm-e-wikipedia/#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 16:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Pietro Blu Giandonato]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[dati aperti]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Openstreetmap]]></category>
+		<category><![CDATA[Wikipedia]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1414</guid>
+		<description><![CDATA[La prima volta che ho sentito parlare di #datatherapy è stato nella lista di OpenPuglia, grazie a Paola Liliana Buttiglione, che ne aveva già scritto qui su OpenPompei. L’idea di curarsi con i dati è al tempo stesso bizzarra e geniale, anzi, direi necessaria. Il motto del progetto #datatherapy del MIT è infatti quello di [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La prima volta che ho sentito parlare di <a href="https://prezi.com/rwknn0wzqrh0/data-therapy-data-day/" target="_blank">#datatherapy</a> è stato nella lista di <a href="http://openpuglia.org/" target="_blank"><b>OpenPuglia</b></a>, grazie a <a href="https://twitter.com/paolalilianab" target="_blank">Paola Liliana Buttiglione</a>, che <a href="http://www.openpompei.it/2015/02/25/progetto-europeo-ariadne-lo-stvdivm-come-archaeological-data-therapy/" target="_blank">ne aveva già scritto qui su OpenPompei</a>.</p>
+<p>L’idea di <b><i>curarsi con i dati</i></b> è al tempo stesso <b>bizzarra e geniale</b>, anzi, direi <b>necessaria</b>. Il motto del <a href="https://datatherapy.wordpress.com/" target="_blank">progetto #datatherapy del MIT</a> è infatti quello di diffondere “<i>creative data literacy for non-data people</i>”. La <i>terapia dei dati</i> è “<b>un processo pratico volto a costruire nelle persone la capacità di trovare e raccontare storie con i dati in maniera creativa</b>”.</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/03/opendatadaybari2015_240.png"><img class="alignleft wp-image-1446 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/03/opendatadaybari2015_240.png" alt="opendatadaybari2015_240" width="240" height="160" /></a>Ed è esattamente <b>quello che abbiamo tentato di fare durante l’OpenDataDay </b>del 21 febbraio scorso, a Bari. Nella <b>track dedicata ai beni culturali </b>mi sono occupato di condurre un’attività dedicata proprio a coloro i quali hanno poca dimestichezza con i dati e la miriade di strumenti con i quali poterci lavorare, ma erano là animati da curiosità e una gran voglia di fare qualcosa, di <b>“sporcarsi le mani”</b>.</p>
+<p>Per professione mi occupo di <a href="http://it.wikipedia.org/wiki/Geomatica" target="_blank">geomatica</a>, e naturalmente ho voluto basare il lavoro da me proposto proprio sui <b>dati geografici</b>, una <b>tipologia di informazioni che sta letteralmente rivoluzionando le nostre vite</b>, poichè tutto, ma proprio tutto ciò che abbiamo intorno possiede un’informazione localizzata. Perfino noi stessi, mentre ci muoviamo con i nostri smartphone al seguito, siamo <b>inconsapevoli produttori di dati geografici</b>. Non ci credete? Se avete uno smartphone Android date un’occhiata alla <a href="https://maps.google.com/locationhistory/b/0" target="_blank">cronologia delle vostre posizioni</a>.</p>
+<p>Nel lontano 2009 la Penn State University lanciò una serie di video divulgativi con il <a href="https://www.youtube.com/watch?v=poMGRbfgp38&amp;list=PLB536E2CAE9CD2EE1" target="_blank"><b>Geospatial Revolution Project</b></a>. Con gli amici del <a href="http://blog.spaziogis.it/geospatial-revolution-project/" target="_blank">blog TANTO</a> ne abbiamo curato la traduzione, vi invito -quando avrete tempo- a guardarli per intero se volete <b>capire come le informazioni spaziali hanno rivoluzionato le nostre vite</b>.</p>
+<h1>Torniamo all’ODD</h1>
+<p>La terapia dei dati, da me proposta inconsapevolmente a chi ha partecipato all’attività il 21 febbraio scorso, si è basata su <b>due dei repository di informazioni e dati aperti e liberi </b>più noti al mondo: <a href="http://www.openstreetmap.org/" target="_blank"><b>OpenStreetMap</b></a> per i dati geografici e <a href="https://it.wikipedia.org/" target="_blank"><b>Wikipedia</b></a> per le informazioni di carattere descrittivo. Si tratta entrambi di progetti supportati dalla <a href="https://wikimediafoundation.org/" target="_blank">Wikimedia Foundation</a>, interamente <b>costruiti con i liberi contributi di milioni di utenti da tutto il mondo</b>, in piena filosofia collaborativa peer to peer.</p>
+<p><b>L’obiettivo è stato quello di aggiornare OSM con le informazioni eventualmente presenti in Wikipedia </b>per elementi presenti sul territorio pugliese, nell’ambito dei beni culturali. Qui sotto trovate la presentazione con il workflow che abbiamo seguito durante l’attività.</p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sTi6qVpaJiMVX3" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/pietroblu/opendataday-2015-bari-odd15-i-luoghi-degli-opendata" title="OpenDataDay 2015 Bari #ODD15 - I luoghi degli #opendata" target="_blank">OpenDataDay 2015 Bari #ODD15 &#8211; I luoghi degli #opendata</a> </strong> from <strong><a target="_blank" href="http://www.slideshare.net/pietroblu">Pietro Blu Giandonato</a></strong> </div>
+<h1>Cos’è Wikipedia</h1>
+<p>Alzi il mouse chi non ha utilizzato la <b>notissima enciclopedia aperta e libera </b>almeno una volta nella vita. Nata nel 2011, i 124 milioni di pagine in 288 lingue che la compongono possono essere <b>modificate da chiunque </b>dei 49 milioni di suoi utenti e non c&#8217;è un comitato di redazione né alcun controllo preventivo sul materiale inviato, che deve avere comunque un <b>punto di vista neutrale</b>. I suoi contenuti sono distribuiti con licenza <a href="http://it.wikipedia.org/wiki/Licenze_Creative_Commons" target="_blank">CC BY-SA 3.0</a> che ne consente il <b>riuso allo stesso modo</b>.</p>
+<h1>Cos’è OpenStreetMap</h1>
+<p>OSM è un progetto nato nel 2004 che punta a <b>creare e rendere disponibili dati geografici, liberi e gratuiti a chiunque ne abbia bisogno</b>. Il progetto è stato lanciato perché la gran parte delle mappe online disponibili normalmente si pensano libere, ma hanno in realtà restrizioni legali o tecniche. <b>Chiunque può utilizzare i dati di OpenStreetMap a qualsiasi scopo </b>(anche commerciale) e <b>senza costi di licenza </b>(<a href="http://opendatacommons.org/licenses/odbl/" target="_blank">ODbL</a>), purché ne citi la fonte. I suoi utenti attualmente sono quasi 2 milioni, mentre gli oggetti che la compongono (vedi slide 16 della presentazione) sono complessivamente più di 3 miliardi.</p>
+<h1>Cosa abbiamo fatto?</h1>
+<p>All’attività hanno partecipato <b>Antonella Ciociola </b>e due ragazzi, ingegneri informatici, dei quali purtroppo non ricordo il nome e ne ho perso le tracce. Siamo partiti da uno strumento web che possiamo considerare <b>l’anello di congiunzione tra Wikipedia e OSM</b>, si tratta di <b>WTOSM</b>, un acronimo che sta appunto per “Wikipedia To OpenStreetMap”. Si tratta di una piattaforma sviluppata in seno alla <a href="http://www.fbk.eu/" target="_blank">Fondazione Bruno Kessler</a> da Simone Groppo e Cristian Consonni. L’istanza pubblica che abbiamo usato durante l’ODD15 è ospitata dalla Fondazione Edmund Mach a <a href="http://geodati.fmach.it/gfoss_geodata/osm/wtosm/it_IT/index_1.html" target="_blank">questo link</a>.</p>
+<p><img class="alignleft" src="http://snag.gy/6yDrz.jpg" alt="" width="276" height="237" /></p>
+<p>In sostanza, <b>WTOSM non fa altro che mostrare quali sono gli articoli presenti in Wikipedia e che potrebbero essere mappati anche in OSM </b>perché appartengono a categorie di oggetti localizzabili sul territorio, ad esempio chiese, aeroporti, siti archeologici, aree protette ecc. In Wikipedia questi oggetti infatti potrebbero avere un <a href="https://it.wikipedia.org/wiki/Template%3ACoord" target="_blank">template Coordinate</a> che ne consentirebbe la localizzazione già nella pagina che li descrive.</p>
+<p>Viene usata una simbologia per indicare quali articoli in Wikipedia sono totalmente privi di coordinate, quali le possiedono ma non sono collegati a oggetti in OSM, e quali invece sono geocodificati in Wikipedia e viceversa in OSM possiedono anche il tag al relativo articolo nell’enciclopedia.</p>
+<p><img class="alignnone" src="http://snag.gy/EayaZ.jpg" alt="" width="578" height="647" /></p>
+<p>Dopo aver familiarizzato con l’interfaccia web e la struttura dati di OSM, <b>Antonella ha scelto di dedicarsi ai teatri pugliesi presenti in Wikipedia</b>. Prima del suo lavoro, quelli collegati tra l’enciclopedia e OSM erano solo 2 su 11 totali, alla fine è riuscita a concludere il lavoro: 10 su 11, l’undicesimo è il <a href="https://it.wikipedia.org/wiki/Teatro_Real_Borbone" target="_blank">Teatro Real Borbone</a> di San Severo, che è stato demolito negli anni ‘30 e non andrebbe considerato da WTOSM.</p>
+<p><b>Il workflow di lavoro adottato </b>è stato grosso modo il seguente:</p>
+<ol>
+<li>scegliamo l’articolo da mappare basandoci sulla legenda;</li>
+<li>il modo più facile per creare/modificare gli elementi in OSM (bisogna creare un proprio account ovviamente) è l’editor web ID, che si aprirà direttamente sulle coordinate in OSM una volta cliccato sull’icona in WTOSM;</li>
+<li>individuiamo sulla mappa l’elemento al quale si riferisce l’articolo di Wikipedia;</li>
+<li>se l’elemento esiste come nodo o poligono, aggiorneremo solo la <a href="http://wiki.openstreetmap.org/wiki/Key:wikipedia" target="_blank">key Wikipedia</a>;</li>
+<li>se l’elemento non esiste affatto, lo creeremo noi stessi come nodo o poligono, aggiungendo anche la key Wikipedia.</li>
+</ol>
+<p><strong>A <a href="https://www.youtube.com/watch?v=_2ouZ7jK5TE" target="_blank">questo link</a> è possibile guardare un utilissimo tutorial di Andrea Borruso che mostra in pochi minuti l’intero processo.</strong></p>
+<h1>Au contraire: aggiornare le coordinate in Wikipedia</h1>
+<p><b>Nei casi in cui siano gli articoli di Wikipedia ad essere privi di coordinate</b>, è possibile aggiornare il <a href="https://it.wikipedia.org/wiki/Template%3ACoord" target="_blank">template Coordinate</a>. Questi sono contrassegnati in WTOSM con l’icona di una W rossa. In sostanza si tratta di <b>invertire il processo</b>:</p>
+<ol>
+<li>individuiamo in OSM l’oggetto cui l’articolo in Wikipedia si riferisce;</li>
+<li>posizioniamo la mappa OSM con al centro l’oggetto;</li>
+<li>copiamo dall’URL nel browser le coordinate (es. 40.63893/17.94436);</li>
+<li>andiamo ad editare in wikitesto l’articolo in Wikipedia (anche in questo caso, bisogna avere un account) inserendo il template Coordinate es. {{coord|40.63893|17.94436|display=title}};</li>
+<li>una volta pubblicate le modifiche, l’articolo sarà geotaggato.</li>
+</ol>
+<p>Nel mio <b>videotutorial </b>qui sotto il procedimento viene illustrato nei dettagli.</p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/xytMFkQT3U8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<h1>Sporchiamoci le mani: i teatri pugliesi tra OSM e Wikipedia (di Antonella Ciociola)</h1>
+<p><strong>Avevo una missione per l’OpenDataDay 2015</strong>: trovare un esperto di open data per il project work dei ragazzi dell’IISS Giulio Cesare di Bari per <a href="http://www.ascuoladiopencoesione.it/" target="_blank">A Scuola di Open Coesione</a>. <strong>L’idea di mettermi a “giocare” con i dati in prima persona non mi aveva mai sfiorato.</strong> Da insegnante di lettere, le<strong> grandi questioni teoriche su partecipazione, beni comuni e cultura condivisa mi hanno sempre affascinato</strong>: come questioni teoriche, appunto, sulle quali è difficile non essere d’accordo e su cui speculare all’infinito. Tuttavia, il piacere di “sporcarmici le mani” l’ho sperimentato con una attività molto pratica e apparentemente semplice, per la quale sono stata “cooptata” da Pietro Blu: aggiornamento di OSM con informazioni presenti in Wikipedia, attraverso la categoria di WTOSM da me scelta: Teatri della Puglia (il teatro è una mia grande passione, e in qualche modo mi sembra di averle così reso omaggio).</p>
+<p>A rispondere <strong>“Prego, nessuna domanda è stupida”</strong>, con un sorriso d’incoraggiamento, sono abituata, è una routine per me: ma quanto può essere entusiasmante porla, anche timidamente, quella domanda stupida, lasciarsi guidare dalla risposta, risolvere un problema? Può essere addirittura inebriante, a volte.</p>
+<p><strong><img class="alignleft wp-image-1449 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/03/antonella_pietroblu-300x168.jpg" alt="antonella_pietroblu" width="300" height="168" />Sono partita press’a poco così: “Pietro, scusami, ma io non so cosa sia una ortofoto…”</strong>; sono entrata in confidenza con nodi, vie e relazioni (elementi, primitive geometriche che rappresentano gli oggetti reali su OSM); ho creato gli account necessari; ho spulciato ben benino le categorie di WTOSM; dopodiché, seguendo le istruzioni del <a href="https://www.youtube.com/watch?v=_2ouZ7jK5TE" target="_blank">tutorial</a> di Andrea Borruso e i pronti suggerimenti di Pietro, dopo un paio d’ore ho raggiunto l’obiettivo di aggiungere, per tutti i teatri pugliesi presenti su OSM, la key Wikipedia. Nella maggior parte dei casi, l’unico elemento da aggiornare è stata solo la key Wikipedia; in due casi, il teatro Mediterraneo di Bisceglie e il teatro Traetta di Bitonto, è stato necessario creare il poligono (attraverso lo strumento area) che identificasse l’edificio su OSM e poi aggiungere la key Wikipedia (“E come devo disegnare il poligono?”). In ultimo, Pietro ha aggiunto le coordinate in Wikipedia anche al teatro Petruzzelli di Bari, che ne era orfano.</p>
+<p>A fine hackathon, ne rimaneva soltanto uno, il teatro Mercadante di Cerignola, privo di coordinate in Wikipedia… ancora per poco. <strong>Ormai le mani me le sono sporcate, e il lavoro l’ho ultimato</strong>, seguendo il <a href="https://www.youtube.com/watch?v=1RF2DdNSC9s" target="_blank">videotutorial</a> “au contraire” prima citato, qualche giorno dopo, in autonomia: nella tabella della categoria Teatri della Puglia di WTOSM non ci sono più icone rosso-allarme. <strong>E una grande, eccitata soddisfazione che mi ha prima sorpreso e poi interrogato: missione (davvero) conclusa? Piuttosto, comincia adesso! </strong>Durante l’attività appena descritta ho conosciuto alcuni teatri pugliesi di cui ignoravo l’esistenza, e contemporaneamente ho notato l’assenza di altri, che invece frequento regolarmente, in OSM e in Wikipedia. Ora so che su OSM posso mapparli, su Wikipedia posso scriverci degli articoli, e poi posso collegare le informazioni. <strong>E magari troverò anche qualcuno insieme a cui provare a raccontare questa nuova storia condivisa… insieme all’esperto di analisi open data, di cui ancora ho bisogno</strong>.</p>
+<h1><img class="alignnone" src="https://pbs.twimg.com/media/B-YO_S7IcAAXaK8.jpg" alt="" width="1" height="1" />Estrarre dati da OSM</h1>
+<p>I due <b>ingegneri informatici</b>, più interessati allo <b>sfruttamento dei dati da OSM</b>, hanno preferito giocare con <a href="http://overpass-turbo.eu" target="_blank"><b>overpass-turbo</b></a>, un tool web sviluppato da <a href="https://www.linkedin.com/pub/martin-raifer/22/957/474/en" target="_blank">Martin Raifer</a> che sfrutta le omonime <a href="http://wiki.openstreetmap.org/wiki/Overpass_API" target="_blank">API</a> per l’estrazione di dati da OpenStreetMap, con query basate sui <a href="http://wiki.openstreetmap.org/wiki/Map_Features" target="_blank">numerosissimi tag</a> che descrivono gli oggetti presenti nel repository OSM.</p>
+<p><b>Con overpass-turbo è possibile creare delle query in maniera molto semplice</b>, anche utilizzando il wizard che consente ad esempio di cercare i teatri presenti a Bari. Ulteriori informazioni su come costruire query le trovate <a href="http://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL" target="_blank">qui</a>.</p>
+<p><b>I dati estratti possono poi essere esportati in molti modi:</b></p>
+<ol>
+<li>come geoJSON da scaricare in locale sul vostro computer;</li>
+<li>come GPX per poterli usare nel vostro dispositivo GPS;</li>
+<li>come dati grezzi;</li>
+<li>usando l’interpreter delle API di Overpass;</li>
+<li>caricandoli in un editor OSM come <a href="https://josm.openstreetmap.de/" target="_blank">JOSM</a> o Level0;</li>
+<li>o, cosa molto interessante, <b>salvandoli in geoJSON direttamente come gist</b>.</li>
+</ol>
+<p>Quest’ultima opzione consente di salvare il dataset come Gist per poi <b>visualizzarlo direttamente in GitHub come </b><a href="https://gist.github.com/anonymous/d3531a32f2d0eb983eeb" target="_blank"><b>mappa</b></a><b> ed editare i dati</b>, ma anche con <b>geojson.io</b>, un potente tool online che consente la visualizzazione come mappa e l’editing dei dati presenti nel gist anche comodamente come tabella (<a href="http://geojson.io/#id=gist:anonymous/d3531a32f2d0eb983eeb&amp;map=14/41.1068/16.8824" target="_blank">link</a>).</p>
+<p><strong>Insomma, <b>tirare fuori dati da OSM ed esportarli in tutti i gusti che volete è davvero una passeggiata </b>alla portata di tutti.</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/-91pplvDRmo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<h1>OSM e Wikipedia, uno per tutti, tutti per uno</h1>
+<p><b>Editare OpenStreetMap e curare gli articoli di Wikipedia, può suscitare grande coinvolgimento</b>, per alcuni può diventare addirittura una <b>vera e propria dipendenza</b>. I meccanismi in gioco sono infatti quelli legati alla <b>gratificazione personale </b>nell’aver contribuito alla <b>conoscenza condivisa</b>, e magari ottenerne anche <b>riconoscimento pubblico</b>, perché no.</p>
+<p>Si tratta di ciò che <b>Clay Shirky</b> -uno dei più sagaci social media analyst- definisce come <b>“</b><a href="http://www.ted.com/talks/view/lang/it//id/896" target="_blank"><b>surplus cognitivo</b></a><b>”</b>, ovvero il bisogno di <b>dedicare buona parte del proprio tempo libero al bene comune</b>, anche come senso di appartenenza a delle comunità, appunto quelle degli <b><i>osmers</i></b> e dei <b><i>wikipediani</i></b>.</p>
+<p>Che siano animati semplicemente da grande partecipazione e coinvolgimento, o da una vera e propria dipendenza, <b>a osmers e wikipediani dovrebbe andare il ringraziamento di tutti noi</b>. Non solo perché utilizziamo i due servizi, ma soprattutto perché <b>questi due immensi repository di informazioni e dati aperti e liberi</b>, stanno diventando una <b>preziosa risorsa </b>per chiunque voglia utilizzarli per creare applicazioni anch’esse aperte e libere, o per fare business.</p>
+<p><b>Organizzare hackathon dedicati all’uso di strumenti come OSM e Wikipedia</b>, dunque, non solo <b>ha un grande valore dal punto di vista didattico </b>e di <b>stimolo alla condivisione </b>gratuita, ma diventa anche <b>un’opportunità per far nascere idee innovative</b>. Perciò non dimenticate mai, se e quando sfrutterete OSM e Wikipedia per fare business, che <b>ci sarà sempre qualcuno da ringraziare</b>. Magari fatelo <b>restituendo a queste due comunità un po’ del vostro lavoro</b>, sempre in maniera aperta e libera. <b>Vi sentirete di certo meglio</b>.</p>
+<h1>Avremmo voluto ma…</h1>
+<p><b>Avevo preparato anche un’altra attività </b>basata su <b>Silk.co</b>, una interessante <b>piattaforma per la visualizzazione di dataset come mappe e grafici dinamici in pagine web</b>, ideale per fare <b>data journalism </b>o come strumento <b>facile da usare e molto intuitivo per scopi didattici</b>. Ecco un semplicissimo esempio costruito con i dati aperti del Comune di Bari <a href="http://barituristica.silk.co" target="_blank">http://barituristica.silk.co</a></p>
+<p><b>Magari sarà al prossimo hackathon!</b></p>
+<div class="storify">Se vi va, potete rivivere <a href="http://storify.com/pietroblu/oddit15-a-bari" target="_blank">&#8220;L&#8217;OpenDataDay a Bari #ODDIT15&#8243; su Storify</a></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2015/03/09/data-therapy-e-beni-culturali-con-osm-e-wikipedia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mumex: un progetto per i musei del Mezzogiorno</title>
+		<link>http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/</link>
+		<comments>http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/#comments</comments>
+		<pubDate>Mon, 22 Dec 2014 14:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[Paola Liliana Buttiglione]]></dc:creator>
+				<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[cultura]]></category>
+		<category><![CDATA[dati aperti]]></category>
+		<category><![CDATA[Monithon]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open government]]></category>
+		<category><![CDATA[territorio]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1230</guid>
+		<description><![CDATA[Il patrimonio culturale ha senza dubbio un potenziale nello sviluppo e nella crescita economica dei territori, non solo per la creazione di nuovi spazi occupazionali e la valorizzazione di aree emarginate, ma anche per il miglioramento del capitale sociale innescato dalla crescita culturale delle comunità locali, dal recupero delle identità territoriali e dalla cooperazione per [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.openpompei.it/wp-content/uploads/2014/12/1301587592072_le_candidature_2.png"><img class="aligncenter wp-image-1232 size-large" src="http://www.openpompei.it/wp-content/uploads/2014/12/1301587592072_le_candidature_2-990x1024.png" alt="1301587592072_le_candidature_2" width="625" height="646" /></a></p>
+<p>Il patrimonio culturale ha senza dubbio un potenziale nello sviluppo e nella crescita economica dei territori, non solo per la creazione di nuovi spazi occupazionali e la valorizzazione di aree emarginate, ma anche per il miglioramento del capitale sociale innescato dalla crescita culturale delle comunità locali, dal recupero delle identità territoriali e dalla cooperazione per incentivare iniziative territoriali. Il caso del Mezzogiorno, tuttavia, dimostra che la presenza del patrimonio culturale, da solo, non è sufficiente a generare sviluppo e crescita economica: basta esaminare i <a href="http://www.enit.it/en/studies-and-research.html">dati diffusi dall’ENIT</a> (Agenzia Nazionale per il turismo) sugli arrivi internazionali per il periodo 2012-2013.</p>
+<p>L’Italia si colloca al 5° posto della classifica, ma su oltre 180 mln di visitatori stranieri, oltre il 60%  (100 mln circa) sono concentrati in sole quattro regioni: Veneto, Lombardia, Lazio e Toscana, nonostante una pari qualità e quantità del patrimonio culturale del Mezzogiorno rispetto a queste regioni. Con lo scopo di attuarne il potenziale nelle regioni dell’Obiettivo Convergenza, il MiBACT, insieme al DPS e ad Invitalia, ha avviato nel 2008 il progetto pilota <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Il_progetto/index.html"><b>Mumex</b></a><b>, Poli Museali di Eccellenza nel Mezzogiorno</b> (che dovrebbe concludersi in questo Dicembre 2014).</p>
+<p><i>Il suo obiettivo è quello di potenziare l’offerta di parte del patrimonio culturale e museale del Mezzogiorno e contribuire alla crescita economica e sociale.</i></p>
+<p>L’offerta culturale in Italia risulta generalmente poco competitiva: nessun museo italiano è nelle top ten dei musei più visitati al mondo per alcuna tipologia. Unica eccezione: i Musei Vaticani, che si trovano però all&#8217;interno della Città del Vaticano (quindi propriamente in un altro stato).</p>
+<p><span id="more-1230"></span></p>
+<p>Gli interventi finanziati per il progetto Mumex dovrebbero facilitare l’attivazione di un circuito virtuoso di “<b>tutela-conservazione-valorizzazione-sviluppo</b>”. Per la sua attuazione sono stati selezionati una serie di interventi da realizzare, ritenuti utili per migliorare lo standard qualitativo dell’offerta culturale, eventualmente replicabili in tutti i musei italiani, qualora risulteranno aver avuto un impatto positivo. Per la scelta dei Poli Museali che avrebbero partecipato al progetto pilota è stata realizzato uno <b>studio preliminare del sistema di offerta culturale</b>, utile punto di partenza per una valutazione a posteriori dell’efficacia del progetto. La maggior parte degli interventi sono stati di natura “infrastrutturale” diretti alle strutture museali o di ripristino e conservazione del patrimonio culturale (riapertura sale chiuse, adeguamento degli impianti, integrazione delle attrezzature ed impianti di accoglienza, interventi di restauro etc), quindi “più facilmente monitorabili”: pochi gli interventi di promozione e valorizzazione (rispetto ai quali i primi risultano tuttavia funzionali e complementari).</p>
+<p><b>Qualche numero sugli afflussi nei musei italiani</b></p>
+<p>Nella top ten dei musei d’Arte più visitati nel 2013, secondo i dati forniti dall&#8217;<a href="http://www.museus.gov.br/wp-content/uploads/2014/04/TheArtNewspaper2013_ranking.pdf">Art Newspaper</a> nell’Aprile 2014, come già scritto ci sono solo i Musei Vaticani. <a href="http://en.wikipedia.org/wiki/List_of_most_visited_art_museums_in_the_world">Qui</a> l’elenco completo dei primi 100 classificati: il primo museo italiano è la Galleria degli Uffizi, al venticinquesimo posto.</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Museo</strong></td>
+<td><strong>Luogo</strong></td>
+<td><strong>Numero di visitatori annui</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="http://en.wikipedia.org/wiki/Louvre">Louvre</a></td>
+<td>Parigi, Francia</td>
+<td>9,334,435</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="http://en.wikipedia.org/wiki/British_Museum">British Museum</a></td>
+<td>Londra, Regno Unito</td>
+<td>6,701,036</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art">Metropolitan Museum of Art</a></td>
+<td>New York, Stati Uniti</td>
+<td>6,226,727</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Gallery">National Gallery</a></td>
+<td>Londra, Regno Unito</td>
+<td>6,031,574</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="http://en.wikipedia.org/wiki/Vatican_Museums">Musei Vaticani</a></td>
+<td>Città del Vaticano, Roma</td>
+<td>5,978,804</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="http://en.wikipedia.org/wiki/Tate_Modern">Tate Modern</a></td>
+<td>Londra, Regno Unito</td>
+<td>4,884,939</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Palace_Museum">National Palace Museum</a></td>
+<td>Taipei, Taiwan</td>
+<td>4,500,278</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Gallery_of_Art">National Gallery of Art</a></td>
+<td>Washington, D.C., Stati Uniti</td>
+<td>4,093,070</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="http://en.wikipedia.org/wiki/Mus%C3%A9e_National_d%27Art_Moderne">Musée National d&#8217;Art Moderne</a></td>
+<td>Parigi, Francia</td>
+<td>3,745,000</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="http://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay">Musée d&#8217;Orsay</a></td>
+<td>Parigi, Francia</td>
+<td>3,500,000</td>
+</tr>
+</tbody>
+</table>
+<p>Se si allarga la ricerca a tutti i musei (non solo quelli d’Arte dunque), la situazione peggiora. La figura di seguito riporta una <a href="http://www.economist.com/blogs/gulliver/2014/06/daily-chart">infografica</a> elaborata dall’Economist a partire da dati estrapolati dal report annuale 2013 <a href="http://www.aecom.com/deployedfiles/Internet/Capabilities/Economics/_documents/ThemeMuseumIndex_2013.pdf">sui numeri di visitatori in parchi tematici e musei</a> curato da <a href="http://www.aecom.com/About">AECOM</a> (Architecture, Engineering, Construction, Operations and Management) e TEA (Themed Entertainment Association). I Musei Vaticani scivolano in ottava posizione (quarta però per la classifica europea). Al primo posto ancora una volta il Louvre con i suoi oltre 9 milioni di visitatori l’anno (una curiosità:  <a href="https://www.youtube.com/watch?v=fcRgCXFxruU">Magic Kingdom</a>, il primo parco tematico costruito all&#8217;interno del Walt Disney World in Florida, raggiunge il doppio dei visitatori annui del Louvre: l’attrattività di Mickey Mouse è irraggiungibile!)</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2014/12/AECOM-attendance-museum.png"><img class="aligncenter wp-image-1233 size-large" src="http://www.openpompei.it/wp-content/uploads/2014/12/AECOM-attendance-museum-956x1024.png" alt="AECOM attendance museum" width="625" height="669" /></a></p>
+<p><b>I Poli Museali di Eccellenza a Napoli</b></p>
+<p>Il progetto  ha selezionato 21 candidature a Polo Museale (come potete vedere nell’immagine di copertina). Per ciascuno dei Poli la cui candidatura è stata ammessa, sono stati progettati diversi interventi (<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289498538705_brochure_I_progetti.pdf">qui</a> sono descritte le prime progettazioni avviate), finanziati dal CIPE o a valere sulle risorse del <a href="http://www.poinattrattori.it/">POIn Attrattori culturali, naturali e turismo</a>, lo stesso programma operativo nell’ambito del quale è stato finanziato il Grande Progetto Pompei.</p>
+<p>Alcuni degli interventi del progetto Mumex ricadono nella stessa area vesuviana e sono -in una certa misura- correlati tra loro ed a Pompei stessa, dal momento che gli interventi andrebbero letti come integrati e finalizzati alla costruzione di un sistema attrattivo anche all’esterno dei singoli Poli Museali, attraverso la riqualificazione del contesto locale e dell’offerta culturale territoriale ed il miglioramento delle condizioni di accessibilità ai siti.</p>
+<p>Non basta restaurare il patrimonio, assicurarne la tutela, allestire i musei con tecniche innovative o incentivare la fruizione. Il caso del sito e del museo dell’area archeologica di Paestum è esemplificativo, essendo poco collegata e poco visitata, nonostante la qualità e quantità dei monumenti e dei reperti esposti. Nuovi investimenti sono stati promessi a valere sui Fondi Strutturali a titolarità Mibact 2014-2020: riqualificazione del museo e treni ad alta panoramicità (<a href="http://www.ansa.it/sito/notizie/cultura/2014/10/31/-treni-a-alta-panoramicita-e-servizi-franceschini-punta-su-paestum_9a3df6b1-64ee-44d7-b39b-90e8b7d90599.html">qui</a> un’articolo sulle dichiarazioni del ministro D. Franceschini rilasciate a Napoli in apertura del <a href="http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1414487485174_ETF_-_PROGRAMMA_FINALE_IT.pdf">Forum Europeo del Turismo</a> dello scorso Ottobre)</p>
+<p>Quattro tra i progetti finanziati nell’ambito del Mumex sono relativi a Poli Museali della città di Napoli.</p>
+<p>Uno è relativo al MANN (Museo Archeologico Nazionale di Napoli), che accoglie -tra l’altro-  <a href="http://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli#Collezioni_pompeiane">collezioni</a> provenienti da Ercolano, Pompei e Stabia.</p>
+<p>Nella <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Napoli/index.html">scheda sul MANN</a> sul sito del Mumex si esplicitano gli obiettivi generali delle progettazioni che sono state avviate:</p>
+<p><i>I principali interventi progettati per il MANN riguardano opere di natura strutturale e di valorizzazione degli spazi espositivi e tendono ad esaltare l’eccezionalità del patrimonio archeologico oltre che a recuperare la funzionalità della struttura.</i></p>
+<p>Di seguito le tre schede di OpenCoesione relative agli interventi progettati:</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/1ca9c122007it161po009/">ristrutturazione braccio nuovo</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/1misecampania6/">realizzazione impianto ventilazione, elettrico, videosorveglianza, sonoro + riallestimento collezione egizia e completamento collezione epigrafica</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/1miser-campania-na1/">adeguamento rete impiantistica etc..</a></li>
+</ul>
+<p>Le altre tre candidature “napoletane” a Poli Museali di Eccellenza sono:</p>
+<ul>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Citta_di_Napoli/index.html">Napoli, Capodimonte</a></li>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Il_Cuore_di_Napoli/index.html">Cuore di Napoli</a></li>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Palazzo_Reale_di_Napoli/index.html">Napoli, Palazzo Reale</a></li>
+</ul>
+<p>Per quanto riguarda Napoli Capodimonte, leggendo la <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Citta_di_Napoli/index.html">scheda relativa</a> sul sito Mumex e facendo una ricerca su OpenCoesione, si trovano una serie di progettazioni coerenti con gli obiettivi esplicitati: (&#8230;) <i>la definitiva apertura del Museo anche nelle ore pomeridiane e serali, la necessità di valorizzare le aree dei giardini verso il belvedere orientale e quello meridionale (luogo di esclusive letture del paesaggio urbano e dell&#8217;intero Golfo di Napoli), la possibile integrazione con la più ampia area del parco monumentale attribuiscono alle opere un significativo valore strategico</i>.</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/bc_00002/">reggia di Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00380/">complesso demaniale parco di Capodimonte &#8211; ristrutturazione palazzine denominate Cataneo</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00375/">complesso demaniale palazzotto borbonico Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00373/">museo CITES Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00346/">stazione CC Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00381/">complesso demaniale parco di Capodimonte &#8211; ristrutturazione palazzine denominate dei Principi</a></li>
+</ul>
+<p>In ogni caso andrebbe verificata la pertinenza al progetto Mumex:</p>
+<p>Per quanto riguarda Cuore di Napoli e Palazzo Reale, alcuni progetti relativi rintracciati sul portale OpenCoesione sono:</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00020/">Santa Chiara</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/bc_00001/">Palazzo Reale</a></li>
+</ul>
+<p><b>Mumex ha migliorato l’offerta culturale nel Mezzogiorno? I risultati dello studio preliminare di offerta culturale</b></p>
+<p>La valutazione ex ante ha prodotto nel 2010 una <b>analisi della competitività dell’offerta museale del Mezzogiorno e benchmark per la valutazione delle 21 candidature a Polo Museale di eccellenza</b>, i cui risultati sono liberamente consultabili e scaricabili <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/I_risultati/Analisi_di_scenario/index.html">qui</a>.</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289498131466_Analisi_di_scenario_e_delle_tipologie_museali_volume_I.pdf">analisi di scenario e delle tipologie museali</a> rileva che il patrimonio culturale del Mezzogiorno concentra al suo interno quasi la metà di tutto il patrimonio archeologico. In Italia, e nel Mezzogiorno in particolare, l&#8217;offerta museale è arricchita dalla possibilità di apprezzare anche il territorio in cui sono nati i beni culturali esposti. Si tratta di un rapporto di immediatezza fisica: uscendo dai tanti musei archeologici è quasi sempre visitabile, a poca distanza o addirittura intorno al museo, il sito archeologico da cui i reperti esposti nel museo provengono. Questo è un vantaggio competitivo proprio di pochi paesi al mondo e certamente non replicabile.</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289810974100_Analisi_di_benchmarking_VOLUME_2.pdf">analisi di benchmarking</a> ha permesso di individuare gli scostamenti tra l&#8217;offerta dei musei nel Mezzogiorno e quella di alcuni importanti musei di paragone italiani ed esteri, individuando infine alcune buone pratiche adottate con riferimento a funzioni  ritenute strategiche ai fini di una loro eventuale replicabilità per i musei del Mezzogiorno (servizi di accoglienza, didattica, edutainment, mostre ed esposizioni, marketing e comunicazione, formazione del personale, fundraising e modelli di gestione).</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1291978169788_Allegati.pdf">analisi di benchmark sulla <b>comunicazione museale</b></a> si articola in otto schede compilate per ciascuno dei poli museali candidati:</p>
+<ol>
+<li>anagrafica</li>
+<li>sito</li>
+<li>elementi di museografia e museologia</li>
+<li>analisi e studio degli elementi che contribuiscono alla comunicazione museale</li>
+<li>servizi per l’utenza</li>
+<li>rapporti con il territorio e con le comunità che vi risiedono</li>
+<li>elementi di mito</li>
+<li>analisi della domanda</li>
+</ol>
+<p>Sarebbe interessante provare a aggiornare i dati qui forniti a quasi un lustro di distanza per capire se ci sono dei miglioramenti misurabili nei vari parametri utilizzati nelle 8 schede ed altri spunti interessanti potrebbero giungere dall&#8217;incrocio con altri dati.</p>
+<p>Relativamente alla scheda 4, ad esempio, sarebbe interessante rapportare quei dati a quanto riportato da <a href="http://www.museum-analytics.org/">Museum Analytics, </a>piattaforma web creata dal collettivo tedesco INTK che rielabora i dati statistici raccolti a livello globale dal Walker Art Center di Minneapolis, che da tempo ha avviato un sistema di censimento delle attività di promozione e comunicazione dei diversi musei.</p>
+<p>Museums Analytics stila sulla presenza on-line delle principali collezioni pubbliche e private al mondo. Valutando il traffico dei rispettivi siti web, monitorando soprattutto la vitalità dei vari profili sui social network (<a href="http://www.museum-analytics.org/facebook/">Facebook</a>, <a href="http://www.museum-analytics.org/twitter/">Twitter</a>) Nella <a href="http://www.museum-analytics.org/museums/">top 100</a> il primo museo italiano che si incontra dopo moltissime posizioni è il MAXXI (Museo Nazionale delle Arti del XXI secolo).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>#OpenSafari: un grazie fotografico</title>
+		<link>http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/</link>
+		<comments>http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/#comments</comments>
+		<pubDate>Fri, 03 Oct 2014 12:31:25 +0000</pubDate>
+		<dc:creator><![CDATA[Criscia]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[In viaggio]]></category>
+		<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[#opensafari]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[concorso]]></category>
+		<category><![CDATA[contes]]></category>
+		<category><![CDATA[fotografia]]></category>
+		<category><![CDATA[wiki loves monuments]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=1007</guid>
+		<description><![CDATA[Come in tutti i momenti di festa che si rispettino, ecco che nei giorni a seguire si cominciano a condividere ricordi, sorrisi e immagini. Il Team di OpenPompei e di Wiki Loves Monuments  non poteva che ringraziare tutti voi del bellissimo #Opensafari di sabato scorso proprio con delle fotografie. Nell&#8217;attesa di vedere anche i vostri scatti, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari_gruppo.jpg"><img class="aligncenter size-large wp-image-1079" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari_gruppo-1024x682.jpg" alt="#opensafari_gruppo" width="625" height="416" /></a></p>
+<p style="text-align: justify;">Come in tutti i momenti di festa che si rispettino, ecco che nei giorni a seguire si cominciano a condividere ricordi, sorrisi e immagini.<br />
+Il Team di OpenPompei e di Wiki Loves Monuments<strong> </strong> non poteva che ringraziare tutti voi del bellissimo <a href="http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/" target="_blank"><strong>#Opensafari</strong></a> di sabato scorso proprio con delle fotografie.<br />
+Nell&#8217;attesa di vedere anche i vostri scatti, vi facciamo intanto un grandissimo in bocca al lupo per il Contest di <a href="http://www.wikilovesmonuments.it/" target="_blank">Wiki Loves Monuments</a>. Che vincano le foto più belle!<br />
+E ricordatevi il prossimo appuntamento, tutti insieme, alla premiazione&#8230; a fine Novembre. <a href="http://www.openpompei.it/2014/09/04/wiki-loves-monuments-a-pompei-ercolano-e-stabia-desiderio-di-scoprire-voglia-di-emozionare-gusto-di-catturare/" target="_blank">Proprio a Pompei</a> <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari17/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari17-150x150.jpg" class="attachment-thumbnail" alt="#opensafari17" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari1/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari1-150x150.jpg" class="attachment-thumbnail" alt="#opensafari1" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari18/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari18-150x150.jpg" class="attachment-thumbnail" alt="#opensafari18" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari2/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari2-150x150.jpg" class="attachment-thumbnail" alt="#opensafari2" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari19/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari19-150x150.jpg" class="attachment-thumbnail" alt="#opensafari19" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari3/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari3-150x150.jpg" class="attachment-thumbnail" alt="#opensafari3" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari20/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari20-150x150.jpg" class="attachment-thumbnail" alt="#opensafari20" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari4/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari4-150x150.jpg" class="attachment-thumbnail" alt="#opensafari4" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari21/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari21-150x150.jpg" class="attachment-thumbnail" alt="#opensafari21" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari5/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari5-150x150.jpg" class="attachment-thumbnail" alt="#opensafari5" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari22/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari22-150x150.jpg" class="attachment-thumbnail" alt="#opensafari22" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari6/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari6-150x150.jpg" class="attachment-thumbnail" alt="#opensafari6" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari23/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari23-150x150.jpg" class="attachment-thumbnail" alt="#opensafari23" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari7/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari7-150x150.jpg" class="attachment-thumbnail" alt="#opensafari7" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari24/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari24-150x150.jpg" class="attachment-thumbnail" alt="#opensafari24" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari9/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari9-150x150.jpg" class="attachment-thumbnail" alt="#opensafari9" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari25/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari25-150x150.jpg" class="attachment-thumbnail" alt="#opensafari25" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari10/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari10-150x150.jpg" class="attachment-thumbnail" alt="#opensafari10" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari11/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari11-150x150.jpg" class="attachment-thumbnail" alt="#opensafari11" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari12/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari12-150x150.jpg" class="attachment-thumbnail" alt="#opensafari12" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari13/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari13-150x150.jpg" class="attachment-thumbnail" alt="#opensafari13" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari14/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari14-150x150.jpg" class="attachment-thumbnail" alt="#opensafari14" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari15/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari15-150x150.jpg" class="attachment-thumbnail" alt="#opensafari15" /></a>
+<a href='http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/opensafari16/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2014/10/opensafari16-150x150.jpg" class="attachment-thumbnail" alt="#opensafari16" /></a>
+
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/10/03/opensafari-un-grazie-fotografico/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Appunti di servizio per il Safari Fotografico a Pompei: cominciate a prepararvi</title>
+		<link>http://www.openpompei.it/2014/09/22/appunti-di-servizio-per-il-safari-fotografico-a-pompei-cominciate-a-prepararvi/</link>
+		<comments>http://www.openpompei.it/2014/09/22/appunti-di-servizio-per-il-safari-fotografico-a-pompei-cominciate-a-prepararvi/#comments</comments>
+		<pubDate>Mon, 22 Sep 2014 12:30:38 +0000</pubDate>
+		<dc:creator><![CDATA[Criscia]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[beni archeologici]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[concorso]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[fotografia]]></category>
+		<category><![CDATA[Pompei]]></category>
+		<category><![CDATA[premiazione]]></category>
+		<category><![CDATA[trasparenza]]></category>
+		<category><![CDATA[WikiLovesMonuments]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=973</guid>
+		<description><![CDATA[&#160; Mancano pochi giorni al Safari Fotografico a Pompei. E noi non vediamo l&#8217;ora. Come vi avevamo accennato, ci avete stupito: i primi 50 biglietti fatti fuori in poco più di un giorno, e i secondi 50 messi a disposizione in ancora meno. A breve arriverà una mail a tutti i 100 iscritti, con alcune indicazioni [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_mappa.png"><img class="aligncenter  wp-image-983" src="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_mappa.png" alt="Pompei_mappa" width="458" height="346" /></a></p>
+<p>&nbsp;</p>
+<p>Mancano pochi giorni al <a href="http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/" target="_blank">Safari Fotografico a Pompei</a>. E noi non vediamo l&#8217;ora.<br />
+Come vi avevamo accennato, ci avete stupito: i primi 50 biglietti fatti fuori in poco più di un giorno, e i secondi 50 messi a disposizione in ancora meno.</p>
+<p>A breve arriverà una mail a tutti i 100 iscritti, con alcune indicazioni utili e la cortese richiesta di avvertirci qualora foste impossibilitati a venire a Pompei il 27 Settembre.<br />
+Questo ci aiuterà a conoscere il numero esatto dei partecipanti, ma ci darà anche la possibilità di far partecipare altri al posto di chi non potrà più raggiungerci.<br />
+Molti infatti ci stanno scrivendo in questi giorni per riuscire ad essere comunque con noi. Per questo <strong>oggi riapriamo <a href="https://www.eventbrite.it/e/biglietti-safari-fotografico-openpompei-e-wiki-loves-monuments-13067977673?" target="_blank">l&#8217;evento su eventbrite</a> inserendo una lista d&#8217;attesa</strong>. Tutti quelli che non hanno fatto in tempo a prendere i biglietti possono cominciare a iscriversi lì (mi raccomando, <strong>entro il 25 settembre</strong>).</p>
+<p>Nel frattempo qualche appunto di servizio e riepilogo dei prossimi passi:</p>
+<ul>
+<li>Ecco a voi alcune Mappe: vi saranno utili per la giornata: in rosso sono riempite le zone per cui non sono presenti foto su wikimedia commons e su cui vorremmo indirizzare i vostri sforzi di civic hacker per illustrare la città di Pompei sulla enciclopedia libera: <a href="http://www.openpompei.it/wp-content/uploads/2014/09/Mappa1.png" target="_blank"><strong>Mappa1</strong></a> &#8211; <strong><a href="http://www.openpompei.it/wp-content/uploads/2014/09/Mappa2.png" target="_blank">Mappa2</a></strong></li>
+</ul>
+<ul>
+<li>chi non è ancora registrato al sito di <a href="%20http://www.wikilovesmonuments.it/partecipa/modulo-di-autorizzazione/" target="_blank">Wiki Love Monuments</a> è invitato a farlo. Per ogni dubbio, ecco il link al Regolamento: <a href="http://www.wikilovesmonuments.it/regolamento/">http://www.wikilovesmonuments.it/regolamento/</a></li>
+</ul>
+<ul>
+<li>come accennato, gli iscritti al Safari Fotografico riceveranno una e-mail nelle prossime ore.</li>
+</ul>
+<p>E tenetevi pronti. Macchine fotografiche in mano <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/09/22/appunti-di-servizio-per-il-safari-fotografico-a-pompei-cominciate-a-prepararvi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Safari a Pompei: altri 50 biglietti disponibili</title>
+		<link>http://www.openpompei.it/2014/09/16/safari-a-pompei-altri-50-biglietti-disponibili/</link>
+		<comments>http://www.openpompei.it/2014/09/16/safari-a-pompei-altri-50-biglietti-disponibili/#comments</comments>
+		<pubDate>Tue, 16 Sep 2014 13:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[Criscia]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[beni archeologici]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[concorso]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[fotografia]]></category>
+		<category><![CDATA[Pompei]]></category>
+		<category><![CDATA[premiazione]]></category>
+		<category><![CDATA[trasparenza]]></category>
+		<category><![CDATA[WikiLovesMonuments]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=948</guid>
+		<description><![CDATA[Alla fine è successo tutto in un lampo. Abbiamo aperto le prenotazioni per partecipare al Safari Fotografico a Pompei, pensato per i partecipanti al contest di Wiki Love Monuments, solo 4 giorni fa: in poco più di 24 ore i 50 biglietti disponibili erano già esauriti. Questo post solo per comunicarvi che siamo riusciti a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_Safari-Fotografico.jpg"><img class="alignleft wp-image-943 " src="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_Safari-Fotografico.jpg" alt="Pompei_Safari Fotografico" width="274" height="206" /></a></p>
+<p style="text-align: justify;">Alla fine è successo tutto in un lampo. Abbiamo aperto le prenotazioni per partecipare al <a href="http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/" target="_blank">Safari Fotografico a Pompei</a>, pensato per i partecipanti al contest di Wiki Love Monuments, solo 4 giorni fa: in poco più di 24 ore i 50 biglietti disponibili erano già esauriti.</p>
+<p>Questo post solo per comunicarvi che <strong>siamo riusciti a metterne a disposizione altri 50</strong>.<br />
+Mi raccomando, <strong>iscrizioni sempre entro il 22 Settembre</strong>: sempre allo <a href="http://www.eventbrite.it/e/biglietti-safari-fotografico-openpompei-e-wiki-loves-monuments-13067977673" target="_blank">stesso link</a> su eventbrite <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/09/16/safari-a-pompei-altri-50-biglietti-disponibili/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Safari a Pompei: work in progress! (ed intanto ecco come prenotarsi&#8230;)</title>
+		<link>http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/</link>
+		<comments>http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/#comments</comments>
+		<pubDate>Fri, 12 Sep 2014 10:03:22 +0000</pubDate>
+		<dc:creator><![CDATA[Paola Liliana Buttiglione]]></dc:creator>
+				<category><![CDATA[Civic hacking]]></category>
+		<category><![CDATA[Open and WikiArchaeology]]></category>
+		<category><![CDATA[OpenData]]></category>
+		<category><![CDATA[beni archeologici]]></category>
+		<category><![CDATA[civic hacking]]></category>
+		<category><![CDATA[concorso]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[fotografia]]></category>
+		<category><![CDATA[Pompei]]></category>
+		<category><![CDATA[premiazione]]></category>
+		<category><![CDATA[trasparenza]]></category>
+		<category><![CDATA[WikiLovesMonuments]]></category>
+
+		<guid isPermaLink="false">http://www.openpompei.it/?p=932</guid>
+		<description><![CDATA[C’è feeling e unione d’intenti, ormai è chiaro! Dopo aver ottenuto l’autorizzazione della Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia per la partecipazione al contest Wiki Loves Monuments, la nostra collaborazione con Wikimedia Italia continua, guardando verso un comune obiettivo: diffondere le immagini per la  valorizzazione del patrimonio e la diffusione [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_Safari-Fotografico.jpg"><img class="aligncenter  wp-image-943" src="http://www.openpompei.it/wp-content/uploads/2014/09/Pompei_Safari-Fotografico.jpg" alt="Pompei_Safari Fotografico" width="525" height="394" /></a></p>
+<p>C’è feeling e unione d’intenti, ormai è chiaro! Dopo aver ottenuto l’autorizzazione della Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia per la partecipazione al contest Wiki Loves Monuments, la nostra collaborazione con Wikimedia Italia continua, guardando verso un comune obiettivo: diffondere le immagini per la  valorizzazione del patrimonio e la diffusione della conoscenza. Quest’anno, per la prima volta dunque, le fotografie del parco archeologico più famoso al mondo potranno partecipare al contest. E noi speriamo che tanti fotografi scelgano gli affascinanti soggetti/oggetti che questo luogo fuori dal tempo conserva.</p>
+<p>Per questo, con la collaborazione della Direzione Generale del Grande Progetto Pompei e della Soprintendenza, <strong>vi invitiamo il 27 settembre a partecipare ad un safari fotografico pensato per i partecipanti al concorso.</strong></p>
+<blockquote><p><strong><em>OpenPompei offre 50 biglietti d’ingresso alle prime 50 persone che si iscriveranno entro il 22 settembre: <a href="https://www.eventbrite.it/e/biglietti-safari-fotografico-openpompei-e-wiki-loves-monuments-13067977673" target="_blank">qui</a> il form da compilare per la prenotazione del proprio biglietto!</em></strong></p></blockquote>
+<p><span id="more-932"></span></p>
+<p>I fotografi, nel corso del safari, procederanno di <i>regio</i> in <i>regio</i> e anche attraverso la necropoli per cogliere al meglio l’opportunità unica di fotografare il maggior numero possibile di <a href="https://it.wikipedia.org/wiki/Progetto:Wiki_Loves_Monuments_2014/Monumenti/Campania/Pompei">oggetti in elenco</a> <strong>*</strong> e di illustrare le pagine dedicate alle singole <i>regiones </i>di Pompei su Wikipedia. C’è tanto lavoro e tanti “buchi” da colmare: ad esempio andando nella pagina dedicata alla Regio I, si scopre che non è stata inserita ancora nessuna immagine della casa del Criptoportico, il cui restauro architettonico e strutturale, finanziato nell&#8217;ambito del Grande Progetto Pompei, si è concluso pochi mesi fa.</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2014/09/Regio-I-Insula-6.png"><img class="aligncenter wp-image-933 size-full" src="http://www.openpompei.it/wp-content/uploads/2014/09/Regio-I-Insula-6.png" alt="Regio I Insula 6" width="1071" height="552" /></a></p>
+<p>Per cogliere al meglio l’importanza che WLM ed il safari correlato rappresentano per la valorizzazione e la conoscenza del sito, basta il confronto con un sito australiano, <a href="http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2006%2002%20p1.htm">Pompei in Pictures</a>, in cui sono stati caricate ad oggi ben 18 foto della <a href="http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2006%2002%20p1.htm">Casa del Criptoportico</a>.</p>
+<p>Colpisce moltissimo <a href="http://pompeiiinpictures.com/pompeiiinpictures/contact%20us.htm">la lettura delle motivazioni</a> che hanno spinto due privati cittadini australiani, Jackie e Bob Dunn, a realizzare questo progetto (che continua ad implementare la galleria di immagini grazie a contributi di chiunque invii foto):</p>
+<p><i>&#8220;Many of the books only contained photos of the same well visited houses.  </i><i>None showed the smaller homes and houses, which seemed ignored but just as interesting</i><i>.</i></p>
+<p><i>(&#8230;) we have built a photographic record indicating all the doorways of houses, shops, temples, workshops, bars and ancient pubs as a way to clear the mystery once and for all and </i><i>provide a solid base for students, teachers, authors, museums, researchers and all to use for reference</i><i>.&#8221;</i></p>
+<p>Le stesse considerazioni hanno spinto all&#8217;organizzazione del safari: su Wikimedia Commons mancano spesso le foto dei monumenti meno visitati e sarebbe utile iniziare a costruire, con il contributo di tutti i partecipanti, una documentazione fotografica dettagliata della città di Pompei, che sia anche un utile strumento per chiunque voglia approcciarsi alla conoscenza del sito, spinto dalla curiosità o per motivi di studio e ricerca.</p>
+<p>A breve informazioni più dettagliate su orari e organizzazione logistica del 27, ma intanto non c’è tempo da perdere&#8230; <strong>le <a href="https://www.eventbrite.it/e/biglietti-safari-fotografico-openpompei-e-wiki-loves-monuments-13067977673?" target="_blank">iscrizioni</a> chiudono il 22!</strong></p>
+<p dir="ltr" style="line-height: 1; margin-top: 0pt; margin-bottom: 0pt; text-align: justify;"><strong><span style="font-family: 'Times New Roman'; vertical-align: baseline; white-space: pre-wrap; font-size: medium;">*</span></strong><em style="color: #000000; font-family: Tahoma; font-size: medium;"><span style="font-family: 'Franklin Gothic Book';"> <em><span style="font-size: 9pt; line-height: 115%; font-family: 'Franklin Gothic Book','serif';">Si fa presente che nell’elenco di seguito indicato, sono riportati tutti gli edifici di Pompei elencati per Regiones, Insulae e civico di appartenenza. Per gli edifici chiusi al pubblico gli scatti potranno essere effettuati dall’esterno</span></em></span></em></p>
+<p dir="ltr" style="line-height: 1; margin-top: 0pt; margin-bottom: 0pt; text-align: justify;"></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.openpompei.it/2014/09/12/safari-a-pompei-prenotazioni/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

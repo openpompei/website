@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto? | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto? Feed dei commenti" href="http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='OpenPompei ad ArcheoFOSS 2014.' href='http://www.openpompei.it/2014/07/01/openpompei-ad-archeofoss-2014/' />
+<link rel='next' title='Il Sito Archelogico di Pompei in 3D: Pompei Touch' href='http://www.openpompei.it/2014/07/14/pompei-3d-pompeitouch/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=711' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-711 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-711" class="post-711 post type-post status-publish format-standard has-post-thumbnail hentry category-civic-hacking-2 category-open-and-wikiarchaeology tag-beni-confiscati tag-confiscati-bene tag-crowdsourcing tag-intelligenza-collettiva tag-libera tag-monithon tag-monitoraggio">
+				<header class="entry-header">
+			<img width="624" height="426" src="http://www.openpompei.it/wp-content/uploads/2014/07/vesuviowarhol-624x426.jpg" class="attachment-post-thumbnail wp-post-image" alt="vesuviowarhol" />						<h1 class="entry-title">La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/#respond" title="Commenti a La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><b>La saggezza della folla.</b></p>
+<p>Il matematico e sociologo americano Scott E. Page, in “The difference: how the power of diversity creates better groups, firms, schools, and societies”, ha dimostrato con rigore logico, esperimenti e precisione matematica che la diversità all’interno di un gruppo di persone accomunate dall’obiettivo di risolvere un problema è più importante dell’eccellenza individuale: “<i>diverse groups merely can perform better</i>” (p. 315). Infatti persone con competenze specifiche facenti parte di uno stesso team costituiscono un gruppo omogeneo e tendono quindi ad applicare gli stessi schemi per trovare la soluzione ad un problema. Sono i migliori, di sicuro, ma in un ambito ben specifico. Invece la risoluzione di problemi complessi beneficia di differenti prospettive.</p>
+<p><b>Il territorio vesuviano potrebbe ugualmente beneficiare della saggezza della folla per risolvere alcuni dei suoi complessi problemi?</b></p>
+<p>I crolli di Pompei ci ricordano che nessuna meraviglia è eterna (delle sette meraviglie del mondo antico ne sopravvive ad oggi solo una, la piramide di Cheope!) e né i restauri né la manutenzione ordinaria potranno in lunghissima prospettiva cambiare questo assunto. Ma possiamo renderne eterna la memoria attraverso la raccolta del maggior numero di dati possibili. Si è già parlato <a href="http://www.openpompei.it/2014/07/01/openpompei-ad-archeofoss-2014/">qui</a> del progetto lanciato dalla <a href="http://www.nypl.org/">New York Public Library</a>, <a href="http://buildinginspector.nypl.org/general/about">Building Inspector</a>. Un progetto forse esportabile anche nell’area archeologica vesuviana. Con un toolkit digitale simile a quello messo a punto da <a href="http://www.nypl.org/collections/labs">NYPL Labs</a>, anche cittadini senza specifiche competenze potrebbero partecipare alla realizzazione di una mappa GIS di Pompei.</p>
+<p>A cosa potrebbe servire avere gli ingombri degli edifici in formato vettoriale?</p>
+<p><span id="more-711"></span></p>
+<p>Relativamente al progetto sulla città di New York, Vershbow, direttore dei <a href="http://www.nypl.org/collections/labs">NYPL Labs</a>, ha dichiarato su <a href="http://www.wired.com/2013/10/phone-map-game-new-york-city/">Wired</a>:</p>
+<p><i>“If you have a building, that’s a backbone of data you could hang other stuff on”  </i></p>
+<p>Ad ogni edificio della Grande Mela, possono essere collegati dati relativi ad eventi che lì si sono verificati, a persone ed imprese che vi risiedevano, estratti dalle fonti più disparate: archivi, giornali, libri, fotografie etc.</p>
+<p>Così New York potrà essere raccontata da varie angolazioni diverse tra loro e mai provate prima: alcune sperimentazioni sono già iniziate. Un recente <a href="http://www.nypl.org/blog/2013/07/10/maphack-hacking-nycs-past-nypl-labs-friends">Maphack</a> ospitato dalla biblioteca ha permesso di ricostruire la storia della vita di un cittadino newyorkese della metà del XIX secolo, John Stokell, <a href="http://andrewxhill.com/cartodb-examples/scroll-story/basic/index.html">attraverso tecniche di data mining</a>.</p>
+<p><strong><i>“Anche le città credono d&#8217;essere opera della mente o del caso, ma né l&#8217;una né l&#8217;altro bastano a tener su le loro mura. </i><i>D&#8217;una città non godi le sette o settantasette meraviglie, ma la risposta che dà a una tua domanda.”</i></strong></p>
+<p>(Italo Calvino, Le città invisibili)</p>
+<p>Circa un anno fa, su questo blog è stato pubblicato un <a href="http://www.openpompei.it/category/open-and-wikiarcheology/page/4/">post</a> con alcune riflessioni del prof. Emmanuele Curti sulla necessità di una nuova narrazione archeologica. Ne riprendo un passo:</p>
+<p><i>“Emmanuele vuole portare il suo lavoro di archeologo al cuore di questo <i>scollamento tra cittadini e patrimonio archeologico, <strong>trovando e riallacciando dei fili diretti fra comunità locali e le storie/identità del passato</strong></i></i><i>. Per fare questo a Pompei ha un’idea chiara: vorrebbe partire dall&#8217;utilizzo di uno o più spazi pubblici della città moderna di Pompei attualmente inutilizzati e trasformarli, episodicamente o meno, in luoghi dove l’archeologia possa diventare uno strumento per riflettere sul presente e sull&#8217;identità contemporanea del territorio e dei suoi abitanti. Si tratterebbe di incontri in cui gli archeologi trasmettono la propria conoscenza del passato aprendo la narrazione a visioni e considerazioni che arrivano dal presente, dai cittadini che partecipano.”</i></p>
+<p>Ritengo che le potenzialità di una nuova narrazione archeologica sarebbero amplificate se unite ad iniziative simili a quella della New York Public Library. E che una simile iniziativa a Pompei potrebbe essere il volano per avviare la costruzione dal basso di una Carta Archeologica d’Italia (di cui si è già scritto <a href="http://www.openpompei.it/2014/07/01/openpompei-ad-archeofoss-2014/">qui</a>).</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2014/07/pompei.jpg"><img class="aligncenter wp-image-716 size-full" src="http://www.openpompei.it/wp-content/uploads/2014/07/pompei.jpg" alt="pompei" width="960" height="380" /></a></p>
+<p>Altro problema di complessa risoluzione nel territorio vesuviano (e non solo) è quello del <strong>riuso sociale e produttivo dei beni confiscati</strong>. Lo scorso 3 Luglio OpenPompei ha partecipato alla giornata di formazione di <a href="http://www.libera.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1">Libera</a> presso Unioncamere a Roma, dedicata proprio a questo argomento, illustrando i risultati del weekend di monitoraggio dello scorso 8 e 9 Marzo su tre beni confiscati (ulteriori informazioni <a href="http://www.openpompei.it/2014/03/24/open-data-e-legalita-a-lavoro-con-i-civic-hackers/">qui</a>, <a href="http://www.openpompei.it/2014/04/02/opendata-al-servizio-dei-beni-comuni/">qui</a> e <a href="http://www.openpompei.it/2014/05/19/confiscati-bene-un-progetto-che-nasce-da-openpompei/">qui</a>), promosso insieme a <a href="http://www.monithon.it/">Monithon</a> ed in collaborazione con la stessa Libera.</p>
+<p>Tre interventi hanno raccontato quello che è stato efficaciemente definito da Luigi Reggi il “pacchetto” Confiscati Bene: una filiera di raccolta e diffusione dati sullo stato dei beni confiscati e sul loro reale utilizzo a partire dalla scheda di monitoraggio su <a href="http://monithon.it/">Monithon</a>, l’esposizione in formato aperto su <a href="http://www.confiscatibene.it/">Confiscati Bene</a>, il riutilizzo come supporto alla programmazione comunitaria 2014-2020 (qui potete leggere l’<a href="http://www.dps.gov.it/it/AccordoPartenariato/">Accordo di Partenariato</a>).</p>
+<p>Questi i titoli degli interventi:</p>
+<ul>
+<li><i>Azioni e metodi di partecipazione per le politiche per la legalità nella programmazione 2014-2020</i> (Luigi Reggi)</li>
+<li><i>Monithon.it e scheda di monitoraggio comune. Prime sperimentazioni</i> (OpenPompei: Paola Liliana Buttiglione)</li>
+<li><i>Come trasformare i report di monitoraggio in analisi utili ai media e alle amministrazioni?</i> (Confiscati Bene: Andrea Borruso)</li>
+</ul>
+<p>A conclusione sono state discusse eventuali modalità di collaborazione con la rete di Libera: essa ha già raccolto dati attraverso alcuni <a href="http://www.libera.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/167">geoblog regionali</a> e sarebbe preziosa per procedere più rapidamente nella fase di implementazione, sia attraverso l’organizzazione di monitoraggi civici sui beni confiscati sia attraverso la messa a disposizione dei dataset già pubblicati (senza informazioni sulla licenza e senza una prassi comune). Aperture ad una proficua collaborazione futura sembrano esserci. In “<a href="http://webcache.googleusercontent.com/search?q=cache:Oa8cqsC2RUAJ:www.libera.it/flex/cm/pages/ServeAttachment.php/L/IT/D/8%25252Fc%25252Fe%25252FD.e540b66217a3b73686ed/P/BLOB%253AID%253D9910+&amp;cd=1&amp;hl=it&amp;ct=clnk&amp;gl=it">Riutilizzo sociale dei beni confiscati alle mafie per la legalità, lo sviluppo sostenibile e la coesione territoriale. Proposte di lavoro nella programmazione europea 2014-2020</a>” a cura di Libera si legge (p. 34):</p>
+<p><i>“Tra le metodologie di intervento utili a supportare gli attori coinvolti nell’ideazione ed implementazione dei percorsi di valorizzazione dei beni confiscati alla criminalità organizzata, un’importanza cruciale riveste quindi la conoscenza quantitativa e qualitativa dei beni confiscati nel territorio nazionale, divisa per aree territoriali e per contesti sociali, urbanistici ed economico-produttivi, secondo le competenze e metodologie di Open Coesione e del monitoraggio civico di Monithon.”</i></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2014/07/confiscati_splash.png"><img class="alignleft wp-image-717 size-large" src="http://www.openpompei.it/wp-content/uploads/2014/07/confiscati_splash-1024x750.png" alt="confiscati_splash" width="625" height="457" /></a></p>
+<p>Quella dei beni confiscati è un altro esempio di mappatura collettiva possibile, che permetterebbe tramite l’uso del <i>crowdsourcing </i>di creare strumenti utili alle pubbliche amministrazioni, agli <i>stakeholders </i>e ai cittadini tutti, che dei dati così raccolti e diffusi con licenze aperte potrebbero usufruire per un miglioramento nella gestione dei beni comuni, per avanzare proposte e suggerimenti per nuove forme di valorizzazione, per farne analisi qualitative e quantitative o semplicemente per costruire nuove narrazioni quale veicolo di conoscenza e partecipazione.</p>
+<p>Anche in questo caso un sistema basato su una maggiore partecipazione a partire dalla collaborazione alla mappatura collettiva potrebbe portare beneficio. E qualche passo in questa direzione già è stato mosso.</p>
+<p>L’iniziativa <a href="http://liberailbene.regione.puglia.it/">Libera il Bene</a> in Puglia ha avviato una <a href="http://liberailbene.regione.puglia.it/index.php?option=com_k2&amp;view=item&amp;id=205:mappatura-partecipata&amp;Itemid=705">mappatura partecipata</a>  dei beni confiscati alle mafie.</p>
+<p>In Campania esiste una legge regionale (n°7/2012) che istituisce il Fondo per la valorizzazione dei beni confiscati e che promuove iniziative di mappatura collettiva. Nell’articolo 6, comma 4 si legge:</p>
+<p><i>&#8220;L’Osservatorio provvede a dotarsi di un sistema interattivo di monitoraggio dei beni confiscati alla criminalità organizzata, che raccoglie e fornisce informazioni, di tipo quantitativo e qualitativo, sul patrimonio confiscato alla criminalità organizzata presente sul territorio campano, attraverso tecniche di georeferenziazione. Il sistema interattivo di monitoraggio dei beni confiscati alla criminalità organizzata interagisce con il sistema </i><i>informativo dell’Agenzia nazionale per l’amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalità organizzata anche attraverso appositi accordi o convenzioni e </i><i>deve essere preferibilmente sviluppato attraverso l’utilizzo di sistemi e piattaforme libere ed “open source”,</i><i> che non comportano aggravi di spesa per l’ente e <strong>garantiscono </strong></i><i><strong>il coinvolgimento e lo sviluppo della cittadinanza attiva, come determinatosi con la piattaforma Ushahidi</strong>.&#8221;</i></p>
+<p>Ed ugualmente questo, oltre ad avere una ricaduta economica positiva (per es. facilitando nuove iniziative o proposte di riuso sociale e produttivo dei beni confiscati ancora inutilizzati), consentirebbe di trovare e riallacciare fili diretti fra comunità locali e le storie/identità del passato, come per quello romano a Pompei, anche per quello &#8211; che ugualmente non va dimenticato &#8211; tristemente segnato dalla forte presenza della camorra nei territori vesuviani.</p>
+<p>Eppure rispetto ai progetti fondati sull&#8217;uso dell’intelligenza collettiva esistono pregiudizi duri a morire, tutti riconducibili al processo di produzione del dato: chi si fa garante delle qualità di dati così raccolti? Chi assicura che i cittadini possano attraverso il riuso di dati così raccolti contribuire a dare risposte efficaci ai problemi che sentiamo di avere come collettività?</p>
+<p>Queste domande a mio parere inficiano il potenziale della saggezza della folla. Riprendo la risposta di James Surowiecki, autore di &#8220;The wisdom of the crowd: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations&#8221;, data in una intervista che potete leggere <a href="http://www.randomhouse.com/features/wisdomofcrowds/Q&amp;A.html">qui</a>.</p>
+<p><em><b>Under what circumstances is the crowd smarter?</b></em></p>
+<p><i>“There are four key qualities that make a crowd smart. </i><strong><i>It needs to be diverse</i></strong><i>, so that people are bringing different pieces of information to the table. </i><strong><i>It needs to be decentralized</i></strong><i>, so that no one at the top is dictating the crowd&#8217;s answer. </i><strong><i>It needs a way of summarizing people&#8217;s opinions into one collective verdict</i></strong><i>. </i><strong><i>And the people in the crowd need to be independent</i></strong><i>, so that they pay attention mostly to their own information, and not worrying about what everyone around them thinks.”</i></p>
+<p>Un&#8217;azione collettiva ha bisogno di organizzazione minima e di controllo nullo: si auto-organizza, si auto-regola. Il progetto OpenPompei potrebbe essere l’occasione per attivare sul territorio vesuviano azioni collettive sui beni archeologici e sui beni confiscati che proseguano il loro percorso autonomamente dopo l’input iniziale, creando le piattaforme o i supporti tecnologici che siano poi terreno fertile affinché si dispieghi il potenziale dell’intelligenza collettiva. Confiscati Bene si muove in questa direzione, verso la creazione di un valore aggiunto sui beni confiscati attraverso l’attivazione della saggezza della folla.</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?' st_url='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?' st_url='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/'></span><span class='st_plusone_hcount' st_title='La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?' st_url='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/'></span><span class='st_linkedin_hcount' st_title='La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?' st_url='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/'></span><span class='st_email_hcount' st_title='La mappatura collettiva dei beni confiscati e dei beni archeologici nell&#8217;area vesuviana: creazione di un valore aggiunto?' st_url='http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/" rel="category tag">Civic hacking</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a> e taggato come <a href="http://www.openpompei.it/tag/beni-confiscati/" rel="tag">beni confiscati</a>, <a href="http://www.openpompei.it/tag/confiscati-bene/" rel="tag">Confiscati Bene</a>, <a href="http://www.openpompei.it/tag/crowdsourcing/" rel="tag">crowdsourcing</a>, <a href="http://www.openpompei.it/tag/intelligenza-collettiva/" rel="tag">Intelligenza collettiva</a>, <a href="http://www.openpompei.it/tag/libera/" rel="tag">Libera</a>, <a href="http://www.openpompei.it/tag/monithon/" rel="tag">Monithon</a>, <a href="http://www.openpompei.it/tag/monitoraggio/" rel="tag">monitoraggio</a> il <a href="http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/" title="10:19" rel="bookmark"><time class="entry-date" datetime="2014-07-09T10:19:50+00:00">9 luglio 2014</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2014/07/01/openpompei-ad-archeofoss-2014/" rel="prev"><span class="meta-nav">&larr;</span> OpenPompei ad ArcheoFOSS 2014.</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2014/07/14/pompei-3d-pompeitouch/" rel="next">Il Sito Archelogico di Pompei in 3D: Pompei Touch <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='711' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="afc6c0eb2b" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="156"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2014/07/09/la-mappatura-collettiva-dei-beni-confiscati-e-dei-beni-archeologici-nellarea-vesuviana-creazione-di-un-valore-aggiunto/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

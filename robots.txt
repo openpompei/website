@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /team-test/
+Disallow: /team-member/
+Disallow: /team_members/
+Disallow: /pure-members/
+Disallow: /team-manager/

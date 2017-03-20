@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>condivisione e produttività dei dati dei beni culturali | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; condivisione e produttività dei dati dei beni culturali Feed dei commenti" href="http://www.openpompei.it/2014/01/09/beniculturaliaperti/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Dalla ricerca all&#8217;azione. Come inizierà il 2014 di OpenPompei' href='http://www.openpompei.it/2013/12/23/dalla-ricerca-allazione-come-iniziera-il-2014-di-openpompei/' />
+<link rel='next' title='Gli archeologi e la disabitudine agli open data' href='http://www.openpompei.it/2014/01/29/gli-archeologi-e-la-disabitudine-agli-open-data/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2014/01/09/beniculturaliaperti/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=275' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-275 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-275" class="post-275 post type-post status-publish format-standard hentry category-il-progetto-e-le-sue-fasi category-open-and-wikiarchaeology">
+				<header class="entry-header">
+									<h1 class="entry-title">condivisione e produttività dei dati dei beni culturali</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2014/01/09/beniculturaliaperti/#comments" title="Commenti a condivisione e produttività dei dati dei beni culturali">1 Replica</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<h2>Pompei<a href="http://www.openpompei.it/wp-content/uploads/2014/01/Tizian_-_Bildnis_des_Jacopo_de_Strada.jpg"><img class="size-medium wp-image-280 alignleft" alt="Tizian_-_Bildnis_des_Jacopo_de_Strada" src="http://www.openpompei.it/wp-content/uploads/2014/01/Tizian_-_Bildnis_des_Jacopo_de_Strada-232x300.jpg" width="232" height="300" /></a></h2>
+<p><a href="http://www.britishmuseum.org/whats_on/past_exhibitions/2013/pompeii_and_herculaneum/pompeii_live.aspx" target="_blank">Pompei</a> è diventato un colossal.<br />
+In Inghilterra.<br />
+Prodotto dal British Museum, che è gratuito (<a href="http://www.britishmuseum.org/pdf/tar10_11.pdf" target="_blank">bilancio 2011</a> a pag 45: foundraising 16.6 milioni di sterline)  per chiunque lo visiti; che ha organizzato una <a href="http://www.britishmuseumshoponline.org/12/zoomed#" target="_blank">mostra di successo</a>. Quest&#8217;anno esce un <a href="http://pompeiimovie.tumblr.com/" target="_blank">altro film</a> sempre ambientanto su Pompei.<br />
+Domanda: gli sfondi, le ricostruzioni, i dettagli, le relazioni degli scavi come li hanno ottenuti?<br />
+Altra domanda: li hanno ottenuti?</p>
+<h2>Tutto questo mentre in Italia</h2>
+<p>Tutto questo mentre in Italia i nostri Beni fanno notizia solo per gli ennesimi abusi, cattive gestioni o crolli. Appare sempre più chiaro lo scenario: in Italia si ritiene nodale l&#8217;investimento in cultura e in turismo ma di voci di bilancio non se ne vedono traccia. Di fronte a proclami e grida di dolore di intellettuali, curatori, conservatori seguono rammaricati assensi ma i portafogli, se e quando si aprono, ricevono in cambio una serie di agevolazioni, concessioni o, addirittura, esclusività che fanno impallidire. Eppure in tutto questo <i>disastro</i> c&#8217;è una componente dei Beni che viene <i>regalata</i> quando arriva l&#8217;investitore: è l&#8217;esempio del restauro del Colosseo in cui la <a href="http://www.slideshare.net/ilfattoquotidiano/doctods" target="_blank">convenzione</a> prevede, relativamente ai materiali e allo sfruttamento dell&#8217;immagine:</p>
+<blockquote><p>concessi all’Associazione e allo Sponsor di cui agli articoli 4.1 e 4.2 del presente Accordo s’intendono concessi senza limitazioni territoriali e, pertanto, sono esercitabili sia in Italia che all’estero. I diritti concessi all’<a href="http://www.amicidelcolosseo.org/html/it/index.html" target="_blank">Associazione</a> avranno durata di quindici anni a partire dalla data di costituzione dell’Associazione, eventualmente prorogabili mediante apposito accordo sottoscritto dalle Parti. I diritti concessi allo <a href="http://todsgroup.com/" target="_blank">Sponsor</a> decorrono dalla data di sottoscrizione del presente Accordo e si protraggono per tutta la durata degli interventi di restauro e per i successivi due anni.</p></blockquote>
+<p>Successivamente poi Della Valle <a href="http://www.minimaetmoralia.it/wp/diego-della-valle-colosseo/" target="_blank">dichiara</a> che</p>
+<blockquote><p>Tod’s non abbinerà l’immagine del Colosseo ai suoi prodotti, e cederà il retro dei biglietti ad associazioni umanitarie.</p></blockquote>
+<div>nel frattempo però sappiamo che a fronte di un finanziamento viene corrisposto in contropartita l&#8217;uso esclusivo dei dati dei Beni da conservare. Significa che il motore produttivo dei dati viene suddiviso tra:</div>
+<div>
+<ol>
+<li>fruizione del Bene</li>
+<li>sfruttamento esclusivo dei dati relativi al bene</li>
+</ol>
+<h2>La fruizione comporta il consumo</h2>
+<p>La fruizione comporta il consumo e l&#8217;adeguamento perché a fronte di una presenza è ovvio che si verifica una trasformazione; la ricettività di un monumento o di un&#8217;area archeologica si dota di illuminazione, sistemi di vigilanza e di igiene che immancabilmente vanno a modificare il luogo. Se questi interventi vengono effettuati con comprensione dei luoghi e valorizzazione delle funzioni, ne aumentano la possibilità di conservazione, perché il Bene continua il suo ciclo di vita. Ma come garantire la comprensione se i dati raccolti sul Bene non vengono condivisi o sono di difficile accesso e con limitazioni al riuso?</p>
+<h2>La produttività del dato del Bene</h2>
+<p>La produttività del dato del Bene funziona nel momento in cui non è il dato a produrre vantaggi ma i servizi ad esso associati. Siamo sicuri che uno sponsor sappia sfruttare meglio i dati di restauro rispetto a tecnici o studiosi o appassionati? Siccome non ha senso fare una <i>gara</i> delle ipotesi è meglio rilasciare i dati e consentire a tutti di poter svolgere le loro attività come meglio credono. Se si vuole fare un uso commerciale dei dati dei Beni, e questo non crea discredito al Bene stesso, perché non usare questa azione d&#8217;interesse come volano per incentivare restauri senza generare monopoli? In questo sistema la principale opposizione è di considerare dell&#8217;uso del dato come una concessione &#8211; soggetta a deroghe rispetto alle privative presenti nel <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Normativa/Norme/" target="_blank">Codice dei Beni Culturali</a> &#8211; che genera utili, pertanto rinunciarvi è troppo rischioso perché creerebbe un mancato introito.</p>
+<h2>Il mancato introito è il motivo di trattenimento</h2>
+<p>Il mancato introito è il motivo di trattenimento dei dati, eppure non ci sono cifre che quantifichino il volume di flusso di cassa. Di più: la concessione dei dati in uso esclusivo in caso di sponsorizzazioni ha un volume maggiore o minore rispetto alle cifre erogate dallo sponsor? Esempio: l&#8217;uso esclusivo di immagine e dati del Colosseo per quindici anni ha un valore maggiore o minore di 25 milioni di euro? Ritengo che addentrarsi in calcoli di questo tipo sia una distrazione rispetto all&#8217;obiettivo fondamentale: consentire all&#8217;immenso patrimonio italiano un ciclo di vita consapevole del proprio passato e che esponendo il proprio valore attraverso i propri dati generi un sistema di produttività volto alla sua esistenza.</p>
+<h2>OpenPompei è il cuore di un sistema che dal loop conoscitivo</h2>
+<p>OpenPompei è il cuore di un sistema che dal loop conoscitivo punta ad aggregare una comunità d&#8217;interesse e di senso civico; è fondamentale riannodare il motore economico al senso di <i>pubblico</i>.</p>
+<blockquote><p>la conoscenza è a tua disposizione, ma non è tua</p></blockquote>
+<p>canta <a href="http://www.medrano.biz/" target="_blank">Herman Medrano</a>, e lo stesso vale per i dati dei Beni Culturali: nessuno propone espropri del patrimonio descrittivo, ma una condivisione mirata all&#8217;amplificazione. Solo se riprende il ciclo di vita delle professioni legate ai Beni Culturali c&#8217;è speranza di impiego per tutti quei archivisti, restauratori, archeologi, storici dell&#8217;arte che in ottica di riuso diventano i primi fornitori d&#8217;opera in quanto competenti.</p>
+<h2>#beniculturaliaperti o il legalese come ultima concessione alla burocrazia</h2>
+<p><a href="http://www.beniculturaliaperti.it/about/" target="_blank">#beniculturaliaperti</a> o il legalese come ultima concessione alla burocrazia: è lampante che l&#8217;italiano degli emendamenti è una lingua che non ha nulla a che vedere con le iconografie dirette delle immagini che popolano il sito. Ma questa vuole essere l&#8217;ultima occasione in cui useremo gli stessi strumenti di un sistema che deve puntare a generare quei strumenti che gli consentiranno di concludere il suo ciclo funzionale. Ad oggi la gestione dei beni Culturali ha considerato il finanziamento come una voce d&#8217;entrata, quando il web e la digitalizzazione possono diventare il binario su cui far correre quei treni che correranno sfruttando altre risorse. Si parte dagli emendamenti e si arriva alla riscrittura in ottica di servizi collegati e valorizzazione delle professioni.</p>
+<h2>Anche perché l&#8217;alternativa è l&#8217;esproprio</h2>
+<p>Anche perché l&#8217;alternativa è l&#8217;esproprio o l&#8217;oblio di quanto abbiamo ereditato dalle generazioni precedenti. Consideriamo la condivisione e il riuso come motori di produzioni nuove. Siamo al plurale, e come diceva <a href="http://www.youtube.com/watch?v=IL5bz9FAyrQ&amp;feature=share&amp;list=PLgq5EK55CawU4fvkaco5Eg5AmFjSLCccp&amp;index=24" target="_blank">qualcuno</a>, siamo</p>
+<blockquote><p>poco più di un pugno ma che se si stringeva colpiva molto duro</p></blockquote>
+<p>e di perseveranza ne abbiamo. Anche perché non è con la <i>recinzione</i> che si mantengono le rendite di posizione e il futuro procede: <b>tutte le immagini di <a href="http://www.beniculturaliaperti.it" target="_blank">www.beniculturaliaperti.it</a> sono tratte da <a href="http://commons.wikimedia.org/wiki/Main_Page" target="_blank">Commons</a>, eppure per il Codice dei Beni Culturali, non potrebbero esserci!<br />
+</b></p>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>Cor mio, mentre vi miro,<br />
+</i></a></h6>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>visibilmente mi trasformo in voi,<br />
+</i></a></h6>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>e trasformato poi,<br />
+</i></a></h6>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>in un solo sospir l’anima spiro.<br />
+</i></a></h6>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>O bellezza mortale,<br />
+</i></a></h6>
+<h6><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg"><i>O bellezza vitale,<br />
+</i></a></h6>
+<h6><i><a href="http://upload.wikimedia.org/wikipedia/commons/e/e0/Monteverdi-cor_mio_mentre_vi_miro.ogg">poiché sì tosto un core</a><br />
+</i></h6>
+<h6><i>per te rinasce, e per te nato more</i></h6>
+<p>&nbsp;</p>
+<p><iframe src="//commons.wikimedia.org/wiki/File:Monteverdi-cor_mio_mentre_vi_miro.ogg?embedplayer=yes" height="23" width="300" allowfullscreen="" frameborder="0"></iframe></p>
+</div>
+<p class="no-break"><span class='st_facebook_hcount' st_title='condivisione e produttività dei dati dei beni culturali' st_url='http://www.openpompei.it/2014/01/09/beniculturaliaperti/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='condivisione e produttività dei dati dei beni culturali' st_url='http://www.openpompei.it/2014/01/09/beniculturaliaperti/'></span><span class='st_plusone_hcount' st_title='condivisione e produttività dei dati dei beni culturali' st_url='http://www.openpompei.it/2014/01/09/beniculturaliaperti/'></span><span class='st_linkedin_hcount' st_title='condivisione e produttività dei dati dei beni culturali' st_url='http://www.openpompei.it/2014/01/09/beniculturaliaperti/'></span><span class='st_email_hcount' st_title='condivisione e produttività dei dati dei beni culturali' st_url='http://www.openpompei.it/2014/01/09/beniculturaliaperti/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a> il <a href="http://www.openpompei.it/2014/01/09/beniculturaliaperti/" title="16:55" rel="bookmark"><time class="entry-date" datetime="2014-01-09T16:55:29+00:00">9 gennaio 2014</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/luca-corsato/" title="Visualizza tutti gli articoli di Luca Corsato" rel="author">Luca Corsato</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2013/12/23/dalla-ricerca-allazione-come-iniziera-il-2014-di-openpompei/" rel="prev"><span class="meta-nav">&larr;</span> Dalla ricerca all&#8217;azione. Come inizierà il 2014 di OpenPompei</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2014/01/29/gli-archeologi-e-la-disabitudine-agli-open-data/" rel="next">Gli archeologi e la disabitudine agli open data <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			Un pensiero su  &ldquo;<span>condivisione e produttività dei dati dei beni culturali</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="pingback even thread-even depth-1" id="comment-133">
+		<p>Pingback: <a href='http://www.openpompei.it/2014/01/31/open-archaeological-data-for-dummies/' rel='external nofollow' class='url'>Open Archaeological Data for Dummies | OpenPompei</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/01/09/beniculturaliaperti/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='275' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a65c51fa95" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="191"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2014/01/09/beniculturaliaperti/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>OpenData | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; OpenData Feed della categoria" href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.11" />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="archive category category-opendata-open-and-wikiarcheology category-47 custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<section id="primary" class="site-content">
+		<div id="content" role="main">
+
+					<header class="archive-header">
+				<h1 class="archive-title">Archivio della categoria: <span>OpenData</span></h1>
+
+						</header><!-- .archive-header -->
+
+			
+	<article id="post-1728" class="post-1728 post type-post status-publish format-standard hentry category-il-progetto-e-le-sue-fasi category-open-and-wikiarchaeology category-opendata-open-and-wikiarcheology category-senza-categoria tag-archeologia tag-civic-hacking tag-crowdsourcing tag-hackathon-it tag-intelligenza-collettiva tag-open-data tag-pompei tag-pompeii tag-scriptorivm">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/" rel="bookmark">Archeologica Academia: made with love in Pompeii</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/#respond" title="Commenti a Archeologica Academia: made with love in Pompeii"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><b>Strumenti e dati</b></p>
+<p>La traccia Archeologica Academia ha avuto come obiettivo la realizzazione di uno strumento di navigazione ed implemetazione della “carto-bibliografia” di Pompei, in grado di associare con immediatezza un luogo fisico della città antica ad una risorsa bibliografica ad esso riferita.</p>
+<p>Il progetto <a href="http://digitalhumanities.umass.edu/pbmp/">Pompeii Bibliography and Mapping Project</a> (di cui leggerete di più in un altro post) ne aveva già avviato la realizzazione. Esso nello specifico ha implementato un database di citazioni bibliografiche e un repository dei testi disponibili per intero. Punto di partenza sono state le quasi quindicimila citazioni bibliografiche raccolte in <a href="http://www.arborsapientiae.com/pagina/nova_bibliotheca_pompeiana_project.html">Nova Bibliotheca Pompeiana (NBP)</a> da Laurentino Garcia y Garcia, aggiornate al 2011. Allo stato attuale questo database consta di 9292 record, 5304 record parziali e 1326 record incompleti).</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura2.png"><img class="aligncenter wp-image-1729 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura2.png" alt="Cattura2" width="1360" height="674" /></a></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura3.png"><img class="alignleft wp-image-1730 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura3-300x300.png" alt="Cattura3" width="300" height="300" /></a></p>
+<p>Ad ogni luogo fisico di Pompei, è stata associata la lista dei toponimi utilizzati per identificarlo (es. nella figura sopra, la lista dei toponimi associata a quello più comunemente noto come Teatro Grande: Teatro Scoperto, Tragico, “delle Fontane” oppure <i>Theatrum, Theatrum Maius o Nudum</i>). A ciascuna delle variazioni toponomastiche, è associata la lista delle risorse biliografiche disponibili (come nella figura a lato relativa sempre al Teatro Grande).</p>
+<p>Durante l’hackathon del 19 e 20 giugno scorsi abbiamo raccolto su Zotero un dataset di oltre 18000 citazioni bibliografiche. Partendo da questi dati e dal lavoro di digitalizzazione della base cartografica iniziato da PBMP e rimodellato dal team della track “Pompeiorum Libera Tabula” era già possibile “mappare le pubblicazioni”. Per associare in modo corretto e univoco un luogo fisico alla corrispondente citazione bibliografica, senza disegnare ogni volta la geometria poligonale di riferimento, abbiamo utilizzato la suddivisione della città in regiones, insulae e civici. Essa ci ha consentito di identificare ogni poligono tramite un codice ben preciso, ovvero la successione del numero in cifre romane della regio e del numero in cifre arabe dell’insula ed il civico: es. il “codice” del Teatro Grande è VIII-7.20. Tramite scraping si è importato l’elenco delle insule e relativi civici per ogni regio da Wikipedia (<a href="https://it.wikipedia.org/wiki/Regio_VIII_degli_scavi_archeologici_di_Pompei">es. Regio VIII</a>).</p>
+<p>Zotero fornisce una API che consente di accedere ai tag associati alle citazioni bibliografiche, consentendo poi di filtrarle in base ad essi. Quindi, per identificare in maniera univoca un luogo fisico ad una citazione bibliografica abbiamo utilizzato “tag toponomastici” preceduti dal namespace “op”: es. per il Teatro Grande il tag toponomastico è op:VIII.7.20.</p>
+<p>Abbiamo anche associato alle singole citazioni bibliografiche, ove possibile, un tag di tipo cronologico: la scelta della scansione è ricaduta sull’utilizzo di una serie di fasi, di diversa durata, basate sulla tradizione degli studi:</p>
+<ul>
+<li>età arcaica (VI a.C. &#8211; metà del IV a.C.): op:archaic,-600,-350;</li>
+<li>età sannitica (metà IV a.C. &#8211; 80 a.C.): op:samnitic,-350,-80;</li>
+<li>età tardorepubblicana (80 a.C &#8211; 30 a.C.): op:laterepublic,-80,-30;</li>
+<li>età augustea (30 a.C. &#8211; 14 d.C.): op:augustan,-30-14;</li>
+<li>età imperiale (14 d.C.- 62 d.C.): op:imperial,14,62;</li>
+<li>età post sismica (62 d.C. &#8211; 79 d.C.): op:postseismic.</li>
+</ul>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura4.png"><img class="aligncenter wp-image-1731 size-full" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura4.png" alt="Cattura4" width="1361" height="645" /></a></p>
+<p><b>Cosa</b></p>
+<p>Per ora siamo giunti ad <a href="http://openhistorymap.org:9080/#17/40.75097/14.48905">una versione beta</a> della carto-bibliografia.</p>
+<p>A breve rilasceremo dati, strumenti di lavoro, processo e codice su un repository GitHub per consentire a tutti coloro che lo vorranno di inviare proposte, contributi o segnalare issues (e anche riutilizzare!).</p>
+<p>Da subito però potete contribuire ad implementare la raccolta delle citazioni bibliografiche su Zotero: è facilissimo (<a href="https://www.youtube.com/watch?v=q6-YOPS1xY4">qui</a> uno dei tanti tutorial disponibili su YouTube). <a href="https://www.zotero.org/groups/openpompei/items">Ecco il nostro gruppo di lavoro Zotero</a>: iscrivetevi e inserite pure le risorse di vostra conoscenza!</p>
+<p>Il tool che abbiamo messo a punto a partire dal lavoro svolto da PBMP consente quindi un aggiornamento dinamico delle citazioni bibliografiche su Pompei a partire da Zotero. Man mano che la mappatura progedirà, le geometrie poligonali verranno evidenziate tramite una texture scura (come il Teatro Grande nell’immagine sopra), ad indicare che per quel luogo fisico sono state associate già risorse bibliografiche.</p>
+<p><strong>Chi</strong></p>
+<p><b><a href="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura1.png"><img class="alignleft wp-image-1732 size-medium" src="http://www.openpompei.it/wp-content/uploads/2015/07/Cattura1-300x184.png" alt="Cattura1" width="300" height="184" /></a></b>Noi scriptores di questa track eravamo in cinque: Marco Montanari, Stefano Costa, Paola Romi, Luana Toniolo, Paola Liliana Buttiglione.</p>
+<p>Le conclusioni di questi due giorni le abbiamo già descritte in alcuni contributi su Medium (<a href="https://medium.com/the-scriptorivm/lo-scriptorivm-dei-miracoli-2b19dae2ec74">qui</a>, <a href="https://medium.com/@ingmmo/scriptorivm-track-2-52e7989f89f2">qui</a>, <a href="https://medium.com/@OpusPaulicium/pompeiopoli-il-gioco-degli-specchi-dfd08b00a083">qui</a>, <a href="https://medium.com/@OpusPaulicium/benvenuti-a-pompeiopoli-bb2cab098693">qui</a> ed ancora <a href="https://medium.com/@paolalilianabuttiglione/che-meraviglia-lo-scriptorivm-f88e22007769">qui</a>!). L’unico commento che possiamo aggiungere a queste parole sono, come ricordato nel footer della carto-bibliografia, “made with love in Pompeii”</p>
+<p><em> Stefano Costa, Marco Montanari, Paola Romi, Luana Toniolo, Paola Liliana Buttiglione</em></p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Archeologica Academia: made with love in Pompeii' st_url='http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Archeologica Academia: made with love in Pompeii' st_url='http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/'></span><span class='st_plusone_hcount' st_title='Archeologica Academia: made with love in Pompeii' st_url='http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/'></span><span class='st_linkedin_hcount' st_title='Archeologica Academia: made with love in Pompeii' st_url='http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/'></span><span class='st_email_hcount' st_title='Archeologica Academia: made with love in Pompeii' st_url='http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/" rel="category tag">OpenData</a>, <a href="http://www.openpompei.it/category/senza-categoria/" rel="category tag">Senza categoria</a> e taggato come <a href="http://www.openpompei.it/tag/archeologia/" rel="tag">archeologia</a>, <a href="http://www.openpompei.it/tag/civic-hacking/" rel="tag">civic hacking</a>, <a href="http://www.openpompei.it/tag/crowdsourcing/" rel="tag">crowdsourcing</a>, <a href="http://www.openpompei.it/tag/hackathon-it/" rel="tag">hackathon</a>, <a href="http://www.openpompei.it/tag/intelligenza-collettiva/" rel="tag">Intelligenza collettiva</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/pompei/" rel="tag">Pompei</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/scriptorivm/" rel="tag">Scriptorivm</a> il <a href="http://www.openpompei.it/2015/07/03/archeologica-academia-made-with-love-in-pompeii/" title="15:46" rel="bookmark"><time class="entry-date" datetime="2015-07-03T15:46:23+00:00">3 luglio 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1687" class="post-1687 post type-post status-publish format-standard hentry category-civic-hacking-2 category-il-progetto-e-le-sue-fasi category-open-and-wikiarchaeology category-opendata-open-and-wikiarcheology tag-archaeology tag-auditorium-pompei tag-mapillary-it tag-open-data tag-open-pompei tag-pompeii tag-scriptorivm">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/" rel="bookmark">Lo SCRIPTORIVM nelle vostre parole</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/#respond" title="Commenti a Lo SCRIPTORIVM nelle vostre parole"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://www.openpompei.it/wp-content/uploads/2015/06/SCRIPTORIVM_gruppo.jpeg"><img class="aligncenter  wp-image-1707" src="http://www.openpompei.it/wp-content/uploads/2015/06/SCRIPTORIVM_gruppo.jpeg" alt="SCRIPTORIVM_gruppo" width="546" height="364" /></a></p>
+<p style="text-align: justify;">Eravamo noi che dovevamo ringraziarvi per tutto l&#8217;impegno ed energia che avete portato allo <a href="http://www.openpompei.it/2015/05/15/50-3/" target="_blank">SCRIPTORIVM</a>: il primo hackaton sui dati archeologici, fatto nella città di 2.000 anni fa, che ha raccolto non solo archeologi, esperti di open data, ma anche cittadini che hanno a cuore il territorio e vogliono dare una mano a migliorarlo.<br />
+Eravamo noi che dovevamo dirvi grazie per esserci stati, aver lavorato con passione e camminato ore sotto il sole per fotografare strade e particolari.<br />
+E invece ci avete stupito ancora, quasi a dimostrare di non voler abbandonare questa esperienza con un &#8220;semplice grazie&#8221;, ma volendola portare avanti con altri fatti, <a href="https://medium.com/@glucademartino/scriptorivm-prove-di-futuro-a-pompei-ea6667d1e6bb" target="_blank">continuando il racconto</a>, dimostrando la voglia di non fermarsi qui.<br />
+Noi del Team siamo ancora entusiasti per tutto quello che ci è appena passato alle spalle, ma sono sicura che oggi possiamo dire una cosa in più: anche commossi.<br />
+<strong>Il</strong> <strong>GRAZIE è quindi venuto inaspettatamente prima da voi. </strong>Ci avete battuto sul tempo. E sono bastate le vostre parole per dimostrarci che la voglia di fare, l&#8217;obiettivo di una cultura condivisa, è sotto i nostri occhi. E cresce di ora in ora:</p>
+<p style="text-align: justify;"><em><strong><a href="https://medium.com/tag/scriptorivm/latest" target="_blank">Su Medium ci state facendo dei bellissimi regali</a>. </strong>Noi del Team li stiamo leggendo e rileggendo, siamo quasi in loop <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></em></p>
+<p>Chi era presente, chi non lo era e ha comunque voglia di dire la sua, può continuare questo racconto condiviso e aggiungere la sua parte. Basta inserire <strong>#Scriptorivm</strong> come tag.<br />
+A quanto pare non siamo solo &#8220;smanettoni da pc&#8221; ma anche ottimi narratori <img src="http://www.openpompei.it/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /></p>
+<p><strong><em>Chi lotta può perdere, chi non lotta ha già perso: #SCRIPTORIVM è il nostro vessillo!</em></strong></p>
+
+		<style type='text/css'>
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-1' class='gallery galleryid-1687 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_135142/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_135142-150x150.jpg" class="attachment-thumbnail" alt="20150619_135142" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_182249/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_182249-150x150.jpg" class="attachment-thumbnail" alt="20150619_182249" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/scriptorivm-4/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/scriptorivm-150x150.jpg" class="attachment-thumbnail" alt="scriptorivm" /></a>
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150620_102854/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150620_102854-150x150.jpg" class="attachment-thumbnail" alt="20150620_102854" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150620_102949/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150620_102949-150x150.jpg" class="attachment-thumbnail" alt="20150620_102949" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150620_103032/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150620_103032-150x150.jpg" class="attachment-thumbnail" alt="20150620_103032" /></a>
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150620_103108/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150620_103108-150x150.jpg" class="attachment-thumbnail" alt="20150620_103108" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150620_103141/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150620_103141-150x150.jpg" class="attachment-thumbnail" alt="20150620_103141" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_102324/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_102324-150x150.jpg" class="attachment-thumbnail" alt="20150619_102324" /></a>
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_110138/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_110138-150x150.jpg" class="attachment-thumbnail" alt="20150619_110138" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_134843/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_134843-150x150.jpg" class="attachment-thumbnail" alt="20150619_134843" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/20150619_134914/'><img width="150" height="150" src="http://www.openpompei.it/wp-content/uploads/2015/06/20150619_134914-150x150.jpg" class="attachment-thumbnail" alt="20150619_134914" /></a>
+			</dt></dl><br style="clear: both" />
+		</div>
+
+<p class="no-break"><span class='st_facebook_hcount' st_title='Lo SCRIPTORIVM nelle vostre parole' st_url='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Lo SCRIPTORIVM nelle vostre parole' st_url='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/'></span><span class='st_plusone_hcount' st_title='Lo SCRIPTORIVM nelle vostre parole' st_url='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/'></span><span class='st_linkedin_hcount' st_title='Lo SCRIPTORIVM nelle vostre parole' st_url='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/'></span><span class='st_email_hcount' st_title='Lo SCRIPTORIVM nelle vostre parole' st_url='http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/" rel="category tag">Civic hacking</a>, <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/" rel="category tag">OpenData</a> e taggato come <a href="http://www.openpompei.it/tag/archaeology/" rel="tag">archaeology</a>, <a href="http://www.openpompei.it/tag/auditorium-pompei/" rel="tag">Auditorium Pompei</a>, <a href="http://www.openpompei.it/tag/mapillary-it/" rel="tag">Mapillary</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/open-pompei/" rel="tag">Open Pompei</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/scriptorivm/" rel="tag">Scriptorivm</a> il <a href="http://www.openpompei.it/2015/06/24/lo-scriptorivm-a-parole-vostre/" title="18:00" rel="bookmark"><time class="entry-date" datetime="2015-06-24T18:00:52+00:00">24 giugno 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/cristina/" title="Visualizza tutti gli articoli di Criscia" rel="author">Criscia</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1668" class="post-1668 post type-post status-publish format-standard hentry category-civic-hacking-2 category-open-and-wikiarchaeology category-opendata-open-and-wikiarcheology tag-auditorium-pompei tag-hackathon-it tag-open-data tag-pompeii tag-scriptorivm tag-wepompei">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/" rel="bookmark">SCRIPTORIVM: ultimi posti per i guerrieri digitali</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/#respond" title="Commenti a SCRIPTORIVM: ultimi posti per i guerrieri digitali"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify;"><a href="http://www.openpompei.it/scriptorivm/index_ita.html" target="_blank"><img class="aligncenter  wp-image-1670" src="http://www.openpompei.it/wp-content/uploads/2015/06/SCRIPTORIVM.png" alt="SCRIPTORIVM" width="593" height="263" /></a></p>
+<p style="text-align: justify;">Siamo vicini! Mancano <strong>10 giorni allo SCRIPTORIVM</strong> e ancora pochi posti per gli ultimi guerrieri digitali che si <a href="http://www.openpompei.it/2015/05/15/50-3/" target="_blank">uniranno alla battaglia<br />
+</a>4 gli impegni da affrontare!</p>
+<p><strong>I &#8211; Archeologica Academia</strong><br />
+<strong>II &#8211; Imagines Pompeiorum viarum</strong><br />
+<strong>III &#8211; Pompeiorum libera tabula</strong><br />
+<strong>IV &#8211; Ad faciendum certiores hospites</strong></p>
+<p><strong><a href="https://www.eventbrite.it/e/scriptorivm-tickets-16939255770" target="_blank">Qui per iscriversi</a> </strong></p>
+<p>Nelle prossime ore, a tutti gli iscritti, manderemo in mail alcune indicazioni utili per ciascuna traccia, in modo da arrivare quanto più possibile pronti e combattivi!</p>
+<h3 style="text-align: justify;">E intanto&#8230; ecco a voi il <em><strong><a href="http://www.openpompei.it/wp-content/uploads/2015/06/SCRIPTORIVM_Programma.pdf" target="_blank">PROGRAMMA DELLO SCRIPTORIVM</a></strong></em></h3>
+<p>&nbsp;</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='SCRIPTORIVM: ultimi posti per i guerrieri digitali' st_url='http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='SCRIPTORIVM: ultimi posti per i guerrieri digitali' st_url='http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/'></span><span class='st_plusone_hcount' st_title='SCRIPTORIVM: ultimi posti per i guerrieri digitali' st_url='http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/'></span><span class='st_linkedin_hcount' st_title='SCRIPTORIVM: ultimi posti per i guerrieri digitali' st_url='http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/'></span><span class='st_email_hcount' st_title='SCRIPTORIVM: ultimi posti per i guerrieri digitali' st_url='http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/civic-hacking-2/" rel="category tag">Civic hacking</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/" rel="category tag">OpenData</a> e taggato come <a href="http://www.openpompei.it/tag/auditorium-pompei/" rel="tag">Auditorium Pompei</a>, <a href="http://www.openpompei.it/tag/hackathon-it/" rel="tag">hackathon</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/pompeii/" rel="tag">Pompeii</a>, <a href="http://www.openpompei.it/tag/scriptorivm/" rel="tag">Scriptorivm</a>, <a href="http://www.openpompei.it/tag/wepompei/" rel="tag">wepompei</a> il <a href="http://www.openpompei.it/2015/06/09/scriptorivm-ultimi-posti-per-i-guerrieri-digitali/" title="16:30" rel="bookmark"><time class="entry-date" datetime="2015-06-09T16:30:06+00:00">9 giugno 2015</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/cristina/" title="Visualizza tutti gli articoli di Criscia" rel="author">Criscia</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+		<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Navigazione articolo</h3>
+			<div class="nav-previous"><a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/page/2/" ><span class="meta-nav">&larr;</span> Articoli più vecchi</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-below .navigation -->
+	
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

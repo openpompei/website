@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Mappa Project | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Comments Feed" href="http://www.openpompei.it/en/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Mappa Project Tag Feed" href="http://www.openpompei.it/tag/mappa-project/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.11" />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="archive tag tag-mappa-project tag-318 custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/en/">Home</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<section id="primary" class="site-content">
+		<div id="content" role="main">
+
+					<header class="archive-header">
+				<h1 class="archive-title">Tag Archives: <span>Mappa Project</span></h1>
+
+						</header><!-- .archive-header -->
+
+			
+	<article id="post-1551" class="post-1551 post type-post status-publish format-standard hentry category-in-viaggio tag-archaeology-en tag-mappa-project tag-open-data-en tag-openpompei tag-scriptorivm-en">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.openpompei.it/2015/04/07/periculum-in-mora-2/" rel="bookmark">Periculum in mora</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2015/04/07/periculum-in-mora-2/#respond" title="Comment on Periculum in mora"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify;"><a href="http://www.openpompei.it/wp-content/uploads/2015/03/SCRIPTORIVM1.jpg"><img class="aligncenter  wp-image-1539" src="http://www.openpompei.it/wp-content/uploads/2015/03/SCRIPTORIVM1.jpg" alt="SCRIPTORIVM" width="544" height="147" /></a></p>
+<p style="text-align: justify;"><em>(Tito Livio, Ab urbe condita; XXXVIII, 25)</em></p>
+<p style="text-align: justify;"><strong>Towards SCRIPTORIVM: OpenPompei at CAA2015 (II part)</strong></p>
+<p style="text-align: justify;"><a href="http://www.openpompei.it/2015/03/30/similes-cum-similibus-facillime-congregantur-3/">As we have already told you</a>, OpenPompei has taken part in the<a href="http://caa-international.org/about/"> Computer Applications and Quantitative Methods in Archaeology</a> (CAA) Annual Conference and, as desired, we met many “open archaeologists” to involve in SCRIPTORIVM. But especially we took part in the presentation of MODA, the Italian Manifesto of Archaeological Open Data. We want to support the rising archaeological community interested in opening and sharing data beyond our project’ end. We believe that OpenPompei is like an enzyma that can accelerate the building of a new management of Cultural Heritage based (also) on Open Data. So, as the name of the CAA Annual Conference recited, “keep the revolution going”! The Manifesto could be the first step in this direction!</p>
+<p style="text-align: justify;"><em><b>#epicfail? Has Open Source in Archeology failed?</b></em></p>
+<p style="text-align: justify;">This is the provocative title of <a href="http://www.mappaproject.org/">Mappa Project</a> speech in <a href="http://www.archeofoss.org/2015/03/archeofoss-2015-il-programma/">ArcheFOSS session</a>, in which it tries to answer this question: why in the last years the impact of Open Source in Archaeology has been so limited?</p>
+<p style="text-align: justify;"><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/46639963" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div style="margin-bottom: 5px;">
+<p style="text-align: justify;">Two main reasons can be identified.</p>
+<ol style="text-align: justify;">
+<li><strong>the absence of  a more theoretical approach</strong>: <em> “Open source was a computer science issue, the transposition to archaeology was not associated with a strong theoretical approach. Open Source was not able to propose new development, new forms of doing archaeology, that include new ways, and standards, of handling, processing and modeling information. (&#8230;) Open Source in archaeology goes beyond the mere application of software, in fact, it represents an area where archaeologists can focus on discussion about the nature of archaeological data, their definition, representation and manipulation.”</em></li>
+<li><strong>the absence of education and formation in Open Source skills:</strong> <em>“it’s necessary to provide future archaeologists with a level of competency both in archaeology and computer science (&#8230;). Only proper training can permit them to engage in the development of new IT tools consonant with archaeological interests, and to foster a deeper conceptual understanding of how applications work as a necessary step towards the creation of new ones.&#8221;</em></li>
+</ol>
+<p style="text-align: justify;"><b>MODA</b></p>
+<p style="text-align: justify;"><a href="http://www.modarc.org/">MODA</a> is a <b>declaration of intent</b> about the right of open access to archaeological data of entire citizenship. All archaeological remains are part of humanity&#8217;s legacy. As such, they belong to all of us, together with the information connected to.</p>
+<p style="text-align: justify;">It was born by a group of archaeologists from different backgrounds and arose from the experience of the first Open School of Archaeological Data, promoted by the MAPPA Lab of the University of Pisa in July 2014.</p>
+<p style="text-align: justify;">Everyone worked in different places, studied in different Universities, but all agreed about creating and sharing data in open format.</p>
+<p style="text-align: justify;">Another opportunity to broaden and strengthen the rising archaeological community was the STVDIVM, promoted by OpenPompei project. Educational meetings such as these, promote the birth of a community of practice, that is a network of informal communication, linking a group of archaeologists working and learning together.</p>
+<p style="text-align: justify;">Since October 29, 2014, 130 people have signed the Manifesto and also the following projects (besides OpenPompei): Wikimedia Italia, Mappa Project, <a href="http://digilab.uniroma1.it/centro/i-laboratori/openlab-cultura/laboratorio-archeoarte-3d-lab">Archeo ed Arte 3D</a> &#8211; La Sapienza.</p>
+<p style="text-align: justify;"><i>Why are Open Data so important in Archaeology?</i></p>
+<p style="text-align: justify;">Forty years of stratigraphic excavations have produced thousands, billions of data. Data-harvesting have an expansive cost. So, why do not we re-use data?</p>
+<p style="text-align: justify;">Through use and re-use of Archaeological Data, we will able to make really cost- effective our data-harvesting, optimizing production costs.</p>
+<p style="text-align: justify;">These practical considerations must be added to another one: opening and sharing Open Data generates a virtuous circle. By this one, both <b><i>scientific community</i></b> and <b><i>citizens as a whole</i></b> can benefit.</p>
+<p style="text-align: justify;">The virtuous circle of Archaeological Open Data consists of:</p>
+<ul style="text-align: justify;">
+<li><b>making </b> <b><i>data-harvesting process</i></b><b> transparent through sharing Open Data:</b></li>
+</ul>
+<p style="text-align: justify;">an archaeologist works like an antenna receiving signals from the past, decoding and then retransmitting them. The signals were reduced by the long-time and are definitively destroyed by excavations themselves. We will able to verify several times the interpretation process: sharing Open Data we can ask them new questions, generating new knowledge;</p>
+<ul style="text-align: justify;">
+<li><b>working together quickly and creatively to improve archaeology:</b></li>
+</ul>
+<p style="text-align: justify;">with the increasing availability of more data processable we will able to create new perspective for the research;</p>
+<ul style="text-align: justify;">
+<li><b>encouraging ethical behaviour:</b></li>
+</ul>
+<p style="text-align: justify;">information sharing makes everyone responsable for protecting Cultural Heritage and leading the foundations for a shared management of Cultural Heritage itself;</p>
+<ul style="text-align: justify;">
+<li><b>promoting the development of innovative services </b>saving time and costs in the management of Archaeological Heritage</li>
+</ul>
+<ul style="text-align: justify;">
+<li><b>create value and accountability for cultural institutions</b></li>
+</ul>
+<p style="text-align: justify;"><b>We believe that in this way Archaeology regain a strong social relevance as a public service</b>.</p>
+<p style="text-align: justify;"><b>An European Manifesto</b></p>
+<p style="text-align: justify;">This is an Italian pilot project, but the instance of opening and sharing the raw data could be an instance of all european archaeologists. Every country have a different situation about attitude, laws and management of archaeological information. But the goal could be the same: reinforced our research-methodology in order to enhance historical landscape preservation.</p>
+<p style="text-align: justify;"><b>SCRIPTORIVM: the next-live event!</b></p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2015/04/IMG-20150402-WA0015.jpg"><img class="wp-image-1552  aligncenter" src="http://www.openpompei.it/wp-content/uploads/2015/04/IMG-20150402-WA0015-300x225.jpg" alt="IMG-20150402-WA0015" width="332" height="249" /></a></p>
+<p style="text-align: justify;">This rising open archaeological community will meet again at SCRIPTORIVM. The participation of MODA’ members at this event is purposeful: we will go from theory to practice of ha(r)ckeology starting from a site of symbolic value as Pompeii!</p>
+<p style="text-align: justify;"><em>Keep the revolution going!</em></p>
+</div>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Periculum in mora' st_url='http://www.openpompei.it/2015/04/07/periculum-in-mora-2/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Periculum in mora' st_url='http://www.openpompei.it/2015/04/07/periculum-in-mora-2/'></span><span class='st_plusone_hcount' st_title='Periculum in mora' st_url='http://www.openpompei.it/2015/04/07/periculum-in-mora-2/'></span><span class='st_linkedin_hcount' st_title='Periculum in mora' st_url='http://www.openpompei.it/2015/04/07/periculum-in-mora-2/'></span><span class='st_email_hcount' st_title='Periculum in mora' st_url='http://www.openpompei.it/2015/04/07/periculum-in-mora-2/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.openpompei.it/category/civic-hacking-2/in-viaggio/" rel="category tag">In viaggio</a> and tagged <a href="http://www.openpompei.it/tag/archaeology-en/" rel="tag">archaeology</a>, <a href="http://www.openpompei.it/tag/mappa-project/" rel="tag">Mappa Project</a>, <a href="http://www.openpompei.it/tag/open-data-en/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/openpompei/" rel="tag">OpenPompei</a>, <a href="http://www.openpompei.it/tag/scriptorivm-en/" rel="tag">Scriptorivm</a> on <a href="http://www.openpompei.it/2015/04/07/periculum-in-mora-2/" title="15:19" rel="bookmark"><time class="entry-date" datetime="2015-04-07T15:19:01+00:00">7 April 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/en/author/paola-liliana-buttiglione/" title="View all posts by Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it no-translation"><a hreflang="it" href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en current-lang"><a hreflang="en" href="http://www.openpompei.it/tag/mappa-project/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/en/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Log in</a></li>
+			<li><a href="http://www.openpompei.it/en/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.openpompei.it/en/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

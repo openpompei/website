@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Mumex: un progetto per i musei del Mezzogiorno | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Mumex: un progetto per i musei del Mezzogiorno Feed dei commenti" href="http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Save the date: 6-7-8 Marzo 2015, STVDIVM a Pompei!' href='http://www.openpompei.it/2014/12/15/save-the-date-stvdivm-a-pompei/' />
+<link rel='next' title='OpenPompei: un anno alle spalle e l&#8217;anno nuovo davanti a noi' href='http://www.openpompei.it/2015/01/05/openpompei-un-anno-alle-spalle-e-lanno-nuovo-davanti-a-noi/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=1230' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-1230 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1230" class="post-1230 post type-post status-publish format-standard hentry category-open-and-wikiarchaeology category-opendata-open-and-wikiarcheology tag-civic-hacking tag-cultura tag-dati-aperti tag-monithon tag-open-data tag-open-government tag-territorio">
+				<header class="entry-header">
+									<h1 class="entry-title">Mumex: un progetto per i musei del Mezzogiorno</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/#respond" title="Commenti a Mumex: un progetto per i musei del Mezzogiorno"><span class="leave-reply">Lascia una risposta</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://www.openpompei.it/wp-content/uploads/2014/12/1301587592072_le_candidature_2.png"><img class="aligncenter wp-image-1232 size-large" src="http://www.openpompei.it/wp-content/uploads/2014/12/1301587592072_le_candidature_2-990x1024.png" alt="1301587592072_le_candidature_2" width="625" height="646" /></a></p>
+<p>Il patrimonio culturale ha senza dubbio un potenziale nello sviluppo e nella crescita economica dei territori, non solo per la creazione di nuovi spazi occupazionali e la valorizzazione di aree emarginate, ma anche per il miglioramento del capitale sociale innescato dalla crescita culturale delle comunità locali, dal recupero delle identità territoriali e dalla cooperazione per incentivare iniziative territoriali. Il caso del Mezzogiorno, tuttavia, dimostra che la presenza del patrimonio culturale, da solo, non è sufficiente a generare sviluppo e crescita economica: basta esaminare i <a href="http://www.enit.it/en/studies-and-research.html">dati diffusi dall’ENIT</a> (Agenzia Nazionale per il turismo) sugli arrivi internazionali per il periodo 2012-2013.</p>
+<p>L’Italia si colloca al 5° posto della classifica, ma su oltre 180 mln di visitatori stranieri, oltre il 60%  (100 mln circa) sono concentrati in sole quattro regioni: Veneto, Lombardia, Lazio e Toscana, nonostante una pari qualità e quantità del patrimonio culturale del Mezzogiorno rispetto a queste regioni. Con lo scopo di attuarne il potenziale nelle regioni dell’Obiettivo Convergenza, il MiBACT, insieme al DPS e ad Invitalia, ha avviato nel 2008 il progetto pilota <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Il_progetto/index.html"><b>Mumex</b></a><b>, Poli Museali di Eccellenza nel Mezzogiorno</b> (che dovrebbe concludersi in questo Dicembre 2014).</p>
+<p><i>Il suo obiettivo è quello di potenziare l’offerta di parte del patrimonio culturale e museale del Mezzogiorno e contribuire alla crescita economica e sociale.</i></p>
+<p>L’offerta culturale in Italia risulta generalmente poco competitiva: nessun museo italiano è nelle top ten dei musei più visitati al mondo per alcuna tipologia. Unica eccezione: i Musei Vaticani, che si trovano però all&#8217;interno della Città del Vaticano (quindi propriamente in un altro stato).</p>
+<p><span id="more-1230"></span></p>
+<p>Gli interventi finanziati per il progetto Mumex dovrebbero facilitare l’attivazione di un circuito virtuoso di “<b>tutela-conservazione-valorizzazione-sviluppo</b>”. Per la sua attuazione sono stati selezionati una serie di interventi da realizzare, ritenuti utili per migliorare lo standard qualitativo dell’offerta culturale, eventualmente replicabili in tutti i musei italiani, qualora risulteranno aver avuto un impatto positivo. Per la scelta dei Poli Museali che avrebbero partecipato al progetto pilota è stata realizzato uno <b>studio preliminare del sistema di offerta culturale</b>, utile punto di partenza per una valutazione a posteriori dell’efficacia del progetto. La maggior parte degli interventi sono stati di natura “infrastrutturale” diretti alle strutture museali o di ripristino e conservazione del patrimonio culturale (riapertura sale chiuse, adeguamento degli impianti, integrazione delle attrezzature ed impianti di accoglienza, interventi di restauro etc), quindi “più facilmente monitorabili”: pochi gli interventi di promozione e valorizzazione (rispetto ai quali i primi risultano tuttavia funzionali e complementari).</p>
+<p><b>Qualche numero sugli afflussi nei musei italiani</b></p>
+<p>Nella top ten dei musei d’Arte più visitati nel 2013, secondo i dati forniti dall&#8217;<a href="http://www.museus.gov.br/wp-content/uploads/2014/04/TheArtNewspaper2013_ranking.pdf">Art Newspaper</a> nell’Aprile 2014, come già scritto ci sono solo i Musei Vaticani. <a href="http://en.wikipedia.org/wiki/List_of_most_visited_art_museums_in_the_world">Qui</a> l’elenco completo dei primi 100 classificati: il primo museo italiano è la Galleria degli Uffizi, al venticinquesimo posto.</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Museo</strong></td>
+<td><strong>Luogo</strong></td>
+<td><strong>Numero di visitatori annui</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="http://en.wikipedia.org/wiki/Louvre">Louvre</a></td>
+<td>Parigi, Francia</td>
+<td>9,334,435</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="http://en.wikipedia.org/wiki/British_Museum">British Museum</a></td>
+<td>Londra, Regno Unito</td>
+<td>6,701,036</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art">Metropolitan Museum of Art</a></td>
+<td>New York, Stati Uniti</td>
+<td>6,226,727</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Gallery">National Gallery</a></td>
+<td>Londra, Regno Unito</td>
+<td>6,031,574</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="http://en.wikipedia.org/wiki/Vatican_Museums">Musei Vaticani</a></td>
+<td>Città del Vaticano, Roma</td>
+<td>5,978,804</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="http://en.wikipedia.org/wiki/Tate_Modern">Tate Modern</a></td>
+<td>Londra, Regno Unito</td>
+<td>4,884,939</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Palace_Museum">National Palace Museum</a></td>
+<td>Taipei, Taiwan</td>
+<td>4,500,278</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="http://en.wikipedia.org/wiki/National_Gallery_of_Art">National Gallery of Art</a></td>
+<td>Washington, D.C., Stati Uniti</td>
+<td>4,093,070</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="http://en.wikipedia.org/wiki/Mus%C3%A9e_National_d%27Art_Moderne">Musée National d&#8217;Art Moderne</a></td>
+<td>Parigi, Francia</td>
+<td>3,745,000</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="http://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay">Musée d&#8217;Orsay</a></td>
+<td>Parigi, Francia</td>
+<td>3,500,000</td>
+</tr>
+</tbody>
+</table>
+<p>Se si allarga la ricerca a tutti i musei (non solo quelli d’Arte dunque), la situazione peggiora. La figura di seguito riporta una <a href="http://www.economist.com/blogs/gulliver/2014/06/daily-chart">infografica</a> elaborata dall’Economist a partire da dati estrapolati dal report annuale 2013 <a href="http://www.aecom.com/deployedfiles/Internet/Capabilities/Economics/_documents/ThemeMuseumIndex_2013.pdf">sui numeri di visitatori in parchi tematici e musei</a> curato da <a href="http://www.aecom.com/About">AECOM</a> (Architecture, Engineering, Construction, Operations and Management) e TEA (Themed Entertainment Association). I Musei Vaticani scivolano in ottava posizione (quarta però per la classifica europea). Al primo posto ancora una volta il Louvre con i suoi oltre 9 milioni di visitatori l’anno (una curiosità:  <a href="https://www.youtube.com/watch?v=fcRgCXFxruU">Magic Kingdom</a>, il primo parco tematico costruito all&#8217;interno del Walt Disney World in Florida, raggiunge il doppio dei visitatori annui del Louvre: l’attrattività di Mickey Mouse è irraggiungibile!)</p>
+<p><a href="http://www.openpompei.it/wp-content/uploads/2014/12/AECOM-attendance-museum.png"><img class="aligncenter wp-image-1233 size-large" src="http://www.openpompei.it/wp-content/uploads/2014/12/AECOM-attendance-museum-956x1024.png" alt="AECOM attendance museum" width="625" height="669" /></a></p>
+<p><b>I Poli Museali di Eccellenza a Napoli</b></p>
+<p>Il progetto  ha selezionato 21 candidature a Polo Museale (come potete vedere nell’immagine di copertina). Per ciascuno dei Poli la cui candidatura è stata ammessa, sono stati progettati diversi interventi (<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289498538705_brochure_I_progetti.pdf">qui</a> sono descritte le prime progettazioni avviate), finanziati dal CIPE o a valere sulle risorse del <a href="http://www.poinattrattori.it/">POIn Attrattori culturali, naturali e turismo</a>, lo stesso programma operativo nell’ambito del quale è stato finanziato il Grande Progetto Pompei.</p>
+<p>Alcuni degli interventi del progetto Mumex ricadono nella stessa area vesuviana e sono -in una certa misura- correlati tra loro ed a Pompei stessa, dal momento che gli interventi andrebbero letti come integrati e finalizzati alla costruzione di un sistema attrattivo anche all’esterno dei singoli Poli Museali, attraverso la riqualificazione del contesto locale e dell’offerta culturale territoriale ed il miglioramento delle condizioni di accessibilità ai siti.</p>
+<p>Non basta restaurare il patrimonio, assicurarne la tutela, allestire i musei con tecniche innovative o incentivare la fruizione. Il caso del sito e del museo dell’area archeologica di Paestum è esemplificativo, essendo poco collegata e poco visitata, nonostante la qualità e quantità dei monumenti e dei reperti esposti. Nuovi investimenti sono stati promessi a valere sui Fondi Strutturali a titolarità Mibact 2014-2020: riqualificazione del museo e treni ad alta panoramicità (<a href="http://www.ansa.it/sito/notizie/cultura/2014/10/31/-treni-a-alta-panoramicita-e-servizi-franceschini-punta-su-paestum_9a3df6b1-64ee-44d7-b39b-90e8b7d90599.html">qui</a> un’articolo sulle dichiarazioni del ministro D. Franceschini rilasciate a Napoli in apertura del <a href="http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1414487485174_ETF_-_PROGRAMMA_FINALE_IT.pdf">Forum Europeo del Turismo</a> dello scorso Ottobre)</p>
+<p>Quattro tra i progetti finanziati nell’ambito del Mumex sono relativi a Poli Museali della città di Napoli.</p>
+<p>Uno è relativo al MANN (Museo Archeologico Nazionale di Napoli), che accoglie -tra l’altro-  <a href="http://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Napoli#Collezioni_pompeiane">collezioni</a> provenienti da Ercolano, Pompei e Stabia.</p>
+<p>Nella <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Napoli/index.html">scheda sul MANN</a> sul sito del Mumex si esplicitano gli obiettivi generali delle progettazioni che sono state avviate:</p>
+<p><i>I principali interventi progettati per il MANN riguardano opere di natura strutturale e di valorizzazione degli spazi espositivi e tendono ad esaltare l’eccezionalità del patrimonio archeologico oltre che a recuperare la funzionalità della struttura.</i></p>
+<p>Di seguito le tre schede di OpenCoesione relative agli interventi progettati:</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/1ca9c122007it161po009/">ristrutturazione braccio nuovo</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/1misecampania6/">realizzazione impianto ventilazione, elettrico, videosorveglianza, sonoro + riallestimento collezione egizia e completamento collezione epigrafica</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/1miser-campania-na1/">adeguamento rete impiantistica etc..</a></li>
+</ul>
+<p>Le altre tre candidature “napoletane” a Poli Museali di Eccellenza sono:</p>
+<ul>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Citta_di_Napoli/index.html">Napoli, Capodimonte</a></li>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Il_Cuore_di_Napoli/index.html">Cuore di Napoli</a></li>
+<li><a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Palazzo_Reale_di_Napoli/index.html">Napoli, Palazzo Reale</a></li>
+</ul>
+<p>Per quanto riguarda Napoli Capodimonte, leggendo la <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/Area_di_lavoro/I_Poli/Citta_di_Napoli/index.html">scheda relativa</a> sul sito Mumex e facendo una ricerca su OpenCoesione, si trovano una serie di progettazioni coerenti con gli obiettivi esplicitati: (&#8230;) <i>la definitiva apertura del Museo anche nelle ore pomeridiane e serali, la necessità di valorizzare le aree dei giardini verso il belvedere orientale e quello meridionale (luogo di esclusive letture del paesaggio urbano e dell&#8217;intero Golfo di Napoli), la possibile integrazione con la più ampia area del parco monumentale attribuiscono alle opere un significativo valore strategico</i>.</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/bc_00002/">reggia di Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00380/">complesso demaniale parco di Capodimonte &#8211; ristrutturazione palazzine denominate Cataneo</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00375/">complesso demaniale palazzotto borbonico Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00373/">museo CITES Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00346/">stazione CC Capodimonte</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00381/">complesso demaniale parco di Capodimonte &#8211; ristrutturazione palazzine denominate dei Principi</a></li>
+</ul>
+<p>In ogni caso andrebbe verificata la pertinenza al progetto Mumex:</p>
+<p>Per quanto riguarda Cuore di Napoli e Palazzo Reale, alcuni progetti relativi rintracciati sul portale OpenCoesione sono:</p>
+<ul>
+<li><a href="http://www.opencoesione.gov.it/progetti/pmom_00020/">Santa Chiara</a></li>
+<li><a href="http://www.opencoesione.gov.it/progetti/bc_00001/">Palazzo Reale</a></li>
+</ul>
+<p><b>Mumex ha migliorato l’offerta culturale nel Mezzogiorno? I risultati dello studio preliminare di offerta culturale</b></p>
+<p>La valutazione ex ante ha prodotto nel 2010 una <b>analisi della competitività dell’offerta museale del Mezzogiorno e benchmark per la valutazione delle 21 candidature a Polo Museale di eccellenza</b>, i cui risultati sono liberamente consultabili e scaricabili <a href="http://www.mumex.it/opencms/opencms/MenuPrincipale/I_risultati/Analisi_di_scenario/index.html">qui</a>.</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289498131466_Analisi_di_scenario_e_delle_tipologie_museali_volume_I.pdf">analisi di scenario e delle tipologie museali</a> rileva che il patrimonio culturale del Mezzogiorno concentra al suo interno quasi la metà di tutto il patrimonio archeologico. In Italia, e nel Mezzogiorno in particolare, l&#8217;offerta museale è arricchita dalla possibilità di apprezzare anche il territorio in cui sono nati i beni culturali esposti. Si tratta di un rapporto di immediatezza fisica: uscendo dai tanti musei archeologici è quasi sempre visitabile, a poca distanza o addirittura intorno al museo, il sito archeologico da cui i reperti esposti nel museo provengono. Questo è un vantaggio competitivo proprio di pochi paesi al mondo e certamente non replicabile.</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1289810974100_Analisi_di_benchmarking_VOLUME_2.pdf">analisi di benchmarking</a> ha permesso di individuare gli scostamenti tra l&#8217;offerta dei musei nel Mezzogiorno e quella di alcuni importanti musei di paragone italiani ed esteri, individuando infine alcune buone pratiche adottate con riferimento a funzioni  ritenute strategiche ai fini di una loro eventuale replicabilità per i musei del Mezzogiorno (servizi di accoglienza, didattica, edutainment, mostre ed esposizioni, marketing e comunicazione, formazione del personale, fundraising e modelli di gestione).</p>
+<p>L’<a href="http://www.mumex.it/opencms/export/sites/mumex/Multimedia/1291978169788_Allegati.pdf">analisi di benchmark sulla <b>comunicazione museale</b></a> si articola in otto schede compilate per ciascuno dei poli museali candidati:</p>
+<ol>
+<li>anagrafica</li>
+<li>sito</li>
+<li>elementi di museografia e museologia</li>
+<li>analisi e studio degli elementi che contribuiscono alla comunicazione museale</li>
+<li>servizi per l’utenza</li>
+<li>rapporti con il territorio e con le comunità che vi risiedono</li>
+<li>elementi di mito</li>
+<li>analisi della domanda</li>
+</ol>
+<p>Sarebbe interessante provare a aggiornare i dati qui forniti a quasi un lustro di distanza per capire se ci sono dei miglioramenti misurabili nei vari parametri utilizzati nelle 8 schede ed altri spunti interessanti potrebbero giungere dall&#8217;incrocio con altri dati.</p>
+<p>Relativamente alla scheda 4, ad esempio, sarebbe interessante rapportare quei dati a quanto riportato da <a href="http://www.museum-analytics.org/">Museum Analytics, </a>piattaforma web creata dal collettivo tedesco INTK che rielabora i dati statistici raccolti a livello globale dal Walker Art Center di Minneapolis, che da tempo ha avviato un sistema di censimento delle attività di promozione e comunicazione dei diversi musei.</p>
+<p>Museums Analytics stila sulla presenza on-line delle principali collezioni pubbliche e private al mondo. Valutando il traffico dei rispettivi siti web, monitorando soprattutto la vitalità dei vari profili sui social network (<a href="http://www.museum-analytics.org/facebook/">Facebook</a>, <a href="http://www.museum-analytics.org/twitter/">Twitter</a>) Nella <a href="http://www.museum-analytics.org/museums/">top 100</a> il primo museo italiano che si incontra dopo moltissime posizioni è il MAXXI (Museo Nazionale delle Arti del XXI secolo).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Mumex: un progetto per i musei del Mezzogiorno' st_url='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Mumex: un progetto per i musei del Mezzogiorno' st_url='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/'></span><span class='st_plusone_hcount' st_title='Mumex: un progetto per i musei del Mezzogiorno' st_url='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/'></span><span class='st_linkedin_hcount' st_title='Mumex: un progetto per i musei del Mezzogiorno' st_url='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/'></span><span class='st_email_hcount' st_title='Mumex: un progetto per i musei del Mezzogiorno' st_url='http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/" rel="category tag">Open and WikiArchaeology</a>, <a href="http://www.openpompei.it/category/open-and-wikiarchaeology/opendata-open-and-wikiarcheology/" rel="category tag">OpenData</a> e taggato come <a href="http://www.openpompei.it/tag/civic-hacking/" rel="tag">civic hacking</a>, <a href="http://www.openpompei.it/tag/cultura/" rel="tag">cultura</a>, <a href="http://www.openpompei.it/tag/dati-aperti/" rel="tag">dati aperti</a>, <a href="http://www.openpompei.it/tag/monithon/" rel="tag">Monithon</a>, <a href="http://www.openpompei.it/tag/open-data/" rel="tag">open data</a>, <a href="http://www.openpompei.it/tag/open-government/" rel="tag">open government</a>, <a href="http://www.openpompei.it/tag/territorio/" rel="tag">territorio</a> il <a href="http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/" title="15:57" rel="bookmark"><time class="entry-date" datetime="2014-12-22T15:57:38+00:00">22 dicembre 2014</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/paola-liliana-buttiglione/" title="Visualizza tutti gli articoli di Paola Liliana Buttiglione" rel="author">Paola Liliana Buttiglione</a></span></span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2014/12/15/save-the-date-stvdivm-a-pompei/" rel="prev"><span class="meta-nav">&larr;</span> Save the date: 6-7-8 Marzo 2015, STVDIVM a Pompei!</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2015/01/05/openpompei-un-anno-alle-spalle-e-lanno-nuovo-davanti-a-noi/" rel="next">OpenPompei: un anno alle spalle e l&#8217;anno nuovo davanti a noi <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Lascia un Commento <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/#respond" style="display:none;">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='1230' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7056a17c3c" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="121"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2014/12/22/mumex-un-progetto-per-i-musei-del-mezzogiorno/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

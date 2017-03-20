@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Collaboriamo? | OpenPompei</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.openpompei.it/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.openpompei.it/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style><link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed" href="http://www.openpompei.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Feed dei commenti" href="http://www.openpompei.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OpenPompei &raquo; Collaboriamo? Feed dei commenti" href="http://www.openpompei.it/2013/09/30/collaboriamo/feed/" />
+<link rel='stylesheet' id='meet-my-team-plugin-styles-css'  href='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/css/public.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/style.css?ver=4.0.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.openpompei.it/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.openpompei.it/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/meet-my-team/public/assets/js/public.min.js?ver=1.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.openpompei.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.openpompei.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Un nuovo passato' href='http://www.openpompei.it/2013/07/24/nuovopassato/' />
+<link rel='next' title='lo sviluppo come rottura, la rottura come informazione' href='http://www.openpompei.it/2013/10/07/lo-sviluppo-come-rottura-la-rottura-come-informazione/' />
+<meta name="generator" content="WordPress 4.0.11" />
+<link rel='canonical' href='http://www.openpompei.it/2013/09/30/collaboriamo/' />
+<link rel='shortlink' href='http://www.openpompei.it/?p=216' />
+<meta name='robots' content='noindex,follow' />
+<style>.entry-content h4, .comment-content h4 {
+    font-size: 1.2rem;
+    line-height: 1.84615;
+  	margin: 1.3em 0 .3em 0 !important;
+}
+
+.entry-content h6, .comment-content h6 {
+    font-size: 0.967143rem;
+    line-height: 1.84615;
+  	color:#757575;
+    margin-bottom:2.3em !important;
+}
+
+.entry-content h1, .comment-content h1, 
+.entry-content h2, .comment-content h2, 
+.entry-content h3, .comment-content h3, 
+.entry-content h4, .comment-content h4, 
+.entry-content h5, .comment-content h5, 
+.entry-content h6, .comment-content h6 {
+    line-height: 1.71429;
+    margin: 0 0;
+}
+
+.mmt_bio_picture img{
+    box-shadow: none;
+    padding-bottom: 20px;
+    width: 250px;
+  	float:right;
+}
+
+.social-container{
+	width:70%;
+	border-top: 3px dotted rgba(61,56,55,.2);
+	border-bottom:3px dotted rgba(61,56,55,.2);
+	padding:.7em 0;
+	margin:0 auto;
+	text-align:center;
+    margin-top:4em;
+}
+
+.social-container ul, .social-container li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.social-container li{
+	display:inline;
+}
+
+.social-container li a{
+	padding:0 1em;
+	display:inline-block;	
+}
+
+.entry-content .social-container img {
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.social-widget{
+	text-align:center;	
+}
+
+.social-widget a{
+	padding:0 .3em;
+    text-decoration:none;
+}
+
+.social-widget img{
+	box-shadow:none;	
+}
+
+.archive-title{
+ display:none; 
+}
+/*
+img.header-image{
+  height:200px;
+}*/</style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4275556-8']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"81706f51-eadf-4c5c-a1f3-bd2b5557cf57","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress3.9.1";</script>
+	<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d4e2f7; }
+</style>
+</head>
+
+<body class="single single-post postid-216 single-format-standard custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+
+		
+
+				<a href="http://www.openpompei.it/"><img src="http://www.openpompei.it/wp-content/uploads/2015/01/cropped-cropped-header_open_pompei2.jpg" class="header-image" width="960" height="185" alt="" /></a>
+		
+<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Vai al contenuto">Vai al contenuto</a>
+			<div class="nav-menu"><ul><li ><a href="http://www.openpompei.it/">Home</a></li><li class="page_item page-item-284"><a href="http://www.openpompei.it/openpompeiani/">Team</a></li><li class="page_item page-item-42"><a href="http://www.openpompei.it/contatti/">Contatti</a></li><li class="page_item page-item-26"><a href="http://www.openpompei.it/blog/">Blog</a></li><li class="page_item page-item-7 page_item_has_children"><a href="http://www.openpompei.it/cose/">Cos&#8217;è</a><ul class='children'><li class="page_item page-item-1188"><a href="http://www.openpompei.it/cose/openpompei/">Il Progetto OpenPompei</a></li></ul></li></ul></div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-216" class="post-216 post type-post status-publish format-standard hentry category-il-progetto-e-le-sue-fasi">
+				<header class="entry-header">
+									<h1 class="entry-title">Collaboriamo?</h1>
+										<div class="comments-link">
+					<a href="http://www.openpompei.it/2013/09/30/collaboriamo/#comments" title="Commenti a Collaboriamo?">4 Repliche</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p dir="ltr">OpenPompei, pare, comincia a entrare in diversi radar. Il risultato è che stiamo ricevendo e ipotizzando diverse offerte e possibilità di collaborazione, tutte interessanti. Questo è un elenco di quelle che siamo tentati di accettare o sulle quali stiamo lavorando, perché sono in piena sintonia con la nostra missione di promuovere la cultura della trasparenza e quella che noi chiamiamo “economia hacker” nel Mezzogiorno. Voi che ne pensate? Facciamo bene?</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.monithon.it/">Monithon</a>, un’iniziativa indipendente di monitoraggio civico dei progetti finanziati dalle politiche europee, ha recentemente realizzato una mappatura sperimentale dei progetti relativi ai beni confiscati sul territorio della Calabria. Con l’amico Luigi Reggi, fondatore di Monithon, stiamo pensando di realizzare la medesima attività sul territorio campano.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="http://www.opencoesione.gov.it/a-scuola-di-opencoesione/">A scuola di Open Coesione</a>. Si tratta di un progetto di monitoraggio civico destinato agli studenti delle superiori: i ragazzi imparano cosa sono gli open data navigando sulla piattaforma, come si usano i dati in generale (data skills), e cosa si puo fare di essi (data journalism). Il progetto è finanziato dal Dipartimento Politiche di Sviluppo, ma serve un piccolo finanziamento (400-1000 euro a scuola, ci assicurano) per coprire i costi di apertura delle scuole che vi partecipano. Il ruolo di OpenPompei potrebbe essere di fare una piccola call per un numero limitato di scuole (magari due, una a Pompei e una nel resto del Mezzogiorno) e fornire questo cofinanziamento (in cambio del fatto che poi i ragazzi lavorino sui dati relativi a quel territorio!).</p>
+</li>
+<li dir="ltr"><a href="http://www.progettokublai.net/">Kublai</a> è un ambiente collaborativo e di progettazione online per i creativi che hanno un&#8217;idea e bisogno di aiuto per svilupparla. E’ un progetto sperimentale nato nel 2008 e promosso dal Dipartimento per lo Sviluppo e la Coesione Economica del Ministero dello Sviluppo Economico. Da cinque anni, ogni anno, Kublai organizza dei Kublai Awards, nei quali vengono premiati i migliori progetti di innovazione sociale e territoriale che partecipano della rete collaborativa, e non solo. L’incontro con l’attività di scouting di progetti di innovazione sul territorio campano promossa da OpenPompei li ha spinti ad avanzare una proposta di collaborazione per l’organizzazione della seconda edizione del Kublai Awards 2013 a Pompei, da realizzarsi entro la fine dell’anno.</li>
+</ul>
+<p class="no-break"><span class='st_facebook_hcount' st_title='Collaboriamo?' st_url='http://www.openpompei.it/2013/09/30/collaboriamo/'></span><span st_via='OpenPompei' st_username='OpenPompei' class='st_twitter_hcount' st_title='Collaboriamo?' st_url='http://www.openpompei.it/2013/09/30/collaboriamo/'></span><span class='st_plusone_hcount' st_title='Collaboriamo?' st_url='http://www.openpompei.it/2013/09/30/collaboriamo/'></span><span class='st_linkedin_hcount' st_title='Collaboriamo?' st_url='http://www.openpompei.it/2013/09/30/collaboriamo/'></span><span class='st_email_hcount' st_title='Collaboriamo?' st_url='http://www.openpompei.it/2013/09/30/collaboriamo/'></span></p>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Questo articolo è stato pubblicato in <a href="http://www.openpompei.it/category/il-progetto-e-le-sue-fasi/" rel="category tag">Il progetto e le sue fasi</a> il <a href="http://www.openpompei.it/2013/09/30/collaboriamo/" title="12:47" rel="bookmark"><time class="entry-date" datetime="2013-09-30T12:47:28+00:00">30 settembre 2013</time></a><span class="by-author"> da <span class="author vcard"><a class="url fn n" href="http://www.openpompei.it/author/alessia/" title="Visualizza tutti gli articoli di Alessia Zabatino" rel="author">Alessia Zabatino</a></span></span>.										<div class="author-info">
+					<div class="author-avatar">
+						<img alt='' src='http://1.gravatar.com/avatar/50fd53f0af53eebd33e15c7131f58138?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' />					</div><!-- .author-avatar -->
+					<div class="author-description">
+						<h2>Informazioni su Alessia Zabatino</h2>
+						<p>economista dell'arte, dottoranda in pianificazione urbana, attivista. Per OpenPompei mi occupo dell'animazione territoriale via web e sul campo</p>
+						<div class="author-link">
+							<a href="http://www.openpompei.it/author/alessia/" rel="author">
+								Visualizza tutti gli articoli di Alessia Zabatino <span class="meta-nav">&rarr;</span>							</a>
+						</div><!-- .author-link	-->
+					</div><!-- .author-description -->
+				</div><!-- .author-info -->
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Navigazione articolo</h3>
+					<span class="nav-previous"><a href="http://www.openpompei.it/2013/07/24/nuovopassato/" rel="prev"><span class="meta-nav">&larr;</span> Un nuovo passato</a></span>
+					<span class="nav-next"><a href="http://www.openpompei.it/2013/10/07/lo-sviluppo-come-rottura-la-rottura-come-informazione/" rel="next">lo sviluppo come rottura, la rottura come informazione <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			4 pensieri su &ldquo;<span>Collaboriamo?</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-114">
+		<article id="comment-114" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/a4ea485a08acfd9519a9b1e518cf18d6?s=44&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://www.dariosalvelli.com' rel='external nofollow' class='url'>Dario Salvelli</a></b> </cite><a href="http://www.openpompei.it/2013/09/30/collaboriamo/#comment-114"><time datetime="2013-09-30T13:46:39+00:00">30 settembre 2013 alle 13:46</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Fate benissimo, Kublai è un ottimo progetto. Per l&#8217;altra scuola di Open Coesione posso provvedere su Caserta se volete e restiamo in Campania per ammortizzare i costi, magari sui dati i ragazzi potrebbero realizzare un contributo come questo <a href="https://www.youtube.com/watch?v=goisdAUp2uU" rel="nofollow">https://www.youtube.com/watch?v=goisdAUp2uU</a></p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/09/30/collaboriamo/?replytocom=114#respond' onclick='return addComment.moveForm("comment-114", "114", "respond", "216")'>Replica</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	<ol class="children">
+	<li class="comment byuser comment-author-alessia bypostauthor odd alt depth-2" id="li-comment-115">
+		<article id="comment-115" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/50fd53f0af53eebd33e15c7131f58138?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn">Alessia Zabatino</b> <span>Autore articolo</span></cite><a href="http://www.openpompei.it/2013/09/30/collaboriamo/#comment-115"><time datetime="2013-09-30T16:57:11+00:00">30 settembre 2013 alle 16:57</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>vai Dario!</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/09/30/collaboriamo/?replytocom=115#respond' onclick='return addComment.moveForm("comment-115", "115", "respond", "216")'>Replica</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="pingback even thread-odd thread-alt depth-1" id="comment-117">
+		<p>Pingback: <a href='http://www.openpompei.it/2013/10/07/lo-sviluppo-come-rottura-la-rottura-come-informazione/' rel='external nofollow' class='url'>lo sviluppo come rottura, la rottura come informazione | OpenPompei</a> </p>
+	</li><!-- #comment-## -->
+	<li class="pingback odd alt thread-even depth-1" id="comment-126">
+		<p>Pingback: <a href='http://www.openpompei.it/2013/12/23/dalla-ricerca-allazione-come-iniziera-il-2014-di-openpompei/' rel='external nofollow' class='url'>Dalla ricerca all&#8217;azione. Come inizierà il 2014 di OpenPompei | OpenPompei</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Rispondi a <a href="#comment-114">Dario Salvelli</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/09/30/collaboriamo/#respond">Annulla risposta</a></small></h3>
+									<form action="http://www.openpompei.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">L'indirizzo email non verrà pubblicato. I campi obbligatori sono contrassegnati <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nome <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sito web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Commento</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">&Egrave; possibile utilizzare questi tag ed attributi <abbr title="eXtensible HyperText Markup Language">XHTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Commento all&#039;articolo" />
+							<input type='hidden' name='comment_post_ID' value='216' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='114' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="21b2534820" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="160"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="polylang-2" class="widget widget_polylang"><ul>
+	<li class="lang-item lang-item-136 lang-item-it current-lang"><a hreflang="it" href="http://www.openpompei.it/2013/09/30/collaboriamo/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/it_IT.png" title="Italiano" alt="Italiano" />&nbsp;Italiano</a></li>
+	<li class="lang-item lang-item-133 lang-item-en no-translation"><a hreflang="en" href="http://www.openpompei.it/en/"><img src="http://www.openpompei.it/wp-content/plugins/polylang/flags/en_US.png" title="English" alt="English" />&nbsp;English</a></li>
+</ul>
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center" class="social-widget">
+<a href="http://www.openpompei.it/scriptorivm/">
+<img src="http://aborruso.github.io/blackboard/scriptorivm/img/scriptorivm_widget_data.png" border="0" title="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" alt="In altre parole lo SCRIPTORIVM si terr&agrave; a Pompeii il 19 e il 20 Giugno 2015" >
+</a>
+</div>
+<br>
+<div class="social-widget">
+<p>Segui OpenPompei!</p>
+
+<div>
+<a href="https://www.facebook.com/OpenPompei" title="Follow OpenPompei on Facebook">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-facebook.png" width="42" height="42" alt="Follow OpenPompei on Facebook">
+</a>
+
+<a href="https://twitter.com/OpenPompei" title="Follow OpenPompei on Twitter">
+<img src="http://www.openpompei.it/wp-content/uploads/2014/06/icon-twitter.png" width="42" height="42" alt="Follow OpenPompei on Twitter">
+</a>
+</div>
+
+</div></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.openpompei.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://www.openpompei.it/wp-content/uploads/2014/11/cc-by-nc.png" /></a><br />I contenuti di OpenPompei sono distribuiti con <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/it/">licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia</a>.</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.openpompei.it/wp-login.php">Accedi</a></li>
+			<li><a href="http://www.openpompei.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli Articoli</a></li>
+			<li><a href="http://www.openpompei.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+<li><a href="https://wordpress.org/" title="Funziona con Wordpress.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	    </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+<p><i>Progetto "Open Pompei" – finanziato a valere sul PON Governance e Assistenza Tecnica 2007-2013 – Obiettivo Operativo 1.4: Azioni "mirate" per il sostegno e lo sviluppo di capacità della Pubblica Amministrazione nell'attuazione di interventi della politica di coesione territoriale – CUP: G61I12000360006</i></p><br>
+
+        <div class="site-info">
+                        <a href="http://wordpress.org/" title="Piattaforma semantica di editoria personale ">Utilizza WordPress</a>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/plugins/akismet/_inc/form.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-includes/js/comment-reply.min.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://www.openpompei.it/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>
